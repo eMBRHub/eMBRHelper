@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>eMBR_helper enzyme microbe query</title>   
+</head>
+<body>
+<img border="0" src="logo.jpg" />
+<h2>MICROBE INFO:</h1>
+<p>Please input enzyme and microorganism information.</p>
+<small>(To query entire database for any one term use 'ALL' in the corresponding field).</small>
+<br>
+<br>
+<form action="../cgi-bin/microbedata.pl" method="get">
+
+	<p>
+	Enzyme:<input type="text" name="EnzymeName" size="30" value="Enzyme Name"/>
+	Microorganism:<input type="text" name="Microorganism" size "30" value= "Microorganisms(ALL)">
+		<input type="submit" value="Submit Query" />
+		<input type="reset" value="Reset" />
+	</p>
+</form>
+</body>
+</html>
