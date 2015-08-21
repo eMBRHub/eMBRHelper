@@ -1,0 +1,2150 @@
+r1182	(-)-(1R,2S,5R)-Menthol	menthol dehydrogenase	(-)-(2S,5R)-Menthone
+r1183	(-)-(2S,5R)-Menthone	menthone dehydrogenase	(5R)-Menth-2-enone
+r1043	(+)-(3S,4R)-cis-3,4-Dihydroxy-3,4-dihydrofluorene	3,4-dihydroxy-3,4-dihydrofluorene dehydrogenase	3,4-Dihydroxyfluorene
+r0733	(+)-(4R)-Limonene	limonene 1,2-monooxygenase	(4R)-Limonene-1,2-epoxide
+r0426	(+)-Camphor	camphor 5-monooxygenase	5-exo-Hydroxycamphor
+R04151	(+)-cis-3,4-Dihydrophenanthrene-3,4-diol 	cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase	Phenanthrene-3,4-diol
+r0921	(1-Methylpentyl)succinate	succinyl-CoA transferase	(1-Methylpentyl)succinyl-CoA
+r0922	(1-Methylpentyl)succinyl-CoA	methylmalonyl-CoA mutase	(2-Methylhexyl)malonyl-CoA
+R07006	(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene	No Kegg enzyme supplied	(1R)-N-Acetyl-L-cysteinyl-(2R)-hydroxy-1,2-dihydronaphthalene
+R07007	(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene	No Kegg enzyme supplied	(1R,2R)-3-[(1,2-Dihydro-2-hydroxy-1-naphthalenyl)thio]-2-oxopropanoic acid
+R07005	(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene	No Kegg enzyme supplied	(1R)-Hydroxy-(2R)-N-acetyl-L-cysteinyl-1,2-dihydronaphthalene
+R07009	(1R,2S)-Naphthalene 1,2-oxide	No Kegg enzyme supplied	1-Naphthol
+R07011	(1R,2S)-Naphthalene 1,2-oxide	No Kegg enzyme supplied	2-Naphthol
+R07002	(1R,2S)-Naphthalene 1,2-oxide 	glutathione transferase	(1R)-Hydroxy-(2R)-glutathionyl-1,2-dihydronaphthalene
+R07013	(1R,2S)-Naphthalene 1,2-oxide 	microsomal epoxide hydrolase	1,2-Dihydronaphthalene-1,2-diol
+R07008	(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene	No Kegg enzyme supplied	(1S)-Hydroxy-(2S)-N-acetyl-L-cysteinyl-1,2-dihydronaphthalene
+R07010	(1S,2R)-Naphthalene 1,2-oxide	No Kegg enzyme supplied	1-Naphthol
+R07012	(1S,2R)-Naphthalene 1,2-oxide	No Kegg enzyme supplied	2-Naphthol
+R07003	(1S,2R)-Naphthalene 1,2-oxide 	glutathione transferase	(1R)-Glutathionyl-(2R)-hydroxy-1,2-dihydronaphthalene
+R07004	(1S,2R)-Naphthalene 1,2-oxide 	glutathione transferase	(1S)-Hydroxy-(2S)-glutathionyl-1,2-dihydronaphthalene
+R07014	(1S,2R)-Naphthalene 1,2-oxide 	microsomal epoxide hydrolase	1,2-Dihydronaphthalene-1,2-diol
+r0735	(1S,2S,4R)-Limonene-1,2-diol	limonene-1,2-diol dehydrogenase	(1S,4R)-1-Hydroxy-2-oxolimonene
+r0736	(1S,4R)-1-Hydroxy-2-oxolimonene	1-hydroxy-2-oxolimonene 1,2-monooxygenase	(3R)-3-Isopropenyl-6-oxoheptanoate
+r1304	(2E)-5-Methylhexa-2,4-dienoyl-CoA	enoyl-CoA hydratase	3-Hydroxy-5-methylhex-4-enoyl-CoA
+r1281	(2E,4E)-2-Hydroxyhexa-2,4-dienoate	2-hydroxyhexa-2,4-dienoate hydratase	4-Hydroxy-2-oxohexanoate
+r0259	(2E,4Z)-2-Hydroxy-6-oxoocta-2,4,7-trienoate	2-hydroxymuconate semialdehyde hydrolase	Acrylate
+r0259	(2E,4Z)-2-Hydroxy-6-oxoocta-2,4,7-trienoate	2-hydroxymuconate semialdehyde hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r0923	(2-Methylhexyl)malonyl-CoA	methylmalonyl-CoA carboxyltransferase	4-Methyloctanoyl-CoA
+R06927	(2-Naphthyl)methanol 	alcohol dehydrogenase	2-Naphthaldehyde 
+R06930	(2-Naphthyl)methanol 	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroxy-1,2-dihydro-7-hydroxymethylnaphthalene
+r1174	(2Z)-2,4-Dihydroxydec-2-enedioate	(2Z)-2,4-dihydroxydec-2-enedioate aldolase	7-Oxoheptanoate
+r1174	(2Z)-2,4-Dihydroxydec-2-enedioate	(2Z)-2,4-dihydroxydec-2-enedioate aldolase	Pyruvate
+r1237	(2Z)-5-Carboxy-2-sulfanylpent-2-enoyl-CoA	thiol hydrolase	2-Oxoglutaryl-CoA
+r0708	(3,5-Dichlorophenylurea)acetate	(3,5-dichlorophenylurea)acetate amidohydrolase	3,5-Dichloroaniline
+r0708	(3,5-Dichlorophenylurea)acetate	(3,5-dichlorophenylurea)acetate amidohydrolase	N-Carboxyglycine
+r0816	(3E)-4-(5-Amino-2-hydroxy-phenyl)-2-oxo-but-3-ene-1-oic-acid	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	5-Aminosalicylaldehyde
+r0816	(3E)-4-(5-Amino-2-hydroxy-phenyl)-2-oxo-but-3-ene-1-oic-acid	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	Pyruvate
+r1152	(3E,1Z)-4,5-9,10-Diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate	4,9-DSHA hydrolase	(2E,4E)-2-Hydroxyhexa-2,4-dienoate
+r1152	(3E,1Z)-4,5-9,10-Diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate	4,9-DSHA hydrolase	9,17-Dioxo-1,2,3,4,10,19-hexanorandrostan-5-oate
+r0737	(3R)-3-Isopropenyl-6-oxoheptanoate	3-isopropenyl-6-oxoheptanoyl-CoA synthetase	(3R)-3-Isopropenyl -6-oxoheptanoyl-CoA
+r1063	(3S)-3-Hydroxyadipyl-CoA	3-hydroxyacyl-CoA dehydrogenase	3-Oxoadipyl-CoA
+r0011	(3S)-3-Hydroxybutyryl-CoA	enoyl-CoA hydratase	Crotonoyl-CoA
+r0202	(3S)-3-Hydroxybutyryl-CoA	acetoacetyl-CoA reductase	Acetoacetyl-CoA
+r0410	(3S,4R)-3,4-Dihydroxy-3,4-dihydro-9-fluorenone	No enzyme supplied	4-Hydroxy-9-fluorenone
+R01633	(3S,4R)-3,4-Dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate	(3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase	3,4-Dihydroxybenzoate
+R07713	(3Z)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate 	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase	2-Carboxybenzaldehyde
+R07713	(3Z)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate 	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase	Pyruvate
+r0734	(4R)-Limonene-1,2-epoxide	limonene-1,2-epoxide hydrolase	(1S,2S,4R)-Limonene-1,2-diol
+r1185	(5R)-3-Hydroxymenthone	3-hydroxymenthone dehydrogenase	Mentha-1,3-dione
+r1184	(5R)-Menth-2-enone	menth-2-enone hydratase	(5R)-3-Hydroxymenthone
+R07839	(E)-4-Oxobut-1-ene-1,2,4-tricarboxylate	5-carboxymethyl-2-hydroxymuconate Delta-isomerase	4-Carboxy-2-hydroxyhexa-2,4-dienedioate
+r0332	(Hydroxymethylphenyl)succinyl-CoA	No enzyme supplied	Benzoyl-CoA
+r0332	(Hydroxymethylphenyl)succinyl-CoA	3-hydroxyacyl-CoA dehydrogenase	Benzoylsuccinyl-CoA
+R05575	(Hydroxymethylphenyl)succinyl-CoA	No enzyme supplied	Succinyl-CoA
+r1176	(R)-1,2,3,4-Tetrahydronaphthol	(R)-(-)-1,2,3,4-tetrahydronaphthol dehydrogenase	1,2,3,4-Tetrahydronaphthalone
+r0851	(R)-1,2-Epoxypropane	2-hydroxypropyl-CoM lyase	(R)-2-Hydroxypropyl-CoM
+r0852	(R)-2-Hydroxypropyl-CoM	2-R-hydroxypropyl-CoM dehydrogenase	2-Oxopropyl-CoM
+r0061	(R)-3-Chloro-1,2-epoxypropane	epoxide hydrolase B	(R)-3-Chloro-1,2-propanediol
+r0062	(R)-3-Chloro-1,2-propanediol	halohydrin epoxidase B	(R)-3-Hydroxy-1,2-epoxypropane
+r0063	(R)-3-Hydroxy-1,2-epoxypropane	epoxide hydrolase B	Glycerol
+r0478	(R)-6-Hydroxynicotine	6-hydroxy-L-nicotine oxidase	6-Hydroxypseudooxynicotine
+r0091	(R)-Mandelate	mandelate racemase	(S)-Mandelate
+r0704	(RS)-3-Bromo-1,2-epoxypropane	epoxide hydrolase A	(RS)-3-Bromo-1,2-propanediol
+r0705	(RS)-3-Bromo-1,2-propanediol	halohydrin epoxidase A	(RS)-3-Hydroxy-1,2-epoxypropane
+r0057	(RS)-3-Chloro-1,2-epoxypropane	epoxide hydrolase A	(RS)-3-Chloro-1,2-propanediol
+r0058	(RS)-3-Chloro-1,2-propanediol	halohydrin epoxidase A	(RS)-3-Hydroxy-1,2-epoxypropane
+r0059	(RS)-3-Hydroxy-1,2-epoxypropane	epoxide hydrolase A	Glycerol
+r0978	(RS)-Nicotine	nicotine dehydrogenase	(R)-6-Hydroxynicotine
+r0979	(RS)-Nicotine	nicotine dehydrogenase	(S)-6-Hydroxynicotine
+r0858	(S)-1,2-Epoxypropane	2-hydroxypropyl-CoM lyase	(S)-2-Hydroxypropyl-CoM
+r0032	(S)-1-Phenylethanol	1-phenylethanol dehydrogenase	Acetophenone
+R05426	(S)-1-Phenylethanol 	naphthalene 1,2-dioxygenase	Acetophenone
+r0853	(S)-2-Hydroxypropyl-CoM	2-S-hydroxypropyl-CoM dehydrogenase	2-Oxopropyl-CoM
+R01976	(S)-3-Hydroxybutanoyl-CoA	3-hydroxybutyryl-CoA dehydrogenase	Acetoacetyl-CoA
+R03026	(S)-3-Hydroxybutanoyl-CoA	enoyl-CoA hydratase	Crotonoyl-CoA
+R04161	(S)-4-Hydroxymandelate	mandelate racemase 	(R)-4-Hydroxymandelate
+R04160	(S)-4-Hydroxymandelate 	(S)-mandelate dehydrogenase	4-Hydroxyphenylglyoxylate 
+R06990	(S)-5-Oxo-2,5-dihydrofuran-2-acetate	muconolactone Delta-isomerase	2-Oxo-2,3-dihydrofuran-5-acetate
+r0477	(S)-6-Hydroxynicotine	6-hydroxy-D-nicotine oxidase	6-Hydroxypseudooxynicotine
+R03791	(S)-Mandelate	mandelate racemase	(R)-Mandelate
+r1048	(S)-Mandelate	L-mandelate dehydrogenase	Benzoylformate
+R07664	(S)-Mandelate 	(S)-mandelate dehydrogenase	alpha-Oxo-benzeneacetic acid
+r1602	(Z)-2-(2-Hydroxyphenyl)ethenesulfinate	2'-hydroxybiphenyl-2-sulfinate desulfinase	o-Hydroxystyrene
+r1604	(Z)-2-(2-Hydroxyphenyl)ethenesulfinate	(Z)-2-(2-hydroxyphenyl)ethenesulfinate oxidase	2-Hydroxyphenylacetaldehyde
+r0325	(Z)-4-(2-Hydroxy-5-sulfonatophenyl)-2-oxo-3-butenoate	No enzyme supplied	5-Sulfosalicylate
+r0325	(Z)-4-(2-Hydroxy-5-sulfonatophenyl)-2-oxo-3-butenoate	No enzyme supplied	Pyruvate
+R07638	(Z)-Phenylacetaldehyde oxime	phenylacetaldoxime dehydratase	Phenylacetonitrile 
+R06891	1-(4'-Hydroxyphenyl)ethanol 	1-(4'-hydroxyphenyl)ethanol dehydrogenase	4'-Hydroxyacetophenone 
+R04522	1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane	No Kegg enzyme supplied	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethane
+R05476	1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane	DDT-dehydrochlorinase	1,1-Dichloro-2,2-bis(4-chlorophenyl)ethylene
+R05492	1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane 	DDT 2,3-dioxygenase	cis-2,3-Dihydrodiol 1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane
+r0439	1,1,1-Trichloro-2,2-bis-(4'-chlorophenyl)ethane (DDT)	DDT dehydrochlorinase	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethylene (DDE)
+r0512	1,1,1-Trichloro-2,2-bis-(4'-chlorophenyl)ethane (DDT)	DDT reductive dehalogenase	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethane (DDD)
+r0450	1,1,1-Trichloro-2,2-bis-(4'-chlorophenyl)ethane (DDT)	DDT 2,3-dioxygenase	cis-2,3-Dihydrodiol DDT
+r1007	1,1,1-Trichloroethane	1,1,1-trichloroethane reductive dehalogenase	1,1-Dichloroethane
+r1010	1,1,1-Trichloroethane	soluble methane monooxygenase	Trichloroethanol
+r0350	1,1,2-Trichloroethylene	tetrachloroethene reductive dehalogenase	cis-1,2-Dichloroethene
+r0909	1,1,2-Trichloroethylene	toluene dioxygenase	Glyoxylate
+r0910	1,1,2-Trichloroethylene	toluene dioxygenase	Formate
+r0378	1,1,2-Trichloroethylene	toluene 2-monooxygenase	Trichloroethylene epoxide
+r0932	1,1,2-Trichloroethylene	tetrachloroethene reductive dehalogenase	trans-1,2-Dichloroethene
+r0911	1,1,2-Trichloroethylene	soluble methane monooxygenase	Chloral hydrate
+r0886	1,1,2-Trichloroethylene	tetrachloroethene reductive dehalogenase	Ethylene
+R05256	1,1-Dichloro-2-(dihydroxy-4'-chlorophenyl)-2-(4'-chlorophenyl)ethylene	1,1-dichloro-2-(dihydroxy-4-chlorophenyl)-(4-chlorophenyl)ethylene 1,2-dioxygenase	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2E,4E,7E-trienoate
+r0442	1,1-Dichloro-2-(dihydroxy-4'-chorophenyl)-2-(4'-chlorophenyl)ethylene	1,1-dichloro-2-(dihydroxy-4-chlorophenyl)-(4-chlorophenyl)ethylene 1,2-dioxygenase	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2Z,4Z,7-trienoate
+R05384	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethane	Lysases; Carbon-halide lyases	1-Chloro-2,2-bis(4'-chlorophenyl)ethylene
+r0513	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethane (DDD)	DDD dehydrochlorinase	1-Chloro-2,2-bis(4'-chlorophenyl)ethylene (DDMU)
+R05497	1,1-Dichloro-2,2-bis(4-chlorophenyl)ethylene	DDE dehalogenase	1-Chloro-2,2-bis(4'-chlorophenyl)ethylene
+r0441	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethylene (DDE)	No enzyme supplied	1,1-Dichloro-2-(dihydroxy-4'-chorophenyl)-2-(4'-chlorophenyl)ethylene
+r0440	1,1-Dichloro-2,2-bis(4'-chlorophenyl)ethylene (DDE)	DDE dehalogenase	1-Chloro-2,2-bis(4'-chlorophenyl)ethylene (DDMU)
+r1008	1,1-Dichloroethane	1,1-dichloroethane reductive dehalogenase	Chloroethane
+R07089	1,1-Dichloroethylene 	unspecific monooxygenase	1,1-Dichloroethylene epoxide
+R07088	1,1-Dichloroethylene 	unspecific monooxygenase	2,2-Dichloroacetaldehyde
+R07090	1,1-Dichloroethylene 	unspecific monooxygenase	Chloroacetyl chloride
+R07092	1,1-Dichloroethylene epoxide	glutathione transferase	2-(S-Glutathionyl)acetyl chloride
+r0800	1,2,3,4-Tetrachlorobenzene	chlorobenzene dioxygenase	cis-Chlorobenzene dihydrodiol
+r0702	1,2,3-Tribromopropane	haloalkane dehalogenase	2,3-Dibromo-1-propanol
+R04297	1,2,3-Trihydroxybenzene 	pyrogallol hydroxytransferase	Phloroglucinol
+r0232	1,2,4-Benzenetriol	hydroxyquinol 1,2-dioxygenase	Maleylacetate
+r0798	1,2,4-Benzenetriol	1,2,4-benzenetriol dehydrogenase	2-Hydroxy-1,4-benzoquinone
+r0533	1,2,4-Trichlorobenzene	Enzyme record not found	1,4-Dichlorobenzene
+r0526	1,2,4-Trichlorobenzene	chlorobenzene dioxygenase	3,4,6-Trichloro-cis-1,2-dihydroxycyclohexa-3,5-diene
+R07694	1,2-Anthracenediol	No Kegg enzyme supplied	1-Methoxy-2-hydroxyanthracene
+R07702	1,2-Anthracenediol 	anthracene-1,2-diol 1,2-dioxygenase	3-(2-Carboxyvinyl)naphthalene-2-carboxylic acid
+R07701	1,2-Anthracenediol 	anthracene-1,2-diol 1,2-dioxygenase	4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid
+R06885	1,2-Bis(4-hydroxyphenyl)-2-propanol	1,2-bis(4-hydroxyphenyl)-2-proponol reductase	4,4'-Dihydroxy-alpha-methylstilbene
+r0862	1,2-bis(4-Hydroxyphenyl)-2-propanol	1,2-bis(4-hydroxyphenyl)-2-proponol dehydratase	4,4'-Dihydroxy-alpha-methylstilbene
+R07113	1,2-Dibromoethane	glutathione transferase	Glutathione episulfonium ion
+R07112	1,2-Dibromoethane 	unspecific monooxygenase	2-Bromoacetaldehyde 
+r0001	1,2-Dichloroethane	haloalkane dehalogenase	2-Chloroethanol
+r1512	1,2-Dihydrodihydroxymetamitron	2,3-dihydro-2,3-dihydroxymetamitron dehydrogenase	1,2-Dihydroxymetamitron
+r1609	1,2-Dihydronaphthalene	naphthalene 1,2-dioxygenase	Naphthalene
+R07016	1,2-Dihydronaphthalene-1,2-diol 	unspecific monooxygenase	1,2-Dihydroxy-3,4-epoxy-1,2,3,4-tetrahydronaphthalene
+R07015	1,2-Dihydronaphthalene-1,2-diol 	trans-1,2-dihydrobenzene-1,2-diol dehydrogenase	Naphthalene-1,2-diol 
+R07703	1,2-Dihydrophthalic acid 	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	Phthalate 
+r0216	1,2-Dihydroxy-3-methylcyclohexa-3,5-dienecarboxylate	1,2-dihydroxy-3-methyl-cyclohexa-3,5-diene-carboxylate dehydrogenase	3-Methylcatechol
+r1171	1,2-Dihydroxy-5,6,7,8-tetrahydronaphthalene	1,2-dihydroxy-5,6,7,8-tetrahydronaphthalene extradiol dioxygenase	4-(2-Oxocyclohexyl)-2-hydroxy-buta-2,4-dienoate
+r0224	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate	1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase	3-Methylcatechol
+R05314	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate 	1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase	2,3-Dihydroxytoluene
+r0764	1,2-Dihydroxy-7-hydroxymethylnaphthalene	1,2-dihydroxy-7-hydroxymethylnaphthalene dioxygenase	2-Hydroxy-7-hydroxymethylchromene-2-carboxylate
+r0790	1,2-Dihydroxy-8-carboxynaphthalene	1,2-dihydroxy-8-carboxynaphthalene dioxygenase	2-Carboxy-2-hydroxy-8-carboxychromene
+r0781	1,2-Dihydroxy-8-methylnaphthalene	1,2-dihydroxy-8-methylnaphthalene dioxygenase	2-Hydroxy-8-methylchromene-2-carboxylate
+r0162	1,2-Dihydroxydibenzothiophene	dihydroxydibenzothiophene dioxygenase	cis-4-[2-(3-Hydroxy)-thionaphthenyl]-2-oxo-3-butenoate
+r0422	1,2-Dihydroxyfluorene	1,2-dihydroxyfluorene 1,1a-dioxygenase	2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoate
+R05412	1,2-Dihydroxyfluorene 	1,2-dihydroxyfluorene 1,1a-dioxygenase	2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoic acid
+r1513	1,2-Dihydroxymetamitron	2,3-dihydroxymetamitron 1,2-dioxygenase	3-Methyl-4-amino-6-(2-hydroxymuconate)-1,2,4-triazin-5(4H)one
+r0336	1,2-Dihydroxynaphthalene	1,2-dihydroxynaphthalene dioxygenase	2-Hydroxychromene-2-carboxylate
+r0324	1,2-Dihydroxynaphthalene-6-sulfonate	1,2-dihydroxynaphthalene-6-sulfonate 1,8a-dioxygenase	(Z)-4-(2-Hydroxy-5-sulfonatophenyl)-2-oxo-3-butenoate
+r0569	1,2-Dihydroxyphenanthrene	1,2-dihydroxyphenanthrene glycosyltransferase	2-Hydroxy-1-phenanthryl-beta-D-glucopyranoside
+r0917	1,2-Dinitroglycerol	xenobiotic reductase	2-Mononitroglycerol
+r0918	1,2-Dinitroglycerol	xenobiotic reductase	1-Mononitroglycerol
+r0750	1,3(R),4(S),5(S),6(R)-Pentachlorocyclohexene	No enzyme supplied	1,2,3-Trichlorobenzene
+r0751	1,3(R),4(S),5(S),6(R)-Pentachlorocyclohexene	No enzyme supplied	1,2,4-Trichlorobenzene
+r0550	1,3(R),4(S),5(S),6(R)-Pentachlorocyclohexene	gamma-hexachlorocyclohexane dehydrochlorinase	1,3(R),4,6(R)-Tetrachloro-1,4-cyclohexadiene
+r0556	1,3(R),4,6(R)-Tetrachloro-1,4-cyclohexadiene	No enzyme supplied	1,2,4-Trichlorobenzene
+r0551	1,3(R),4,6(R)-Tetrachloro-1,4-cyclohexadiene	haloalkane dehalogenase	2,4,5-Trichloro-2,5-cyclohexadiene-1-ol
+R05369	1,3,4,6-Tetrachloro-1,4-cyclohexadiene 	haloalkane dehalogenase	2,4,5-Trichloro-2,5-cyclohexadiene-1-ol
+r1322	1,3,7-Trimethyluric acid	urate oxidase	3,6,8-Trimethylallantoin
+r0060	1,3-Dichloro-2-propanol	halohydrin epoxidase B	(R)-3-Chloro-1,2-epoxypropane
+r0056	1,3-Dichloro-2-propanol	halohydrin epoxidase A	(RS)-3-Chloro-1,2-epoxypropane
+r0871	1,3-Dinitro-1,2,3,4-tetrahydro-1,3,5-triazine	unspecific monooxygenase	1-Nitro-1,2-dihydro-1,3,5-triazine
+r0042	1,3-Dinitroglycerol	xenobiotic reductase	1-Mononitroglycerol
+r0534	1,4-Dichlorobenzene	Enzyme record not found	Chlorobenzene
+r0653	1,4-Dichlorobenzene	chlorobenzene dioxygenase	3,6-Dichloro-cis-1,2-dihydroxycyclohexa-3,5-diene
+R07019	1,4-Dihydroxynaphthalene	No Kegg enzyme supplied	1,4-Naphthoquinone
+r1573	1,4-Dioxane	1,4-dioxane etherase	Ethylene Glycol
+r1571	1,4-Dioxane	1,4-dioxane monooxygenase	Dioxanone
+R05309	1,6-Dihydroxy-5-methylcyclohexa-2,4-dienecarboxylate 	No Kegg enzyme supplied	2,3-Dihydroxytoluene
+R00813	1,6-Dihydroxy-cis-2,4-cyclohexadiene-1-carboxylic acid 	1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase	Catechol
+r0948	1,6-Dihydroxypyrene	No enzyme supplied	Pyrene-1,6-dione
+R07682	1,6-Naphthalenedisulfonic acid 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; Miscellaneous	1,2-Dihydroxynaphthalene-6-sulfonate
+r0951	1,8-Dihydroxypyrene	No enzyme supplied	Pyrene-1,8-dione
+R08322	10-Hydroxycarbazepine	No Kegg enzyme supplied	Dihydroxycarbazepine
+r1122	11,12-Dihydroxybenzo(a)pyrene	11,12-dihydroxybenzo(a)pyrene methyltransferase	Hydroxymethoxybenzo(a)pyrene
+r1285	17beta-Hydroxyandrosta-1,4-diene-3-one	beta-hydroxysteroid dehydrogenase	Androsta-1,4-diene-3,17-dione
+r0357	1-Aminocyclopropane-1-carboxylate	1-aminocyclopropane-1-carboxylate deaminase	2-Oxobutanoate
+R05385	1-Chloro-2,2-bis(4'-chlorophenyl)ethane	Lysases; Carbon-halide lyases	unsym-Bis(4'-chlorophenyl)ethylene
+R05477	1-Chloro-2,2-bis(4'-chlorophenyl)ethane 	No Kegg enzyme supplied	2,2-Bis(4'-chlorophenyl)ethanol
+r0519	1-Chloro-2,2-bis(4'-chlorophenyl)ethane (DDMS)	Enzyme record not found	2,2-bis(4'-Chlorophenyl)ethanol (DDOH)
+r0515	1-Chloro-2,2-bis(4'-chlorophenyl)ethane (DDMS)	DDMS dehydrochlorinase	unsym-bis(4'-Chlorophenyl)ethylene (DDNU)
+R05398	1-Chloro-2,2-bis(4'-chlorophenyl)ethylene	DDMS dehydrogenase	1-Chloro-2,2-bis(4'-chlorophenyl)ethane
+r0514	1-Chloro-2,2-bis(4'-chlorophenyl)ethylene (DDMU)	DDMS dehydrogenase	1-Chloro-2,2-bis(4'-chlorophenyl)ethane (DDMS)
+r1679	1-Chloroacetyl-2,3-dihydro-7-ethylindole	1-chloroacetyl-2,3-dihydro-7-ethylindole amidohydrolase	7-Ethylindole
+r1679	1-Chloroacetyl-2,3-dihydro-7-ethylindole	1-chloroacetyl-2,3-dihydro-7-ethylindole amidohydrolase	Chloroacetate
+r0603	1-Dodecanol	alcohol dehydrogenase	Dodecanal
+R08106	1-Fluorocyclohexadiene-cis,cis-1,2-diol	No Kegg enzyme supplied	Catechol
+r0423	1-Formyl-2-indanone	No enzyme supplied	2-Indanone
+r1472	1H-4-Oxoquinaldine	1H-4-oxoquinaldine 3-monooxygenase	2-Methylquinoline-3,4-diol
+r1040	1-Hydro-1,1a-dihydroxy-9-fluorenone	1-hydro-1,1a-dihydroxy-9-fluorenone dehydrogenase	2,3-Dihydroxy-2'-carboxybiphenyl
+r0485	1-Hydroxy-2-naphthaldehyde	1-hydroxy-2-naphthaldehyde dehydrogenase	1-Hydroxy-2-naphthoate
+r0491	1-Hydroxy-2-naphthoate	1-hydroxy-2-naphthoate hydroxylase	1,2-Dihydroxynaphthalene
+r0486	1-Hydroxy-2-naphthoate	1-hydroxy-2-naphthoate dioxygenase	trans-2'-Carboxybenzalpyruvate
+R05632	1-Hydroxy-2-naphthoate 	salicylate 1-monooxygenase	Naphthalene-1,2-diol
+R07657	1-Hydroxy-2-naphthoate 	1-hydroxy-2-naphthoate 1,2-dioxygenase	(3Z)-4-(2-Carboxyphenyl)-2-oxobut-3-enoate
+r1308	1-Hydroxy-4,4-dimethylpentan-3-one	1-hydroxy-4,4-dimethylpentan-3-one dehydrogenase	4,4-Dimethyl-3-oxopentanal
+r0956	1-Hydroxy-6-methoxypyrene	1-hydroxy-6-methoxypyrene methyltransferase	1,6-Dimethoxypyrene
+r0786	1-Hydroxymethylnaphthalene	alcohol dehydrogenase	1-Naphthaldehyde
+r0946	1-Hydroxypyrene	1-hydroxypyrene 6,7-monooxygenase	1-Hydroxypyrene-6,7-oxide
+r0949	1-Hydroxypyrene	1-hydroxypyrene 7,8-monooxygenase	1-Hydroxypyrene-7,8-oxide
+r0952	1-Hydroxypyrene	1-hydroxypyrene sulfotransferase	1-Pyrenylsulfate
+r0953	1-Hydroxypyrene	1-hydroxypyrene methyltransferase	1-Methoxypyrene
+r0947	1-Hydroxypyrene-6,7-oxide	No enzyme supplied	1,6-Dihydroxypyrene
+r0950	1-Hydroxypyrene-7,8-oxide	No enzyme supplied	1,8-Dihydroxypyrene
+r0416	1-Indanone	1-indanone monooxygenase	3,4-Dihydrocoumarin
+r0417	1-Indanone	1-indanone dioxygenase	3-Hydroxy-1-indanone
+r0954	1-Methoxypyrene	1-methoxypyrene 6,7-monooxygenase	1-Methoxypyrene-6,7-oxide
+r0955	1-Methoxypyrene-6,7-oxide	No enzyme supplied	1-Hydroxy-6-methoxypyrene
+r0779	1-Methylnaphthalene	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroxy-1,2-dihydro-8-methylnaphthalene
+r0795	1-Methylnaphthalene	1-methylnaphthalene hydroxylase	1-Hydroxymethylnaphthalene
+r1331	1-Methylxanthine	heteroxanthine demethylase	Xanthine
+r0044	1-Mononitroglycerol	xenobiotic reductase	Glycerol
+r0787	1-Naphthaldehyde	1-naphthaldehyde dehydrogenase	1-Naphthoic acid
+R07698	1-Naphthalenesulfonic acid 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; Miscellaneous	Naphthalene-1,2-diol 
+r0773	1-Naphthoic acid	1-naphthoic acid dioxygenase	cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene
+R07018	1-Naphthol	No Kegg enzyme supplied	1,4-Dihydroxynaphthalene
+r1476	1-Naphthol	1-naphthol hydroxylase	1,2-Dihydroxynaphthalene
+r0872	1-Nitro-1,2-dihydro-1,3,5-triazine	1-nitro-1,2-dihydro-1,3,5-triazine hydrolase	1-Nitro-1,3,5-triazinane-2,4-diol
+r0919	1-Nitro-1,3,5-triazinane-2,4-diol	No enzyme supplied	4-Nitro-2,4-diazabutanal
+r0919	1-Nitro-1,3,5-triazinane-2,4-diol	No enzyme supplied	Formamide
+R07028	1-Nitronaphthalene	No Kegg enzyme supplied	1-Nitrosonaphthalene
+R07022	1-Nitronaphthalene 	unspecific monooxygenase	1-Nitronaphthalene-5,6-oxide
+R07021	1-Nitronaphthalene 	unspecific monooxygenase	1-Nitronaphthalene-7,8-oxide
+R07025	1-Nitronaphthalene-5,6-oxide 	microsomal epoxide hydrolase	1-Nitro-5,6-dihydroxy-dihydronaphthalene
+R07026	1-Nitronaphthalene-5,6-oxide 	glutathione transferase	1-Nitro-5-glutathionyl-6-hydroxy-5,6-dihydronaphthalene
+R07025	1-Nitronaphthalene-5,6-oxide 	glutathione transferase	1-Nitro-5-hydroxy-6-glutathionyl-5,6-dihydronaphthalene
+R07024	1-Nitronaphthalene-7,8-oxide	glutathione transferase	1-Nitro-7-glutathionyl-8-hydroxy-7,8-dihydronaphthalene
+R07023	1-Nitronaphthalene-7,8-oxide 	glutathione transferase	1-Nitro-7-hydroxy-8-glutathionyl-7,8-dihydronaphthalene
+R07029	1-Nitrosonaphthalene	No Kegg enzyme supplied	N-Hydroxy-1-aminonaphthalene
+r0023	1-Octanal	aldehyde dehydrogenase (NAD+)	Octanoate
+r0022	1-Octanol	alcohol dehydrogenase	1-Octanal
+r0167	1-Oxa-2-oxocycloheptane	1-oxa-2-oxocycloheptane lactonase	6-Hydroxyhexanoate
+r0525	1-Phenanthrol	1-phenanthrol glycosyltransferase	1-Phenanthryl-beta-D-glucopyranoside
+r0493	1-Phenanthrol	1-phenanthrol methyltransferase	1-Methoxyphenanthrene
+r0565	1-Phenanthrol	1-phenanthrol sulfotransferase	1-Phenanthrylsulfate
+R05493	2 4-Chlorophenoxyacetate 	4-chlorophenoxy-acetate monooxygenase	4-Chlorophenol
+r1532	2-(2-Aminoethoxy)acetaldehyde	2-(2-aminoethoxy)acetaldehyde dehydrogenase	2-(2-Aminoethoxy)acetate
+r1533	2-(2-Aminoethoxy)acetate	No enzyme supplied	Diglycolate
+r0445	2-(4'-Chlorophenyl)-3,3-dichloropropenoate	No enzyme supplied	4-Chloroacetophenone
+R05474	2-(4'-Chlorophenyl)-3,3-dichloropropenoate	No enzyme supplied	4-Chlorophenylacetate
+r1082	2-(4-Hydroxyphenyl)propionate	No enzyme supplied	4-Hydroxybenzoate
+r1524	2-(Acetamidomethylene)succinate	2-(acetamidomethylene)succinate hydrolase	Acetate
+r1524	2-(Acetamidomethylene)succinate	2-(acetamidomethylene)succinate hydrolase	Succinic semialdehyde
+r1510	2-(Acetylhydrazinylidene)-2-phenylacetate	benzoylformate deaminohydrolase	Benzoylformate
+r1529	2-(Hydroxymethyl)-3-(acetamidomethylene)succinate	2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase	2-Hydroxymethylsuccinate semialdehyde
+r1529	2-(Hydroxymethyl)-3-(acetamidomethylene)succinate	2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase	Acetate
+r1287	2-(Methylthio)benzothiazole	2-(methylthio)benzothiazole monooxygenase	2-(Methylsulfinyl)benzothiazole
+R07094	2-(S-Glutathionyl)acetyl chloride	glutathione transferase	2-(S-Glutathionyl)acetyl glutathione
+R07097	2-(S-Glutathionyl)acetyl chloride 	No Kegg enzyme supplied	2-S-Glutathionyl acetate
+R07124	2-(S-Glutathionyl)acetyl glutathione 	No Kegg enzyme supplied	2-S-Glutathionyl acetate
+r0027	2,2',3-Trihydroxybiphenyl	2,2',3-trihydroxybiphenyl dioxygenase	2-Hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate
+r0572	2,2',3-Trihydroxydiphenylether	2,2',3-trihydroxybiphenyl dioxygenase	2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)hexa-2,4-dienoate
+R05478	2,2-Bis(4'-chlorophenyl)ethanol	No Kegg enzyme supplied	unsym-Bis(4'-chlorophenyl)ethylene
+r0518	2,2-bis(4'-Chlorophenyl)ethanol (DDOH)	No enzyme supplied	bis(4'-Chlorophenyl)acetate (DDA)
+r0864	2,2-bis(4-Hydroxyphenyl)-1-propanol	2,2-bis(4-hydroxyphenyl)-1-propanol hydroxylase	2,3-bis(4-Hydroxyphenyl)-1,2-propanediol
+r0863	2,2-bis(4-Hydroxyphenyl)-1-propanol	No enzyme supplied	2,2-bis(4-Hydroxyphenyl)-1-propanoate
+R06887	2,2-Bis(4-hydroxyphenyl)-1-propanol 	No Kegg enzyme supplied	2,2-Bis(4-hydroxyphenyl)-propanoic acid
+R07095	2,2-Dichloroacetaldehyde 	No Kegg enzyme supplied	2,2-Dichloro-1,1-ethanediol
+R07091	2,2-Dichloroacetaldehyde 	glutathione transferase	S-(2,2-Dichloro-1-hydroxy)ethyl glutathione
+r1279	2,2-Dimethyl-3-pentanone	pinacolone 5-monooxygenase	1-Hydroxy-4,4-dimethylpentan-3-one
+r0522	2,2'-Diphenate	No enzyme supplied	2,2'-Biphenyldimethanol
+r0523	2,2'-Diphenate	No enzyme supplied	Carbon Dioxide
+r0314	2,3,5,6-Tetrachlorohydroquinone (TeCH)	tetrachlorohydroquinone reductive dehalogenase	2,3,6-Trichlorohydroquinone (TrCH)
+r0529	2,3,5-Trichloro-cis,cis-muconate	chloromuconate cycloisomerase	2,5-Dichloro-carboxymethylenebut-2-en-4-olide
+r0803	2,3,5-Trichlorodienelactone	dienelactone hydrolase	2,3,5-Trichloromaleylacetic acid
+r0804	2,3,5-Trichloromaleylacetic acid	maleylacetate reductase	2,4-Dichloro-3-oxoadipate
+r0093	2,3,5-Trihydroxytoluene	trihydroxytoluene dioxygenase	2,4,6-Trioxoheptanoate
+R05403	2,3,6-Trichlorohydroquinone 	tetrachloro-p-hyrodoquinone reductive dehalogenase	2,6-Dichlorohydroquinone
+r0315	2,3,6-Trichlorohydroquinone (TrCH)	tetrachlorohydroquinone reductive dehalogenase	2,6-Dichlorohydroquinone (DiCH)
+r1340	2,3,6-Trihydroxyisonicotinate	2,3,6-trihydroxyisonicotinate decarboxylase	2,3,6-Trihydroxypyridine
+r0483	2,3,6-Trihydroxypyridine	No enzyme supplied	Maleamate
+r0867	2,3-bis(4-Hydroxyphenyl)-1,2-propanediol	2,3-bis(4-hydroxyphenyl)-1,2-propanediol dioxygenase	4-Hydroxybenzoate
+r0867	2,3-bis(4-Hydroxyphenyl)-1,2-propanediol	2,3-bis(4-hydroxyphenyl)-1,2-propanediol dioxygenase	4-Hydroxyphenacyl alcohol
+r0703	2,3-Dibromo-1-propanol	halohydrin epoxidase A	(RS)-3-Bromo-1,2-epoxypropane
+r0195	2,3-Didehydro-pimeloyl-CoA	enoyl-CoA hydratase	3-Hydroxypimelyl-CoA
+R05257	2,3-Dihydroxy 1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane	2,3-dihydroxy DDT 1,2-dioxygenase	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8,8-tetrachloroocta-2E,4E-dienoate
+r0452	2,3-Dihydroxy DDT	2,3-dihydroxy DDT 1,2-dioxygenase	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8,8-tetrachloroocta-2Z,4Z-dienoate
+r1041	2,3-Dihydroxy-2'-carboxybiphenyl	2,3-dihydroxy-2'-carboxybiphenyl 1,2-dioxygenase	2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate
+r0620	2,3-Dihydroxy-2-methyl propionate	No enzyme supplied	2-Hydroxy-2-methyl-1,3-dicarbonate
+r0135	2,3-Dihydroxy-4'-chlorobiphenyl	2,3-dihydroxybiphenyl 1,2-dioxygenase	2-Hydroxy-6-oxo-6-(4'-chlorophenyl)-hexa-2,4-dienoate
+r0579	2,3-Dihydroxybenzoate	o-pyrocatechuate decarboxylase	Catechol
+R01507	2,3-Dihydroxybenzoate 	2,3-dihydroxybenzoate 3,4-dioxygenase	3-Carboxy-2-hydroxymuconate semialdehyde
+r0390	2,3-Dihydroxybiphenyl	2,3-dihydroxybiphenyl 1,2-dioxygenase	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoate
+R08316	2,3-Dihydroxycarbamazepine	No Kegg enzyme supplied	Carbamazepine-o-quinone
+r1621	2,3-Dihydroxycinnamate	3-(2,3-dihydroxyphenyl)propionate 1,2-dioxygenase	2-Hydroxy-6-ketononatrienedioate
+r1451	2,3-Dihydroxydiphenyl ether	2,3-dihydroxydiphenyl ether dioxygenase	2-Hydroxymuconate
+r1451	2,3-Dihydroxydiphenyl ether	2,3-dihydroxydiphenyl ether dioxygenase	Phenol
+r0310	2,3-Dihydroxyethylbenzene	2,3-dihydroxy-ethylbenzene 1,2-dioxygenase	2-Hydroxy-6-oxoocta-2,4-dienoate
+R07695	2,3-Dihydroxynaphthalene	No Kegg enzyme supplied	Salicylate
+r1142	2,3-Dihydroxynaphthalene	No enzyme supplied	Phthalate
+r0397	2,3-Dihydroxy-p-cumate	2,3-dihydroxy-p-cumate dioxygenase	2-Hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate
+R05248	2,3-Dihydroxy-p-cumate 	2,3-dihydroxy-p-cumate-3,4-dioxygenase	2-Hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate
+R04089	2,3-Dihydroxytoluene 	catechol 2,3-dioxygenase	2-Hydroxy-6-keto-2,4-heptadienoate
+r1270	2,4,4-Trimethyl-1-pentanol	2,4,4-trimethyl-1-pentanol dehydrogenase	2,4,4-Trimethylpentanal
+r1273	2,4,4-Trimethyl-3-hydroxypentanoyl-CoA	2,4,4-trimethyl-3-hydroxypentanoyl-CoA dehydrogenase	2,4,4-Trimethyl-3-oxopentanoyl-CoA
+r1278	2,4,4-Trimethyl-3-oxopentanoate	2,4,4-trimethyl-3-oxopentanoate decarboxylase	2,2-Dimethyl-3-pentanone
+r1307	2,4,4-Trimethyl-3-oxopentanoyl-CoA	2,4,4-trimethyl-3-oxopentanoyl-CoA thioesterase	2,4,4-Trimethyl-3-oxopentanoate
+r1274	2,4,4-Trimethyl-3-oxopentanoyl-CoA	2,4,4-trimethyl-3-oxopentanoyl-CoA 2-C-propanoyl transferase	Pivalyl-CoA
+r1274	2,4,4-Trimethyl-3-oxopentanoyl-CoA	2,4,4-trimethyl-3-oxopentanoyl-CoA 2-C-propanoyl transferase	Propanoyl-CoA
+r1277	2,4,4-Trimethylpent-2-enoyl-CoA	2,4,4-trimethylpent-2-enoyl-CoA hydratase	2,4,4-Trimethyl-3-hydroxypentanoyl-CoA
+r1275	2,4,4-Trimethylpentanal	2,4,4-trimethylpentanal dehydrogenase	2,4,4-Trimethylpentanoate
+r1271	2,4,4-Trimethylpentanoate	2,4,4-trimethylpentanoate-CoA ligase	2,4,4-Trimethylpentanoyl-CoA
+r1276	2,4,4-Trimethylpentanoyl-CoA	2,4,4-trimethylpentanoyl-CoA dehydrogenase	2,4,4-Trimethylpent-2-enoyl-CoA
+r0552	2,4,5-Trichloro-2,5-cyclohexadiene-1-ol	haloalkane dehalogenase	2,5-Dichloro-2,5-cyclohexadiene-1,4-diol
+r0557	2,4,5-Trichloro-2,5-cyclohexadiene-1-ol	No enzyme supplied	2,5-Dichlorophenol
+r0360	2,4,5-Trichlorophenol	chlorophenol 4-monooxygenase	2,5-Dichlorohydroquinone
+r0359	2,4,5-Trichlorophenoxyacetic acid	2,4,5-trichlorophenoxyacetic acid oxygenase	2,4,5-Trichlorophenol
+r0359	2,4,5-Trichlorophenoxyacetic acid	2,4,5-trichlorophenoxyacetic acid oxygenase	Glyoxylate
+r1504	2,4,5-Trihydroxytoluene	trihydroxytoluene oxygenase	cis,cis-2,4-Dihydroxy-5-methyl-6-oxo-2,4-hexadienoate
+r0630	2,4,6-Triaminotoluene	No enzyme supplied	2,4,6-Trihydroxytoluene
+R05449	2,4,6-Trichlorophenol 	chlorophenol 4-monooxygenase	2,6-Dichlorohydroquinone
+r0317	2,4,6-Trichlorophenol (2,4,6-TCP)	chlorophenol 4-monooxygenase	2,6-Dichlorohydroquinone (DiCH)
+R08041	2,4,6-Trihydroxytoluene	No Kegg enzyme supplied	4-Cresol
+r0631	2,4,6-Trihydroxytoluene	No enzyme supplied	4-Hydroxytoluene
+r1065	2,4,6-Trinitrophenol	hydride transferase 2	TNP Hydride Meisenheimer complex
+r0476	2,4,6-Trinitrotoluene	NAD(P)H nitroreductase	2-Amino-4,6-dinitrotoluene
+r0465	2,4,6-Trinitrotoluene	nitrobenzene nitroreductase	4-Hydroxylamino-2,6-dinitrotoluene
+r0460	2,4,6-Trinitrotoluene	NAD(P)H nitroreductase	4-Amino-2,6-dinitrotoluene
+r0469	2,4,6-Trinitrotoluene	NAD(P)H nitroreductase	2-Hydroxylamino-4,6-dinitrotoluene
+r0094	2,4,6-Trioxoheptanoate	trioxoheptanoate hydrolase	Acetylpyruvate
+r0627	2,4-Diamino-6-hydroxylaminotoluene	dissimilatory sulfite reductase	2,4,6-Triaminotoluene
+R08035	2,4-Diamino-6-hydroxylaminotoluene	hydrogensulfite reductase	2,4,6-Triaminotoluene
+r0629	2,4-Diamino-6-nitrotoluene	No enzyme supplied	2,4,6-Triaminotoluene
+r0624	2,4-Diamino-6-nitrotoluene	hydrogenase	2,4-Diamino-6-hydroxylaminotoluene
+R08034	2,4-Diamino-6-nitrotoluene	pyruvate synthase	2,4-Diamino-6-hydroxylaminotoluene
+R08036	2,4-Diamino-6-nitrotoluene 	arylamine N-acetyltransferase	4-Acetamido-2-amino-6-nitrotoluene
+r1552	2,4-Diaminotoluene	No enzyme supplied	Carbon Dioxide
+r0855	2,4-Dichloro-3-oxoadipate	No enzyme supplied	Carbon Dioxide
+r0819	2,4-Dichloroaniline	2,4-dichloroaniline reductive dehalogenase	4-Chloroaniline
+R07794	2,4-Dichloroaniline 	2,4-dichloroaniline dehalogenase	4-Chloroaniline
+r0137	2,4-Dichlorobenzoate	2,4-dichlorobenzoate-CoA ligase	2,4-Dichlorobenzoyl-CoA
+r0138	2,4-Dichlorobenzoyl-CoA	2,4-dichlorobenzoyl-CoA reductase	4-Chlorobenzoyl-CoA
+R05393	2,4-Dichloro-cis,cis-muconate	dichloromuconate cycloisomerase	trans-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide
+R0277	2,4-Dichloro-cis,cis-muconate	dichloromuconate cycloisomerase	trans-2-Chlorodienelactone
+r0275	2,4-Dichlorophenol	2,4-dichlorophenol hydroxylase	3,5-Dichlorocatechol
+R03997	2,4-Dichlorophenol 	2,4-dichlorophenol 6-monooxygenase	3,5-Dichlorocatechol 
+R05419	2,4-Dichlorophenoxyacetate	2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase	2,4-Dichlorophenol
+R05505	2,4-Dichlorophenoxyacetate 	2,4-D dehalogenase	4-Chlorophenoxyacetate 
+r0274	2,4-Dichlorophenoxyacetic acid	2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase	2,4-Dichlorophenol
+r0280	2,4-Dichlorophenoxyacetic acid	2,4-dichlorophenoxyacetate reductive dehalogenase	4-Chlorophenoxyacetate
+r0274	2,4-Dichlorophenoxyacetic acid	2,4-dichlorophenoxyacetate alpha-ketoglutarate dioxygenase	Glyoxylate
+r0957	2,4-Dichlorotoluene	tetrachlorobenzene dioxygenase	4,6-Dichloro-3-methyl-cis-1,2-dihydroxycyclohexa-3,5-diene
+r0122	2,4-Dihydroxy-6-(N'-ethyl)amino-1,3,5-triazine	2,4-dihydroxy-6-(N'-ethyl)amino-1,3,5-triazine ethylaminohydrolase	Cyanuric acid
+r0122	2,4-Dihydroxy-6-(N'-ethyl)amino-1,3,5-triazine	2,4-dihydroxy-6-(N'-ethyl)amino-1,3,5-triazine ethylaminohydrolase	Ethyl amine
+r1415	2,4-Dihydroxy-6-amino-1,3,5-triazine	N-isopropylammelide isopropylaminohydrolase	Cyanuric acid
+r0370	2,4-Dihydroxy-hept-trans-2-ene-1,7-dioate	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	Pyruvate
+r0370	2,4-Dihydroxy-hept-trans-2-ene-1,7-dioate	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	Succinic semialdehyde
+r0628	2,4-Dihydroxylamino-6-nitrotoluene	No enzyme supplied	2-Amino-5-hydroxyl-4-hydroxylamino-6-nitrotoluene
+r0467	2,4-Dihydroxylamino-6-nitrotoluene	NAD(P)H nitroreductase	4-Amino-2-hydroxylamino-6-nitrotoluene
+R08016	2,4-Dihydroxylamino-6-nitrotoluene 	nitroreductase	4-Amino-2-hydroxylamino-6-nitrotoluene
+r1069	2,4-Dinitrocyclohexanone	2,4-dinitrocyclohexanone hydrolase	4,6-Dinitrohexanoate
+r1071	2,4-Dinitrophenol	hydride transferase 2	2,4-DNP Hydride Meisenheimer complex
+r1543	2,4-Dinitrotoluene	NAD(P)H nitroreductase	2-Amino-4-nitrotoluene
+r1501	2,4-Dinitrotoluene	2,4-dinitrotoluene dioxygenase	4-Methyl-5-nitrocatechol
+r1544	2,4-Dinitrotoluene	NAD(P)H nitroreductase	4-Amino-2-nitrotoluene
+r1068	2,4-DNP Hydride Meisenheimer complex	hydride transferase 1	2,4-Dinitrocyclohexanone
+r0553	2,5-Dichloro-2,5-cyclohexadiene-1,4-diol	2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase	2,5-Dichlorohydroquinone
+r0531	2,5-Dichloro-4-oxohex-2-enedioate	maleylacetate reductase	2-Chloro-3-oxoadipate
+r0530	2,5-Dichloro-carboxymethylenebut-2-en-4-olide	dienelactone hydrolase	2,5-Dichloro-4-oxohex-2-enedioate
+R06835	2,5-Dichloro-carboxymethylenebut-2-en-4-olide 	carboxymethylenebutenolidase	2,5-Dichloro-4-oxohex-2-enedioate
+r0656	2,5-Dichloro-cis,cis-muconate	chloromuconate cycloisomerase	trans-2-Chlorodienelactone
+r0554	2,5-Dichlorohydroquinone	2,5-dichlorohydroquinone reductive dechlorinase	Chlorohydroquinone
+r0361	2,5-Dichlorohydroquinone 	chlorophenol 4-monooxygenase	5-Chloro-1,2,4-trihydroxybenzene
+R05269	2,5-Dichlorohydroquinone 	2,5-dichlorohydroquinone reductive dehalogenase	Chlorohydroquinone 
+r1443	2,5-Dihydroxypyridine	2,5-dihydroxypyridine 5,6-dioxygenase	Maleamate
+r0428	2,5-Diketocamphane	camphor 1,2-monooxygenase	2-Oxo-delta3-4,5,5-trimethylcyclopentenylacetate
+r1295	2,6,7-Trihydroxybenzothiazole	catechol 1,2-dioxygenase	4-[2-Carboxylatovinyl]-2-hydroxythiazole-5-carboxylate
+R08030	2,6-Diamino-4-nitrotoluene	No Kegg enzyme supplied	2,4,6-Triaminotoluene
+r0718	2,6-Dibromohydroquinone	2,6-dichloro-p-hydroquinone 1,2-dioxygenase	2-Bromomaleylacetate
+r0547	2,6-Dibromophenol	chlorophenol 4-monooxygenase	2,6-Dibromohydroquinone
+r1606	2,6-Dichlorobenzamide	2,6-dichlorobenzamide reductive dehalogenase	2-Chlorobenzamide
+r1586	2,6-Dichlorobenzamide	amidase	2,6-Dichlorobenzoate
+r1587	2,6-Dichlorobenzoate	2,6-dichlorobenzoate reductive dehalogenase	2-Chlorobenzoate
+r1585	2,6-Dichlorobenzonitrile	nitrile hydratase	2,6-Dichlorobenzamide
+R05408	2,6-Dichlorohydroquinone 	2,6-dichloro-p-hydroquinone 1,2-dioxygenase	2-Chloromaleylacetate 
+R05445	2,6-Dichlorohydroquinone 	No Kegg enzyme supplied	6-Chlorobenzene-1,2,4-triol 
+r0319	2,6-Dichlorohydroquinone (DiCH)	2,6-dichloro-p-hydroquinone 1,2-dioxygenase	2-Chloromaleylacetate
+R05448	2,6-Dichlorophenol 	chlorophenol 4-monooxygenase	2,6-Dichlorohydroquinone
+r0316	2,6-Dichlorophenol (2,6-DCP)	chlorophenol 4-monooxygenase	2,6-Dichlorohydroquinone (DiCH)
+r1700	2,6-Diethyl-N-(methoxymethyl)aniline	2,6-diethyl-N-(methoxymethyl)aniline monooxygenase	2,6-Diethylaniline
+r1697	2,6-Diethyl-N-(methoxymethyl)aniline	2,6-diethyl-N-(methoxymethyl)aniline dehydrogenase	7-Ethyl-3-methyl-2-methoxy-2,3-dihydroindole
+r1700	2,6-Diethyl-N-(methoxymethyl)aniline	2,6-diethyl-N-(methoxymethyl)aniline monooxygenase	Formaldehyde
+r1704	2,6-Diethyl-N-(methoxymethyl)aniline	No enzyme supplied	N-(2,6-Diethylphenyl)-methyleneamine
+r1294	2,6-Dihydroxybenzothiazole	2,6-dihydroxybenzothiazole monooxygenase	2,6,7-Trihydroxybenzothiazole
+r0205	2,6-Dihydroxycyclohexane-1-carboxyl-CoA	2,6-dihydroxycyclohexane-1-carboxyl-CoA dehydrogenase	6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA
+r0482	2,6-Dihydroxypseudooxynicotine	2,6-dihydroxypseudooxynicotine hydrolase	4-Methylaminobutyrate
+r0481	2,6-Dihydroxypseudooxynicotine	No enzyme supplied	2,6-Dihydroxy-N-methylmysosmine
+r0482	2,6-Dihydroxypseudooxynicotine	2,6-dihydroxypseudooxynicotine hydrolase	2,6-Dihydroxypyridine
+r0479	2,6-Dihydroxypyridine	2,6-dihydroxypyridine oxidase	2,3,6-Trihydroxypyridine
+r0987	2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA	2,6-dimethyl-5-methylene-3-oxo-heptanoyl-CoA C-acetyltransferase	3-Isopropylbut-3-enoyl-CoA
+r0987	2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA	2,6-dimethyl-5-methylene-3-oxo-heptanoyl-CoA C-acetyltransferase	Propanoyl-CoA
+R08302	2,6-Dimethylaniline	No Kegg enzyme supplied	2-Amino-3-methylbenzoate
+R08301	2,6-Dimethylaniline	No Kegg enzyme supplied	4-Hydroxy-2,6-dimethylaniline
+R07683	2,6-Naphthalenedisulfonic acid 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; Miscellaneous	1,2-Dihydroxynaphthalene-6-sulfonate
+r0472	2-Amino-4,6-dinitrotoluene	No enzyme supplied	2-Amino-4-nitrotoluene
+r0474	2-Amino-4,6-dinitrotoluene	NAD(P)H nitroreductase	2,4-Diamino-6-nitrotoluene
+r0473	2-Amino-4,6-dinitrotoluene	NAD(P)H nitroreductase	2,6-Diamino-4-nitrotoluene
+R08044	2-Amino-4,6-dinitrotoluene 	nitroreductase	2,4-Diamino-6-nitrotoluene
+R08045	2-Amino-4,6-dinitrotoluene 	nitroreductase	2,6-Diamino-4-nitrotoluene
+r1546	2-Amino-4-nitrotoluene	NAD(P)H nitroreductase	2,4-Diaminotoluene
+r0584	2-Amino-5-oxocyclohex-1-enecarboxyl-CoA	No enzyme supplied	1,4-Cyclohexanedione
+r0584	2-Amino-5-oxocyclohex-1-enecarboxyl-CoA	No enzyme supplied	Coenzyme A
+r0218	2-Aminobenzenesulfonate	2-aminobenzenesulfonate 2,3-dioxygenase	3-Sulfocatechol
+r0578	2-Aminobenzoate	anthranilate 3-monooxygenase	2,3-Dihydroxybenzoate
+r0341	2-Aminobenzoate	2-aminobenzoate-CoA ligase	2-Aminobenzoyl-CoA
+r0577	2-Aminobenzoate	anthranilate 1,2-dioxygenase	Catechol
+r0568	2-Aminobenzoyl-CoA	anthraniloyl-CoA monooxygenase	2-Amino-5-oxocyclohex-1-enecarboxyl-CoA
+r0342	2-Aminobenzoyl-CoA	2-aminobenzoyl-CoA reductase	Benzoyl-CoA
+r0457	2'-Aminobiphenyl-2,3-diol	2'-aminobiphenyl-2,3-diol 1,2-dioxygenase	2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2E,4Z-dienoate
+R05415	2'-Aminobiphenyl-2,3-diol 	2'-aminobiphenyl-2,3-diol 1,2-dioxygenase	2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2,4-dienoate
+r0305	2-Aminophenol	2-aminophenol 1,6-dioxygenase	2-Aminomuconate semialdehyde
+R05383	2-Aminophenol	(hydroxyamino)benzene mutase	Hydroxylaminobenzene
+R05405	2-Aminophenol 	2-aminophenol 1,6-dioxygenase	2-Aminomuconate semialdehyde
+R07116	2-Bromoacetaldehyde	glutathione transferase	S-(Formylmethyl)glutathione 
+r0542	2-Bromomaleylacetate	maleylacetate reductase	Maleylacetate
+R03307	2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate	4-carboxymuconolactone decarboxylase	2-Oxo-2,3-dihydrofuran-5-acetate
+R03470	2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate	3-carboxy-cis,cis-muconate cycloisomerase	3-Carboxy-cis,cis-muconate
+r0791	2-Carboxy-2-hydroxy-8-carboxychromene	2-carboxy-2-hydroxy-8-carboxychromene isomerase	2-Hydroxy-3-carboxybenzalpyruvate
+r0490	2-Carboxybenzaldehyde	2-carboxybenzaldehyde dehydrogenase	Phthalate
+r1296	2-Carboxycyclohexylacetate	No enzyme supplied	Carbon Dioxide
+R04259	2-Chloro-2,5-dihydro-5-oxofuran-2-acetate	chloromuconate cycloisomerase	3-Chloro-cis,cis-muconate
+R04500	2-Chloro-2,5-dihydro-5-oxofuran-2-acetate	No Kegg enzyme supplied	cis-4-Carboxymethylenebut-2-en-4-olide
+r1699	2-Chloro-2',6'-diethylacetanilide	2-chloro-2',6'-diethylacetanilide amidohydrolase	Chloroacetate
+r1678	2-Chloro-2',6'-diethylacetanilide	2-chloro-2',6'-diethylactanilide dehydrogenase	1-Chloroacetyl-2,3-dihydro-7-ethylindole
+r1699	2-Chloro-2',6'-diethylacetanilide	2-chloro-2',6'-diethylacetanilide amidohydrolase	2,6-Diethylaniline
+r0966	2-Chloro-3-methyl-cis/trans-dienelactone	dienelactone hydrolase	3-Chloro-2-methylmaleylacetate
+r0532	2-Chloro-3-oxoadipate	Enzyme record not found	Chloroacetate
+R06855	2-Chloro-3-oxoadipate	No Kegg enzyme supplied	Chloroacetic acid
+r0532	2-Chloro-3-oxoadipate	Enzyme record not found	Succinate
+r1414	2-Chloro-4-hydroxy-6-amino-1,3,5-triazine	hydroxydechloroatrazine ethylaminohydrolase	2,4-Dihydroxy-6-amino-1,3,5-triazine
+R06966	2-Chloro-4-hydroxy-6-amino-1,3,5-triazine 	hydroxydechloroatrazine ethylaminohydrolase	Ammelide 
+r0961	2-Chloro-5-methyl-cis-dienelactone	dienelactone hydrolase	2-Chloro-5-methylmaleylacetate
+r1537	2-Chloro-5-methylmaleylacetate	maleylacetate reductase	5-Methylmaleylacetate
+r1605	2-Chlorobenzamide	amidase	2-Chlorobenzoate
+r0632	2-Chlorobenzoate	halobenzoate 1,2-dioxygenase	Catechol
+r1588	2-Chlorobenzoate	2-chlorobenzoate reductive dehalogenase	Benzoate
+R01033	2-Chlorobenzoate 	2-chlorobenzoate 1,2-dioxygenase	Catechol 
+r0111	2-Chloro-cis,cis-muconate	chloromuconate cycloisomerase	trans-4-Carboxymethylenebut-2-en-4-olide
+r0002	2-Chloroethanol	quinoprotein alcohol dehydrogenase	Chloroacetaldehyde
+R09128	2-Chloroethanol 	methanol dehydrogenase (cytochrome c)	Chloroacetaldehyde
+R05285	2-Chloroethanol  	alcohol dehydrogenase (cytochrome c)	Chloroacetaldehyde
+r0098	2-Chloromaleylacetate	maleylacetate reductase	Maleylacetate
+R05355	2-Chloromaleylacetate 	maleylacetate reductase	2-Maleylacetate
+r0725	2-Chloro-N-isopropylacetamide	No enzyme supplied	Carbon Dioxide
+r0719	2-Chloro-N-isopropylacetanilide	2-chloro-N-isopropylacetanilide reductive dehalogenase	N-Isopropylacetanilide
+r0724	2-Chloro-N-isopropylacetanilide	2-chloro-N-isopropylacetanilide 1,2-dioxygenase	2-Chloro-N-isopropylacetamide
+r0724	2-Chloro-N-isopropylacetanilide	2-chloro-N-isopropylacetanilide 1,2-dioxygenase	Catechol
+r1623	2-Chlorophenol	phenol 2-monooxygenase	3-Chlorocatechol
+r1702	2-Ethenyl-6-ethyl-N-methylideneaniline	No enzyme supplied	7-Ethyl-N-methylindole
+r1698	2-Ethenyl-6-ethyl-N-methylideneaniline	2-ethenyl-6-ethyl-N-methylideneaniline dehydrogenase	8-Ethylquinoline
+R08340	2-Ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine	unspecific monooxygenase	2-Ethyl-5-methyl-3,3-diphenyl-1-pyrroline
+R08100	2-Fluorobenzoate 	benzoate 1,2-dioxygenase	2-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate
+R08101	2-Fluorobenzoate 	benzoate 1,2-dioxygenase	6-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate
+R08119	2-Fluoro-cis,cis-muconate	chloromuconate cycloisomerase	5-Fluoromuconolactone
+R08122	2-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate	Oxidoreductases; Acting on the CH-CH group of donors; With NAD+ or NADP+ as acceptor	Catechol
+r0414	2-Formyl-1-indanone	No enzyme supplied	1-Indanone
+r1355	2-Furoate	2-furoyl-CoA synthetase	2-Furoyl-CoA
+r1356	2-Furoyl-CoA	2-furoyl-CoA dehydrogenase	5-Hydroxy-2-furoyl-CoA
+r0799	2-Hydroxy-1,4-benzoquinone	2-hydroxy-1,4-benzoquinone 2-reductase	p-Benzoquinone
+r0667	2-Hydroxy-1,4-benzoquinone	hydroxybenzoquinone reductase	1,2,4-Benzenetriol
+R05399	2-Hydroxy-1,4-benzoquinone 	2-hydroxy-1,4-benzoquinone reductase	Benzene-1,2,4-triol 
+R02601	2-Hydroxy-2,4-pentadienoate 	2-hydroxymuconate-semialdehyde hydrolase	2-Hydroxymuconate semialdehyde
+R02604	2-Hydroxy-2,4-pentadienoate 	Hydroxylases; Acting on carbon-carbon bonds; In ketonic substances	2-Hydroxy-6-keto-2,4-heptadienoate
+R02601	2-Hydroxy-2,4-pentadienoate 	2-oxopent-4-enoate hydratase	4-Hydroxy-2-oxopentanoate
+r1694	2-Hydroxy-2',6'-diethyl-N-acetanilide	2-hydroxy-2',6'-diethyl-N-acetanilide monooxygenase	Formaldehyde
+r1694	2-Hydroxy-2',6'-diethyl-N-acetanilide	2-hydroxy-2',6'-diethyl-N-acetanilide monooxygenase	N-(2,6-Diethylphenyl)-2-hydroxyacetamide
+R05642	2-Hydroxy-2H-benzo[h]chromene-2-carboxylate	Isomerases; Racemases and epimerases; Acting on hydroxy acids and derivatives	cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate
+r0502	2-Hydroxy-2H-benzo[h]chromene-2-carboxylate	2-hydroxy-2H-benzo[h]chromene-2-carboxylate isomerase	trans-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate
+R04489	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate	muconate cycloisomerase	4-Carboxy-2-hydroxymuconate semialdehyde
+R04278	2-Hydroxy-2-hydropyrone-4,6-dicarboxylate 	4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase	2-Pyrone-4,6-dicarboxylate
+r0621	2-Hydroxy-2-methyl-1,3-dicarbonate	2-hydroxy-2-methyl-1,3-dicarbonate decarboxylase	L-Lactate
+r1542	2-Hydroxy-3-(3-methylpropan-2-ol) benzene-N-methylcarbamate	2-hydroxy-3-(3-methylpropan-2-ol) benzene-N-methylcarbamate hydrolase	3-(2-Hydroxy-2-methylpropyl)benzene-1,2-diol
+r1542	2-Hydroxy-3-(3-methylpropan-2-ol) benzene-N-methylcarbamate	2-hydroxy-3-(3-methylpropan-2-ol) benzene-N-methylcarbamate hydrolase	Methylamine
+r0398	2-Hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate	2-hydroxy-3-carboxy-6-oxo-7-methylocta-2,4-dienoate decarboxylase	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate
+r0792	2-Hydroxy-3-carboxybenzalpyruvate	2-hydroxy-3-carboxy-benzalpyruvate hydratase-aldolase	3-Formylsalicylic acid
+r0792	2-Hydroxy-3-carboxybenzalpyruvate	2-hydroxy-3-carboxy-benzalpyruvate hydratase-aldolase	Pyruvate
+R06923	2-Hydroxy-3-carboxybenzalpyruvate 	2-hydroxy-3-carboxy-benzalpyruvate hydratase-aldolase	3-Formylsalicylic acid 
+r1562	2-Hydroxy-3-methyl-6-oxohepta-2,4-dienoate	No enzyme supplied	Carbon Dioxide
+r0783	2-Hydroxy-3-methylbenzalpyruvate	2-hydroxy-3-methylbenzalpyruvate hydratase-aldolase	3-Methylsalicylaldehyde
+r0783	2-Hydroxy-3-methylbenzalpyruvate	2-hydroxy-3-methylbenzalpyruvate hydratase-aldolase	Pyruvate
+r0413	2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)but-2-enoate	Enzyme record not found	2-Formyl-1-indanone
+r0413	2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)but-2-enoate	Enzyme record not found	Pyruvate
+R05538	2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)-but-2-enoic acid	No Kegg enzyme supplied	2-Formyl-1-indanone
+r0420	2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoate	Enzyme record not found	1-Formyl-2-indanone
+r0420	2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoate	Enzyme record not found	Pyruvate
+R05544	2-Hydroxy-4-(2-oxo-1,3-dihydro-2H-inden-1-ylidene)but-2-enoic acid	No Kegg enzyme supplied	1-Formyl-2-indanone
+r1559	2-Hydroxy-4,5-dimethyl-6-oxohexa-2,4-dienoate	No enzyme supplied	Carbon Dioxide
+r1675	2-Hydroxy-4-carboxymuconate semialdehyde	2-hydroxy-4-carboxymuconate semialdehyde dehydrogenase	2-Pyrone-4,6-dicarboxylate
+r0766	2-Hydroxy-4-hydroxymethylbenzalpyruvate	2-hydroxy-4-hydroxymethylbenzalpyruvate hydratase-aldolase	4-Hydroxymethylsalicylaldehyde
+r0766	2-Hydroxy-4-hydroxymethylbenzalpyruvate	2-hydroxy-4-hydroxymethylbenzalpyruvate hydratase-aldolase	Pyruvate
+R06934	2-Hydroxy-4-hydroxymethylbenzalpyruvate 	2-hydroxy-4-hydroxymethylbenzalpyruvate hydratase-aldolase	4-Hydroxymethylsalicylaldehyde
+r1003	2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA	2-hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA dehydrogenase	4-Isopropenyl-2-ketocyclohexane-1-carboxyl-CoA
+r1556	2-Hydroxy-5-methyl-6-oxohepta-2,4-dienoate	No enzyme supplied	Carbon Dioxide
+R05389	2-Hydroxy-5-methyl-cis,cis-muconate	Isomerases; Intramolecular oxidoreductases; Interconverting keto- and enol-groups	2-Oxo-5-methyl-cis-muconate
+r0181	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde	2-hydroxymuconate semialdehyde hydrolase	2-Oxohex-trans-4-enoate
+r0181	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde	2-hydroxymuconate semialdehyde hydrolase	Formate
+R05353	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde 	2-hydroxymuconate-semialdehyde hydrolase	2-Hydroxy-cis-hex-2,4-dienoate
+R05865	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde 	aminomuconate-semialdehyde dehydrogenase	2-Hydroxy-5-methyl-cis,cis-muconate
+r1503	2-Hydroxy-5-methylquinone	2-hydroxy-5-methylquinone reductase	2,4,5-Trihydroxytoluene
+r0438	2-Hydroxy-6-keto-nona-2,4-dienedioate	2-hydroxy-6-ketonona-2,4-dienedoic acid hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r0438	2-Hydroxy-6-keto-nona-2,4-dienedioate	2-hydroxy-6-ketonona-2,4-dienedoic acid hydrolase	Succinate
+r1622	2-Hydroxy-6-ketononatrienedioate	2-hydroxy-6-ketonona-2,4-dienedoic acid hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r1622	2-Hydroxy-6-ketononatrienedioate	2-hydroxy-6-ketonona-2,4-dienedoic acid hydrolase	Fumarate
+R05365	2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2,4-dienoate 	anthraniloyl-CoA monooxygenase	2-Hydroxy-2,4-pentadienoate
+R05365	2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2,4-dienoate 	Hydrolases; Acting on carbon-carbon bonds; In ketonic substances	Anthranilate
+r0458	2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2E,4Z-dienoate	2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoate hydrolase	2-Aminobenzoate
+r0458	2-Hydroxy-6-oxo-(2'-aminophenyl)-hexa-2E,4Z-dienoate	2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r1042	2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate	2-hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r1042	2-Hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate	2-hydroxy-6-oxo-6-(2-carboxyphenyl)-hexa-2,4-dienoate hydrolase	Phthalate
+r0573	2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)hexa-2,4-dienoate	Enzyme record not found	Catechol
+R05361	2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)-hexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	2-Hydroxymuconate
+R05361	2-Hydroxy-6-oxo-6-(2-hydroxyphenoxy)-hexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	Catechol
+r0028	2-Hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	2-Oxopent-4-enoate
+r0028	2-Hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	Salicylate
+R05360	2-Hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	2-Hydroxy-2,4-pentadienoate
+R05360	2-Hydroxy-6-oxo-6-(2-hydroxyphenyl)-hexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	Salicylate
+r0136	2-Hydroxy-6-oxo-6-(4'-chlorophenyl)-hexa-2,4-dienoate	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	4-Chlorobenzoate
+r0136	2-Hydroxy-6-oxo-6-(4'-chlorophenyl)-hexa-2,4-dienoate	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+R05359	2-Hydroxy-6-oxo-6-(4'-chlorophenyl)-hexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	2-Hydroxy-2,4-pentadienoate
+R05359	2-Hydroxy-6-oxo-6-(4'-chlorophenyl)-hexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	4-Chlorobenzoate
+r0391	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	Benzoate
+r0391	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoate	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+R02606	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoate 	2,6-dioxo-6-phenylhexa-3-enoate hydrolase	Benzoate 
+r0399	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r0399	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate	2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	Isobutyrate
+R05364	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate 	HOMODA hydrolase	2-Hydroxy-2,4-pentadienoate
+R05364	2-Hydroxy-6-oxo-7-methylocta-2,4-dienoate 	HOMODA hydrolase	2-Methylpropanoate
+R05362	2-Hydroxy-6-oxoocta-2,4,7-trienoate 	2-hydroxymuconate-semialdehyde hydrolase	2-Hydroxy-2,4-pentadienoate
+R05362	2-Hydroxy-6-oxoocta-2,4,7-trienoate 	2-hydroxymuconate-semialdehyde hydrolase	Propenoate
+r0311	2-Hydroxy-6-oxoocta-2,4-dienoate	2-hydroxy-6-oxoocta-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r0311	2-Hydroxy-6-oxoocta-2,4-dienoate	2-hydroxy-6-oxoocta-2,4-dienoate hydrolase	Propanoate
+R05366	2-Hydroxy-6-oxo-octa-2,4-dienoate 	Hydrolases; Acting on carbon-carbon bonds; In ketonic substances	2-Hydroxy-2,4-pentadienoate
+R05366	2-Hydroxy-6-oxo-octa-2,4-dienoate 	Hydrolases; Acting on carbon-carbon bonds; In ketonic substances	Propanoate
+r0765	2-Hydroxy-7-hydroxymethylchromene-2-carboxylate	2-hydroxy-7-hydroxymethylchromene-2-carboxylate isomerase	2-Hydroxy-4-hydroxymethylbenzalpyruvate
+r0782	2-Hydroxy-8-methylchromene-2-carboxylate	2-hydroxy-8-methylchromene-2-carboxylate isomerase	2-Hydroxy-3-methylbenzalpyruvate
+r1291	2-Hydroxybenzothiazole	2-hydroxybenzothiazole monooxygenase	2,6-Dihydroxybenzothiazole
+r1423	2-Hydroxybiphenyl	2-hydroxybiphenyl 3-monooxygenase	2,3-Dihydroxybiphenyl
+r0236	2'-Hydroxybiphenyl-2-sulfinate	2'-hydroxybiphenyl-2-sulfinate desulfinase	2-Hydroxybiphenyl
+R08318	2-Hydroxycarbamazepine	unspecific monooxygenase	2-Hydroxyiminostilbene
+R08320	2-Hydroxycarbamazepine	No Kegg enzyme supplied	2,3-Dihydroxycarbamazepine
+r0337	2-Hydroxychromene-2-carboxylate	glutathione transferase	trans-o-Hydroxybenzylidenepyruvate
+r1671	2-Hydroxy-cis,cis-muconate semialdehyde	2-hydroxymuconate semialdehyde hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r1671	2-Hydroxy-cis,cis-muconate semialdehyde	2-hydroxymuconate semialdehyde hydrolase	Formate
+R05864	2-Hydroxy-cis-hex-2,4-dienoate 	2-oxopent-4-enoate hydratase	4-Hydroxy-2-oxohexanoic acid
+R03278	2-Hydroxycyclohexan-1-one 	cyclohexanone monooxygenase	1-Oxa-2-oxo-3-hydroxycycloheptane
+R06622	2-Hydroxycyclohexan-1-one 	cyclohexane-1,2-diol dehydrogenase	Cyclohexane-1,2-dione 
+r0192	2-Hydroxycyclohexane-1-carboxyl-CoA	2-hydroxycyclohexane-1-carboxyl-CoA dehydrogenase	2-Ketocyclohexane-1-carboxyl-CoA
+r1173	2-Hydroxydec-2,4-diene-1,10-dioate	2-hydroxydec-2,4-diene-1,10-dioate hydratase	(2Z)-2,4-Dihydroxydec-2-enedioate
+r1572	2-Hydroxyethoxyacetate	hydroxyethoxyacetate monooxygenase	p-Dihydroxyethoxyacetate
+r1594	2-Hydroxyethoxyacetate	hydroxyethoxyacetate monooxygenase	o-Dihydroxethoxyacetate
+R08319	2-Hydroxyiminostilbene	No Kegg enzyme supplied	2H-Dibenz[b,f]azepin-2-one
+r0617	2-Hydroxyisobutyrate	2-hydroxyisobutyrate decarboxylase	2-Propanol
+r0618	2-Hydroxyisobutyrate	2-hydroxyisobutyrate dehydratase	Methacrylate
+r0619	2-Hydroxyisobutyrate	2-hydroxyisobutyrate 3-monooxygenase	2,3-Dihydroxy-2-methyl propionate
+r1338	2-Hydroxyisonicotinate	2-hydroxyisonicotinate dehydrogenase	Citrazinate
+r0776	2-Hydroxyisophthalic acid	2-hydroxyisophthalate decarboxylase	Salicylate
+r0470	2-Hydroxylamino-4,6-dinitrotoluene	No enzyme supplied	2,4',6,6'-Tetranitro-4,2'-azoxytoluene
+R08037	2-Hydroxylamino-4,6-dinitrotoluene	No Kegg enzyme supplied	2,4',6,6'-Tetranitro-2',4-azoxytoluene
+R08037	4-Hydroxylamino-2,6-dinitrotoluene	No Kegg enzyme supplied	2,4',6,6'-Tetranitro-2',4-azoxytoluene
+r0471	2-Hydroxylamino-4,6-dinitrotoluene	NAD(P)H nitroreductase	2-Amino-4,6-dinitrotoluene
+r0475	2-Hydroxylamino-4,6-dinitrotoluene	No Kegg enzyme supplied	4,4',6,6'-Tetranitro-2,2'-azoxytoluene
+r0762	2-Hydroxymethylnaphthalene	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroxy-1,2-dihydro-7-hydroxymethylnaphthalene
+r0771	2-Hydroxymethylnaphthalene	alcohol dehydrogenase	2-Naphthaldehyde
+r1531	2-Hydroxymorpholine	unspecific monooxygenase	2-(2-Aminoethoxy)acetaldehyde
+R03966	2-Hydroxymuconate	4-oxalocrotonate tautomerase	gamma-Oxalocrotonate
+R03966	2-Hydroxymuconate	protocatechuate 4,5-dioxygenase	gamma-Oxalocrotonate
+R02762	2-Hydroxymuconate semialdehyde 	aminomuconate-semialdehyde dehydrogenase	2-Hydroxymuconate 
+R02763	2-Hydroxymuconate semialdehyde 	No Kegg enzyme supplied	3-Carboxy-2-hydroxymuconate semialdehyde
+r0252	2-Hydroxyphenylacetate	2-hydroxyphenylacetate hydroxylase	Homogentisate
+r0019	2-Hydroxytetrahydrofuran	2-hydroxytetrahydrofuran isomerase	4-Hydroxybutyraldehyde
+r0018	2-Hydroxytetrahydrofuran	2-hydroxytetrahydrofuran dehydrogenase	Butyrolactone
+r0261	2-Hydroxytoluene	toluene 2-monooxygenase	3-Methylcatechol
+r0424	2-Indanone	2-indanone monooxygenase	3-Isochromanone
+R05592	2-Ketocyclohexane-1-carboxyl-CoA	2-ketocyclohexanecarboxyl-CoA hydrolase	6-Carboxyhexanoyl-CoA
+r0193	2-Ketocyclohexane-1-carboxyl-CoA	2-ketocyclohexane-1-carboxyl-CoA hydrolase	Pimeloyl-CoA
+R03892	2-Maleylacetate	No Kegg enzyme supplied	3-Hydroxy-cis,cis-muconate
+r1293	2-Mercaptobenzothiazole	thiol oxidase	2,2'-Dithio-bis-benzothiazole
+r1177	2-Mercaptobenzothiazole	2-mercaptobenzothiazole dioxygenase	2-Mercaptobenzothiazole-cis-6,7-dihydrodiol
+r1289	2-Mercaptobenzothiazole	No enzyme supplied	Benzothiazole-2-sulfonate
+r1286	2-Mercaptobenzothiazole	thiol S-methyltransferase	2-(Methylthio)benzothiazole
+r1178	2-Mercaptobenzothiazole	2-mercaptobenzothiazole monooxygenase	6-Hydroxy-2-mercaptobenzothiazole
+r1288	2-Mercaptobenzothiazole	2-mercaptobenzothiazole desulfurase	Benzothiazole
+r1179	2-Mercaptobenzothiazole-cis-6,7-dihydrodiol	2-mercaptobenzothiazole-cis-6,7-dihydrodiol dehydrogenase	6,7-Dihydroxy-2-mercaptobenzothiazole
+r0616	2-Methyl-2-hydroxy-1-propanol	2-methyl-1,2-propanediol dehydrogenase	2-Methyl-2-hydroxypropanal
+r1535	2-Methyl-2-hydroxypropanal	hydroxyisobutyraldehyde dehydrogenase	2-Hydroxyisobutyrate
+r1521	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate	2-methyl-3-hydroxy-5-formylpyridine-4-carboxylate dehydrogenase	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate
+r0931	2-Methyl-3-oxohexanoyl-CoA	butyryl-CoA 2-C-propionyltransferase	Butyryl-CoA
+r0931	2-Methyl-3-oxohexanoyl-CoA	butyryl-CoA 2-C-propionyltransferase	Propanoyl-CoA
+r0222	2-Methylbenzaldehyde	benzaldehyde dehydrogenase	o-Methylbenzoate
+R05663	2-Methylbenzaldehyde 	benzaldehyde dehydrogenase (NADP+)	o-Toluate 
+r0221	2-Methylbenzyl alcohol	benzyl alcohol dehydrogenase	2-Methylbenzaldehyde
+R05348	2-Methylbenzyl alcohol 	aryl-alcohol dehydrogenase	2-Methylbenzaldehyde 
+r0929	2-Methylhex-2-enoyl-CoA	2-methylhex-2-enoyl-CoA hydratase	3-Hydroxy-2-methylhexanoyl-CoA
+r0928	2-Methylhexanoyl-CoA	2-methylhexanoyl-CoA dehydrogenase	2-Methylhex-2-enoyl-CoA
+R06903	2-Methylnaphthalene	naphthyl-2-methyl-succinate synthase	Naphthyl-2-methyl-succinic acid
+r1267	2-Methylnaphthalene	benzylsuccinate synthase	Naphthyl-2-methyl-succinate
+r0788	2-Methylnaphthalene	2-methylnaphthalene hydroxylase	2-Hydroxymethylnaphthalene
+r0770	2-Methylnaphthalene	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroxy-1,2-dihydro-7-methylnaphthalene
+R06926	2-Methylnaphthalene 	2-methylnaphthalene hydroxylase	(2-Naphthyl)methanol 
+R06937	2-Methylnaphthalene 	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroxy-1,2-dihydro-7-methylnaphthalene
+r1473	2-Methylquinoline-3,4-diol	1H-3-hydroxy-4-oxoquinaldine 2,4-dioxygenase	N-Acetylanthranilate
+r0043	2-Mononitroglycerol	xenobiotic reductase	Glycerol
+r0772	2-Naphthaldehyde	2-naphthaldehyde dehydrogenase	2-Naphthoate
+r0796	2-Naphthaldehyde	No enzyme supplied	4-Formylsalicylic acid
+R06928	2-Naphthaldehyde 	2-naphthaldehyde dehydrogenase	2-Naphthoic acid 
+R07699	2-Naphthalenesulfonic acid 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; Miscellaneous	Naphthalene-1,2-diol 
+r1263	2-Naphthoate	No enzyme supplied	5,6,7,8-Tetrahydro-2-naphthoate
+R06898	2-Naphthoic acid	No Kegg enzyme supplied	1-Hydroxy-2-naphthoate
+R06902	2-Naphthoic acid	No Kegg enzyme supplied	5,6,7,8-Tetrahydro-2-naphthoic acid
+R07020	2-Naphthol 	unspecific monooxygenase	Naphthalene-1,2-diol 
+R07881	2-Naphthoyl-CoA	2-naphthoate CoA-transferase	2-Naphthoic acid 
+r1262	2-Naphthoyl-CoA	2-naphthoate CoA-transferase	2-Naphthoate
+r1494	2-Nitrophenol	nitrophenol 2-monooxygenase	Catechol
+r0585	2-Nitropropane	2-nitropropane dioxygenase	Acetone
+R08338	2-n-Propyl-2-pentenoic acid	No Kegg enzyme supplied	3-Hydroxyvalproic acid
+R08333	2-n-Propyl-4-oxopentanoic acid	No Kegg enzyme supplied	2-Propylsuccinic acid
+R08329	2-n-Propyl-4-pentenoic acid	No Kegg enzyme supplied	2-Propyl-2,4-pentadienoic acid
+R02991	2-Oxo-2,3-dihydrofuran-5-acetate 	3-oxoadipate enol-lactonase	3-Oxoadipate
+R05374	2-Oxo-5-methyl-cis-muconate	4-oxalocrotonate decarboxylase	2-Hydroxy-cis-hex-2,4-dienoate 
+r0358	2-Oxobutanoate	2-oxobutyrate synthase	Propanoyl-CoA
+r0429	2-Oxo-delta3-4,5,5-trimethylcyclopentenylacetate	2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA synthetase	2-Oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA
+r0430	2-Oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA	2-oxo-delta3-4,5,5-trimethylcyclopentenylacetyl-CoA 1,2-monooxygenase	delta2,5-3,4,4-Trimethylpimelyl-CoA
+r1238	2-Oxoglutaryl-CoA	2-oxoglutaryl-CoA thioesterase	2-Oxoglutarate
+r0182	2-Oxohex-trans-4-enoate	2-oxopent-4-enoate hydratase	4-Hydroxy-2-oxohexanoate
+r0854	2-Oxopropyl-CoM	2-oxopropyl-CoM reductase	Acetoacetate
+r0563	2-Phenanthrol	2-phenanthrol sulfotransferase	2-Phenanthrylsulfate
+R08306	2-Phenyl-1,3-propanediol monocarbamate 	alcohol dehydrogenase	3-Carbamoyl-2-phenylpropionaldehyde
+R02540	2-Phenylacetamide 	amidase	Phenylacetic acid 
+r1641	2-Pyrone-4,6-dicarboxylate	PDC hydrolase	4-Oxalomesaconate
+R04277	2-Pyrone-4,6-dicarboxylate 	2-pyrone-4,6-dicarboxylate lactonase	4-Carboxy-2-hydroxyhexa-2,4-dienedioate
+r0437	3-(2,3-Dihydroxyphenyl)propionate	3-(2,3-dihydroxyphenyl)propionate 1,2-dioxygenase	2-Hydroxy-6-keto-nona-2,4-dienedioate
+r0418	3-(2-Hydroxyphenyl)propionate	No enzyme supplied	Salicylate
+r1083	3-(4-Hydroxyphenyl)propionate	No enzyme supplied	4-Hydroxybenzoate
+r1663	3-(4-Sulfophenyl)butyrate	3-(4-sulfophenyl)butyrate-CoA synthetase	3-(4-Sulfophenyl)butyrate-CoA
+r1665	3-(4-Sulfophenyl)butyrate enoyl-CoA	enoyl-CoA hydratase	3-Hydroxy-3-(4-sulfophenyl)butyryl-CoA
+r1664	3-(4-Sulfophenyl)butyrate-CoA	3-(4-sulfophenyl)butyrate-CoA  dehydrogenase	3-(4-Sulfophenyl)butyrate enoyl-CoA
+r1399	3-(N-Formyl)-formiminopyruvate	3-(N-formyl)-formiminopyruvate hydrolase	3-Formiminopyruvate
+r1399	3-(N-Formyl)-formiminopyruvate	3-(N-formyl)-formiminopyruvate hydrolase	Formate
+r0821	3,3',5,5'-Tetrabromobisphenol A	3,3',5,5'-tetrabromobisphenol A reductive dehalogenase	3,3',5-Tribromobisphenol A
+r0842	3,3',5-Tribromobisphenol A	3,3',5-tribromobisphenol A reductive dehalogenase	3,3'-Dibromobisphenol A
+r0844	3,3'-Dibromobisphenol A	3,3'-dibromobisphenol A reductive dehalogenase	3-Monobromobisphenol A
+r1581	3,3'-Dithiodipropionate	3,3'-dithiodipropionate disulfide reductase	3-Mercaptopropionate
+r0528	3,4,6-Trichlorocatechol	catechol 1,2-dioxygenase	2,3,5-Trichloro-cis,cis-muconate
+r0527	3,4,6-Trichloro-cis-1,2-dihydroxycyclohexa-3,5-diene	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	3,4,6-Trichlorocatechol
+r0419	3,4-Dihydrocoumarin	3,4-dihydrocoumarin hydrolase	3-(2-Hydroxyphenyl)propionate
+R05543	3,4-Dihydroxy-3,4-dihydro-9-fluorenone	No Kegg enzyme supplied	4-Hydroxy-9-fluorenone 
+r1151	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	3,4-DHSA 4,5-dioxygenase	(3E,1Z)-4,5-9,10-Diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate
+r0144	3,4-Dihydroxybenzoate	protocatechuate 4,5-dioxygenase	2-Hydroxy-4-carboxymuconate semialdehyde
+r0143	3,4-Dihydroxybenzoate	protocatechuate 3,4-dioxygenase	3-Carboxy-cis,cis-muconate
+r1553	3,4-Dihydroxybenzoate	protocatechuate decarboxylase	Catechol
+R01631	3,4-Dihydroxybenzoate 	protocatechuate 3,4-dioxygenase	3-Carboxy-cis,cis-muconate
+R01632	3,4-Dihydroxybenzoate 	protocatechuate 4,5-dioxygenase	4-Carboxy-2-hydroxymuconate semialdehyde
+R01629	3,4-Dihydroxybenzoate 	3-hydroxybenzoate 4-monooxygenase	Benzene-1,2,4-triol 
+R05280	3,4-Dihydroxybenzoate 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; With NADH or NADPH as one donor, and incorporation of two atoms of oxygen into one donor	4-Aminobenzoate 
+r0415	3,4-Dihydroxyfluorene	3,4-dihydroxyfluorene 4,4a-dioxygenase	2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)but-2-enoate
+R05410	3,4-Dihydroxyfluorene 	3,4-dihydroxyfluorene 4,4a-dioxygenase	2-Hydroxy-4-(1-oxo-1,3-dihydro-2H-inden-2-ylidene)-but-2-enoic acid
+r0501	3,4-Dihydroxyphenanthrene	3,4-dihydroxyphenanthrene dioxygenase	2-Hydroxy-2H-benzo[h]chromene-2-carboxylate
+r0364	3,4-Dihydroxyphenylacetate	3,4-dihydroxyphenylacetate 2,3-dioxygenase	trans,cis-5-Carboxymethyl-2-hydroxymuconate semialdehyde
+r1447	3,4-Dihydroxyphthalate	3,4-dihydroxyphthalate 2-decarboxylase	3,4-Dihydroxybenzoate
+r1446	3,4-Dihydroxyphthalate	3,4-dihydroxyphthalate decarboxylase	2,3-Dihydroxybenzoate
+r1555	3,4-Dimethylcatechol	catechol 2,3-dioxygenase	2-Hydroxy-5-methyl-6-oxohepta-2,4-dienoate
+r0545	3,5-Dibromo-4-hydroxybenzamide	bromoxynil-specific nitrilase	3,5-Dibromo-4-hydroxybenzoate
+R07782	3,5-Dibromo-4-hydroxybenzamide 	amidase	3,5-Dibromo-4-hydroxybenzoate
+r0546	3,5-Dibromo-4-hydroxybenzoate	3,5-dibromo-4-hydroxybenzoate decarboxylase	2,6-Dibromophenol
+r0964	3,5-Dichloro-2-methylmuconolactone	chloromuconate cycloisomerase	2-Chloro-3-methyl-cis/trans-dienelactone
+r0960	3,5-Dichloro-3-methyl-cis,cis-muconate	chloromuconate cycloisomerase	2-Chloro-5-methyl-cis-dienelactone
+r0963	3,5-Dichloro-3-methyl-cis,cis-muconate	chloromuconate cycloisomerase	3,5-Dichloro-2-methylmuconolactone
+r0276	3,5-Dichlorocatechol	3,5-dichlorocatechol 1,2-dioxygenase	2,4-Dichloro-cis,cis-muconate
+r0707	3,5-Dichlorophenylcarboximide	3,5-dichlorophenylcarboximide hydrolase	(3,5-Dichlorophenylurea)acetate
+r1323	3,6,8-Trimethylallantoin	No enzyme supplied	Glyoxylate and N,N'-Dimethylurea
+r1323	3,6,8-Trimethylallantoin	No enzyme supplied	N-Methylurea
+r0655	3,6-Dichlorocatechol	3,6-dichlorocatechol 1,2-dioxygenase	2,5-Dichloro-cis,cis-muconate
+R05409	3,6-Dichlorocatechol 	chlorocatechol 1,2-dioxygenase	2,5-Dichloro-cis,cis-muconate
+r0654	3,6-Dichloro-cis-1,2-dihydroxycyclohexa-3,5-diene	cis-chlorobenzene dihydrodiol dehydrogenase	3,6-Dichlorocatechol
+r1561	3,6-Dimethylcatechol	3,6-dimethylcatechol 2,3-dioxygenase	2-Hydroxy-3-methyl-6-oxohepta-2,4-dienoate
+r1297	3,7-Dimethyl-5-oxo-octyl-CoA	No enzyme supplied	Carbon Dioxide
+R07690	3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate	No Kegg enzyme supplied	1,2-Dihydrophthalic acid
+R08309	3-Carbamoyl-2-phenylpropionaldehyde	No Kegg enzyme supplied	4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one
+R08307	3-Carbamoyl-2-phenylpropionaldehyde 	aldehyde dehydrogenase [NAD(P)+]	3-Carbamoyl-2-phenylpropionic acid
+R03308	3-Carboxy-2,5-dihydro-5-oxofuran-2-acetate	carboxy-cis,cis-muconate cyclase	3-Carboxy-cis,cis-muconate
+r1022	3-Chlorocatechol	2,3-dihydroxybiphenyl 1,2-dioxygenase	3-Chloro-2-hydroxymuconic semialdehyde
+r0108	3-Chlorocatechol	catechol 1,2-dioxygenase	2-Chloro-cis,cis-muconate
+R06839	3-Chlorocatechol 	biphenyl-2,3-diol 1,2-dioxygenase	3-Chloro-2-hydroxymuconic semialdehyde
+R07827	3-Chlorocatechol 	biphenyl-2,3-diol 1,2-dioxygenase	3-Chloro-2-hydroxymuconic semialdehyde
+r0285	3-Chloro-cis,cis-muconate	chloromuconate cycloisomerase	cis-4-Carboxymethylenebut-2-en-4-olide
+r0284	3-Chloro-cis,cis-muconate	muconate cycloisomerase	4-Methylenebut-2-en-4-olide
+R05390	3-Chloro-cis,cis-muconate	muconate cycloisomerase	Protoanemonin 
+r0104	3-Chloro-cis-1,2-dihydroxycyclohexa-3,5-diene	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	3-Chlorocatechol
+R03566	3-Cresol 	phenol 2-monooxygenase	2,3-Dihydroxytoluene 
+R07665	3-Cresol 	xylenol methylhydroxylase	3-Hydroxybenzyl alcohol 
+R05416	3-Ethylcatechol 	2,3-dihydroxy-ethylbenzene 1,2-dioxygenase	2-Hydroxy-6-oxo-octa-2,4-dienoate 
+r1218	3-Fluorobenzoate	benzoate 1,2-dioxygenase	5-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate
+r1219	3-Fluorobenzoate	benzoate 1,2-dioxygenase	3-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate
+r1223	3-Fluorocatechol	catechol 1,2-dioxygenase	2-Fluoro-cis,cis-muconate
+r1208	3-Fluoro-cis,cis-muconate	muconate cycloisomerase	4-Fluoromuconolactone
+r1220	3-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate	cis-diol dehydrogenase	3-Fluorocatechol
+R08111	3-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate 	1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase	3-Fluorocatechol
+r1400	3-Formiminopyruvate	3-formiminopyruvate hydrolase	3-Formylpyruvate
+r1401	3-Formylpyruvate	acylpyruvate hydrolase	Formate
+r1401	3-Formylpyruvate	acylpyruvate hydrolase	Pyruvate
+r0777	3-Formylsalicylic acid	3-formylsalicylate oxidase	2-Hydroxyisophthalic acid
+r0986	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA	3-hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA dehydrogenase	2,6-Dimethyl-5-methylene-3-oxo-heptanoyl-CoA
+r0505	3-Hydroxy-2-formylbenzothiophene	No enzyme supplied	Carbon Dioxide
+r0930	3-Hydroxy-2-methylhexanoyl-CoA	3-hydroxy-2-methylhexanoyl-CoA dehydrogenase	2-Methyl-3-oxohexanoyl-CoA
+r1522	3-Hydroxy-2-methylpyridine-4,5-dicarboxylate	3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-carboxylyase	3-Hydroxy-2-methylpyridine-5-carboxylate
+r1523	3-Hydroxy-2-methylpyridine-5-carboxylate	2-methyl-3-hydroxypyridine-5-carboxylic acid oxygenase	2-(Acetamidomethylene)succinate
+r1141	3-Hydroxy-2-naphthoate	3-hydroxy-2-naphthoate hydroxylase	2,3-Dihydroxynaphthalene
+R07691	3-Hydroxy-2-naphthoate 	3-hydroxy-2-naphthoate 2,3-dioxygenase	3-[6-(Carboxymethylene)cyclohexa-2,4-dien-1-ylidene]-2-oxopropanate
+r1666	3-Hydroxy-3-(4-sulfophenyl)butyryl-CoA	3-hydroxy-3-(4-sulfophenyl)-butyryl-CoA lyase	4-Sulfoacetophenone
+r1168	3-Hydroxy-3-isohexeneylglutaryl-CoA	3-hydroxy-3-isohexenyl-glutaryl-CoA acetate lyase	7-Methyl-3-oxo-6-octenoyl-CoA
+r1168	3-Hydroxy-3-isohexeneylglutaryl-CoA	3-hydroxy-3-isohexenyl-glutaryl-CoA acetate lyase	Acetate
+r0926	3-Hydroxy-4-methyloctanoyl-CoA	3-hydroxy-4-methyloctanoyl-CoA dehydrogenase	4-Methyl-3-oxooctanoyl-CoA
+r1305	3-Hydroxy-5-methylhex-4-enoyl-CoA	3-hydroxyacyl-CoA dehydrogenase	5-Methyl-3-oxo-4-hexenoyl-CoA
+r0009	3-Hydroxy-5-oxohexanoate	acetate CoA-transferase	3-Hydroxy-5-oxohexanoyl-CoA
+r0010	3-Hydroxy-5-oxohexanoyl-CoA	3-hydroxybutyryl-CoA thiolase	(3S)-3-Hydroxybutyryl-CoA
+R07833	3-Hydroxy-5-oxohexanoyl-CoA	3-hydroxybutyryl-CoA thiolase	(S)-3-Hydroxybutanoyl-CoA
+r1150	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione	3-HSA hydroxylase	3,4-Dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione
+r1496	3-Hydroxyaminophenol	3-hydroxylaminophenol mutase	Aminohydroquinone
+r1607	3-Hydroxyaminophenol	3-hydroxylaminophenol mutase	4-Aminocatechol
+r1027	3-Hydroxyanthranilate	3-hydroxyanthranilate 3,4-dioxygenase	2-Amino-3-carboxymuconate-6-semialdehyde
+r0401	3-Hydroxybenzaldehyde	benzaldehyde dehydrogenase	3-Hydroxybenzoate
+R07666	3-Hydroxybenzaldehyde 	benzaldehyde dehydrogenase (NADP+)	3-Hydroxybenzoate 
+R07667	3-Hydroxybenzaldehyde 	benzaldehyde dehydrogenase (NAD+)	3-Hydroxybenzoate 
+r0402	3-Hydroxybenzoate	3-hydroxybenzoate 6-hydroxylase	Gentisate
+R01508	3-Hydroxybenzoate	3-hydroxybenzoate 2-monooxygenase	2,3-Dihydroxybenzoate
+r0153	3-Hydroxybenzoate	3-hydroxybenzoate 4-hydroxylase	3,4-Dihydroxybenzoate
+R02589	3-Hydroxybenzoate 	3-hydroxybenzoate 6-monooxygenase	2,5-Dihydroxybenzoate 
+R01628	3-Hydroxybenzoate 	3-hydroxybenzoate 4-monooxygenase	3,4-Dihydroxybenzoate 
+r0400	3-Hydroxybenzyl alcohol	benzyl alcohol dehydrogenase	3-Hydroxybenzaldehyde
+R04136	3-Hydroxybenzyl alcohol 	3-hydroxybenzyl-alcohol dehydrogenase	3-Hydroxybenzaldehyde 
+R08315	3-Hydroxycarbamazepine	No Kegg enzyme supplied	2,3-Dihydroxycarbamazepine
+r1550	3-Hydroxycarbofuran	3-hydroxycarbofuran dehydrogenase	3-Ketocarbofuran
+R08297	3-Hydroxylidocaine	No Kegg enzyme supplied	3-Hydroxymonoethylglycinexylidide
+R02517	3-Hydroxyphenylacetate 	3-hydroxyphenylacetate 6-hydroxylase	Homogentisate 
+R05305	3-Hydroxypimeloyl-CoA	3-hydroxypimeloyl-CoA dehydrogenase	3-Oxopimeloyl-CoA
+r0196	3-Hydroxypimelyl-CoA	3-hydroxypimeloyl-CoA dehydrogenase	3-Ketopimelyl-CoA
+r0081	3-Hydroxytoluene	3,5-xylenol methylhydroxylase	3-Hydroxybenzyl alcohol
+r0271	3-Hydroxytoluene	toluene 3-monooxygenase	3-Methylcatechol
+R08335	3-Hydroxyvalproic acid	No Kegg enzyme supplied	3-Oxovalproic acid
+r0425	3-Isochromanone	No enzyme supplied	Catechol
+R07803	3-Isochromanone	No Kegg enzyme supplied	Catechol
+r0994	3-Isopropylbut-3-enoyl-CoA	3-isopropylbut-3-enoyl-CoA thioesterase	3-Isopropylbut-3-enoic acid
+r0197	3-Ketopimelyl-CoA	3-ketopimelyl-CoA thiolase	Acetyl-CoA
+r0197	3-Ketopimelyl-CoA	3-ketopimelyl-CoA thiolase	Glutaryl-CoA
+r1582	3-Mercaptopropionate	3-mercaptopropionate dioxygenase	3-Sulfinopropionate
+r0052	3-Methyl-2-oxo-1,2-dihydroquinoline	2-oxo-1,2-dihydroquinoline 5,6-dioxygenase	cis-5,6-Dihydrodiol-3-methyl-2-oxo-1,2-dihydroquinoline
+r0046	3-Methyl-2-oxo-1,2-dihydroquinoline	3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase	6-Hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline
+r1515	3-Methyl-4-amino-6-(2-hydroxymuconate)-1,2,4-triazin-5(4H)one	3-methyl-4-amino-6-(2-hydroxymuconate)-1,2,4-triazin-5(4H)one hydrolase	2-Hydroxymuconate
+r1515	3-Methyl-4-amino-6-(2-hydroxymuconate)-1,2,4-triazin-5(4H)one	3-methyl-4-amino-6-(2-hydroxymuconate)-1,2,4-triazin-5(4H)one hydrolase	3-Methyl-4-amino-1,2,4-triazin-5(4H)one
+r0051	3-Methyl-5-hydroxy-6-(3-carboxy-3-oxopropenyl)-1H-2-pyridon	3-methyl-5-hydroxy-6-(3-carboxy-3-oxopropenyl)-1H-2-pyridon hydratase-adolase	2,5,6-Trihydroxy-3-methylpyridine
+r0051	3-Methyl-5-hydroxy-6-(3-carboxy-3-oxopropenyl)-1H-2-pyridon	3-methyl-5-hydroxy-6-(3-carboxy-3-oxopropenyl)-1H-2-pyridon hydratase-adolase	2-Oxobut-3-enanoate
+r0214	3-Methylbenzaldehyde	benzaldehyde dehydrogenase	m-Methylbenzoate
+R05664	3-Methylbenzaldehyde 	benzaldehyde dehydrogenase (NADP+)	m-Methylbenzoate 
+r0213	3-Methylbenzyl alcohol	benzyl alcohol dehydrogenase	3-Methylbenzaldehyde
+R05347	3-Methylbenzyl alcohol 	aryl-alcohol dehydrogenase	3-Methylbenzaldehyde 
+r0262	3-Methylcatechol	catechol 2,3-dioxygenase	cis,cis-2-Hydroxy-6-oxohept-2,4-dienoate
+r0187	3-Methyl-cis,cis-hexadienedioate	muconate cycloisomerase	4-Methylmuconolactone
+r1615	3-Methyl-cis,cis-hexadienedioate	muconate cycloisomerase	3-Methylmuconolactone
+r1612	3-Methylmuconolactone	methylmuconolactone isomerase	4-Methyl-3-oxoadipate-enol-lactone
+r0045	3-Methylquinoline	quinoline 2-oxidoreductase	3-Methyl-2-oxo-1,2-dihydroquinoline
+r0784	3-Methylsalicylaldehyde	3-methylsalicylaldehyde dehydrogenase	3-Methylsalicylate
+r0785	3-Methylsalicylate	salicylate hydroxylase	3-Methylcatechol
+R06915	3-Methylsalicylate 	salicylate 1-monooxygenase	2,3-Dihydroxytoluene 
+r1329	3-Methylxanthine	heteroxanthine demethylase	Xanthine
+r0824	3-Monobromobisphenol A	3-monobromobisphenol A reductive dehalogenase	Bisphenol A
+r1495	3-Nitrophenol	3-nitrophenol nitroreductase	3-Hydroxyaminophenol
+r1579	3-Nitrotyramine	3-nitrotyramine oxidase	4-Hydroxy-3-nitrophenylacetaldehyde
+r1598	3-Nitrotyrosine	3-nitrotyrosine transaminase	4-Hydroxy-3-nitrophenylpyruvate
+r1638	3-O-Methylgallate	3-O-methylgallate 3,4-dioxygenase	4-Carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate
+r1672	3-O-Methylgallate	3-methylgallate O-demethylase	Gallate
+r1639	3-O-Methylgallate	PCA 4,5-dioxygenase	2-Pyrone-4,6-dicarboxylate
+R04280	3-O-Methylgallate 	protocatechuate 4,5-dioxygenase	2-Pyrone-4,6-dicarboxylate
+r1050	3-Oxoadipate	3-oxoadipate CoA-transferase	3-Oxoadipyl-CoA
+R02988	3-Oxoadipate 	maleylacetate reductase	2-Maleylacetate 
+r1051	3-Oxoadipyl-CoA	acetyl-CoA C-acyltransferase	Acetyl-CoA
+r1051	3-Oxoadipyl-CoA	acetyl-CoA C-acyltransferase	Succinyl-CoA
+R05586	3-Oxopimeloyl-CoA	Transferases; Acyltransferases; Transferring groups other than amino-acyl groups	Glutaryl-CoA
+R06973	3-Oxopropanoate	malonate semialdehyde decarboxylase	Acetaldehyde 
+r0561	3-Phenanthrol	3-phenanthrol sulfotransferase	3-Phenanthrylsulfate
+r0434	3-Phenylpropionate	3-phenylpropionate dioxygenase	cis-3-(3-Carboxyethyl)-3,5-cyclohexadiene-1,2-diol
+r1583	3-Sulfinopropionate	succinyl-CoA synthetase	3-Sulfinopropionate-CoA
+r1584	3-Sulfinopropionate-CoA	3-sulfinopropionate-CoA desulfinase	Propanoyl-CoA
+r0219	3-Sulfocatechol	catechol 2,3-dioxygenase	2-Hydroxymuconate
+r0582	3-Sulfomuconate	3-carboxymuconate cycloisomerase typeII	4-Sulfolactone
+r0258	3-Vinylcatechol	catechol 2,3-dioxygenase	(2E,4Z)-2-Hydroxy-6-oxoocta-2,4,7-trienoate
+R05404	3-Vinylcatechol 	catechol 2,3-dioxygenase	2-Hydroxy-6-oxoocta-2,4,7-trienoate
+R08020	4 4-Hydroxylamino-2,6-dinitrotoluene 	No Kegg enzyme supplied	2,2',6,6'-Tetranitro-4,4'-azoxytoluene
+r1358	4-(1-Ethyl-1,4-dimethyl-pentyl)phenol	4-(1-ethyl-1,4-dimethyl-pentyl)phenol monoxygenase	3,6-Dimethylheptan-3-ol
+r1358	4-(1-Ethyl-1,4-dimethyl-pentyl)phenol	4-(1-ethyl-1,4-dimethyl-pentyl)phenol monoxygenase	Hydroquinone
+r0896	4'-(2-Hydroxyisopropyl)phenylaniline	No enzyme supplied	Carbon Dioxide
+r0895	4'-(2-Hydroxyisopropyl)phenylurea	4'-(2-hydroxyisopropyl)phenylurea amidohydrolase	4'-(2-Hydroxyisopropyl)phenylaniline
+r0895	4'-(2-Hydroxyisopropyl)phenylurea	4'-(2-hydroxyisopropyl)phenylurea amidohydrolase	Carbamate
+r1172	4-(2-Oxocyclohexyl)-2-hydroxy-buta-2,4-dienoate	4-(2-oxocyclohexyl)-2-hydroxy-buta-2,4-dienoate hydrolase	2-Hydroxydec-2,4-diene-1,10-dioate
+R07693	4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid	No Kegg enzyme supplied	6,7-Benzocoumarin
+R07692	4-(3-Hydroxy-2-naphthyl)-2-oxobut-3-enoic acid 	No Kegg enzyme supplied	3-Hydroxy-2-naphthoate
+r0866	4,4'-Dihydroxy-alpha-methylstilbene	4,4'-dihydroxy-alpha-methylstilbene dioxygenase	4-Hydroxyacetophenone
+r0866	4,4'-Dihydroxy-alpha-methylstilbene	4,4'-dihydroxy-alpha-methylstilbene dioxygenase	4-Hydroxybenzaldehyde
+r1482	4,4'-Dihydroxybenzophenone	4,4'-dihydroxybenzophenone monooxygenase	4-Hydroxyphenyl 4-hydroxybenzoate
+r1309	4,4-Dimethyl-3-oxopentanal	4,4-dimethyl-3-oxopentanal dehydrogenase	4,4-Dimethyl-3-oxopentanoate
+r1280	4,4-Dimethyl-3-oxopentanoate	4,4-dimethyl-3-oxopentanoate decarboxylase	3,3-Dimethyl-2-butanone
+r1130	4,5-Chrysenedicarboxylate	4,5-chrysene-dicarboxylic acid decarboxylase	Chrysene-4-carboxylate
+r1140	4,5-Chrysenedicarboxylate	4,5-chrysene-dicarboxylic acid decarboxylase	Chrysene-5-carboxylate
+r1128	4,5-Dihydroxybenzo(a)pyrene	4,5-dihydroxybenzo(a)pyrene dioxygenase	4,5-Chrysenedicarboxylate
+r1131	4,5-Dihydroxybenzo(a)pyrene	4,5-dihydroxybenzo(a)pyrene methyltransferase	Hydroxymethoxybenzo(a)pyrene
+r0149	4,5-Dihydroxyphthalate	4,5-dihydroxyphthalate decarboxylase	3,4-Dihydroxybenzoate
+r0936	4,5-Dihydroxypyrene	4,5-dihydroxypyrene dioxygenase	Phenanthrene-4,5-dicarboxylate
+r0937	4,5-Dihydroxypyrene	No enzyme supplied	Pyrene-4,5-dione
+r1558	4,5-Dimethylcatechol	4,5-dimethylcatechol 2,3-dioxygenase	2-Hydroxy-4,5-dimethyl-6-oxohexa-2,4-dienoate
+r0959	4,6-Dichloro-3-methylcatechol	4,6-dichloro-3-methylcatechol 1,2-dioxygenase	3,5-Dichloro-3-methyl-cis,cis-muconate
+r0958	4,6-Dichloro-3-methyl-cis-1,2-dihydroxycyclohexa-3,5-diene	cis-chlorobenzene dihydrodiol dehydrogenase	4,6-Dichloro-3-methylcatechol
+r1072	4,6-Dinitrohexanoate	No enzyme supplied	Carbon Dioxide
+r1301	4-[2-Carboxylatovinyl]-2-hydroxythiazole-5-carboxylate	No enzyme supplied	Carbon Dioxide
+r1300	4-[2-Carboxylatovinyl]-2-mercaptothiazole-5-carboxylate	No enzyme supplied	Carbon Dioxide
+r0463	4-Amino-2,6-dinitrotoluene	NAD(P)H nitroreductase	4-Amino-2-hydroxylamino-6-nitrotoluene
+r0461	4-Amino-2,6-dinitrotoluene	NAD(P)H nitroreductase	2,4-Diamino-6-nitrotoluene
+R08049	4-Amino-2-hydroxylamino-6-nitrotoluene	No Kegg enzyme supplied	2,4-Diamino-6-nitrotoluene
+r0464	4-Amino-2-hydroxylamino-6-nitrotoluene	4-amino-2-nitroso-6-nitrotoluene reductase	4-Amino-2-nitroso-6-nitrotoluene
+r1547	4-Amino-2-nitrotoluene	NAD(P)H nitroreductase	2,4-Diaminotoluene
+r0580	4-Aminobenzenesulfonate	4-aminobenzenesulfonate 3,4-dioxygenase (deaminating)	4-Sulfocatechol
+r1459	4-Aminobenzenesulfonate	4-aminobenzenesulfonate 4-monooxygenase	4-Sulfophenol
+R05277	4-Aminobenzenesulfonate 	Oxidoreductases; Acting on other notrogenous compounds as donors; With NAD+ or NADP+ as acceptor	4-Carboxy-4'-sulfoazobenzene
+r0566	4-Aminobenzoate	4-aminobenzoate 3,4-dioxygenase (deaminating)	3,4-Dihydroxybenzoate
+r0597	4-Aminobenzoate	4-aminobenzoate hydroxylase	p-Aminophenol
+R02561	4-Aminobenzoate 	Oxidoreductases; Acting on other notrogenous compounds as donors; With NAD+ or NADP+ as acceptor	4-Carboxy-4'-sulfoazobenzene
+R05277	4-Aminobenzoate 	4-aminobenzoate 1-monooxygenase	4-Hydroxyaniline 
+r1608	4-Aminocatechol	4-aminocatechol oxidase	1,2,4-Benzenetriol
+R07077	4-Bromocatechol	No Kegg enzyme supplied	4-Bromo-3,5-cyclohexadiene-1,2-dione
+R07075	4-Bromophenol 	unspecific monooxygenase	4-Bromophenol-2,3-epoxide 
+R07076	4-Bromophenol-2,3-epoxide	No Kegg enzyme supplied	4-Bromocatechol
+r1674	4-Carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate	No enzyme supplied	2-Pyrone-4,6-dicarboxylate
+r1640	4-Carboxy-2-hydroxy-6-methoxy-6-oxohexa-2,4-dienoate	CHMOD hydrolase	4-Oxalomesaconate
+R04453	4-Carboxy-2-hydroxymuconate semialdehyde 	4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase	4-Carboxy-2-hydroxy-cis,cis-muconate
+R04488	4-Carboxy-2-hydroxymuconate semialdehyde 	Hydrolases; Acting on carbon-carbon bonds; In ketonic substances	4-Methylene-2-oxoglutarate
+R00350	4-Carboxy-4-hydroxy-2-oxoadipate	4-oxalmesaconate hydratase	(E)-4-Oxobut-1-ene-1,2,4-tricarboxylate
+R00350	4-Carboxy-4-hydroxy-2-oxoadipate	Lyases; Carbon-oxygen lyases; Hydro-lyases	4-Carboxy-2-hydroxy-cis,cis-muconate
+R04399	4-Carboxy-4-hydroxy-2-oxoadipate	4-hydroxy-4-methyl-2-oxoglutarate aldolase	Pyruvate
+R04478	4-Carboxy-4-hydroxy-2-oxoadipate	4-hydroxy-4-methyl-2-oxoglutarate aldolase	Oxaloacetate
+r0543	4-Carboxy-4'-sulfoazobenzene	4-carboxy-4'-sulfoazobenzene reductase	4-Aminobenzenesulfonate
+r0543	4-Carboxy-4'-sulfoazobenzene	4-carboxy-4'-sulfoazobenzene reductase	4-Aminobenzoate
+r0446	4-Chloroacetophenone	No enzyme supplied	4-Chlorobenzaldehyde
+r0820	4-Chloroaniline	aniline dioxygenase	4-Chlorocatechol
+R07793	4-Chloroaniline 	aniline oxygenase	4-Chlorocatechol 
+r0447	4-Chlorobenzaldehyde	4-chlorobenzaldehyde oxidase	4-Chlorobenzoate
+R05252	4-Chlorobenzoate	4-chlorobenzaldehyde oxidase	4-Chlorobenzaldehyde 
+r0139	4-Chlorobenzoate	4-chlorobenzoate-CoA ligase	4-Chlorobenzoyl-CoA
+R05276	4-Chlorobenzoyl-CoA	2,4-dichlorobenzoyl-CoA reductase	2,4-Dichlorobenzoyl-CoA
+r0140	4-Chlorobenzoyl-CoA	4-chlorobenzoyl-CoA dehalogenase	4-Hydroxybenzoyl-CoA
+r0133	4-Chlorobiphenyl	biphenyl dioxygenase	cis-2,3-Dihydro-2,3-dihydroxy-4'-chlorobiphenyl
+R05261	4-Chlorobiphenyl 	biphenyl 2,3-dioxygenase	cis-2,3-Dihydro-2,3-dihydroxy-4'-chlorobiphenyl
+r0283	4-Chlorocatechol	catechol 1,2-dioxygenase	3-Chloro-cis,cis-muconate
+r0287	4-Chlorocatechol	catechol 2,3-dioxygenase	5-Chloro-2-hydroxymuconic semialdehyde
+R05406	4-Chlorocatechol 	catechol 2,3-dioxygenase	5-Chloro-2-hydroxymuconic semialdehyde
+r0282	4-Chlorophenol	2,4-dichlorophenol hydroxylase	4-Chlorocatechol
+R05441	4-Chlorophenol 	2,4-dichlorophenol 6-monooxygenase	4-Chlorocatechol 
+r0281	4-Chlorophenoxyacetate	4-chlorophenoxyacetate monooxygenase	4-Chlorophenol
+r0281	4-Chlorophenoxyacetate	4-chlorophenoxyacetate monooxygenase	Glyoxylate
+r0308	4-Chlorophenylacetate	4-chlorophenylacetate 3,4-dioxygenase	3,4-Dihydroxyphenylacetate
+R02675	4-Cresol	4-cresol dehydrogenase (hydroxylating)	4-Hydroxybenzaldehyde
+R06890	4-Ethylphenol 	4-ethylphenol methylenehydroxylase	1-(4'-Hydroxyphenyl)ethanol
+r1205	4-Fluorobenzoate	benzoate 1,2-dioxygenase	4-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate
+r1210	4-Fluorobenzoate	4-chlorobenzoate-CoA ligase	4-Fluorobenzoyl-CoA
+r1211	4-Fluorobenzoyl-CoA	4-chlorobenzoyl-CoA dehalogenase	4-Hydroxybenzoyl-CoA
+r1207	4-Fluorocatechol	catechol 1,2-dioxygenase	3-Fluoro-cis,cis-muconate
+R08105	4-Fluorocyclohexadiene-cis,cis-1,2-diol 	fluorobenzene dihydrodiol dehydrogenase	4-Fluorocatechol
+r1206	4-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate	cis-diol dehydrogenase	4-Fluorocatechol
+R08113	4-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate 	1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase	4-Fluorocatechol
+r1209	4-Fluoromuconolactone	dienelactone hydrolase	Maleylacetate
+R08121	4-Fluoromuconolactone 	carboxymethylenebutenolidase	2-Maleylacetate
+r1487	4-Hydro-3,4-dihydroxyisophthalate	4-hydro-3,4-dihydroxyisophthalate dehydrogenase	3,4-Dihydroxybenzoate
+r0183	4-Hydroxy-2-oxohexanoate	4-hydroxy-2-oxovalerate aldolase	Propanal
+r0183	4-Hydroxy-2-oxohexanoate	4-hydroxy-2-oxovalerate aldolase	Pyruvate
+r0100	4-Hydroxy-2-oxovalerate	4-hydroxy-2-oxovalerate aldolase	Acetaldehyde
+r0100	4-Hydroxy-2-oxovalerate	4-hydroxy-2-oxovalerate aldolase	Pyruvate
+R05699	4-Hydroxy-3-methoxy-benzaldehyde 	vanillin dehydrogenase	Vanillate 
+R02877	4-Hydroxy-3-methoxy-benzenemethanol 	vanillyl-alcohol oxidase	4-Carboxy-2-hydroxymuconate semialdehyde
+r1580	4-Hydroxy-3-nitrophenylacetaldehyde	aldehyde dehydrogenase (NAD+)	4-Hydroxy-3-nitrophenylacetate
+r1597	4-Hydroxy-3-nitrophenylacetate	4-hydroxy-3-nitrophenylacetate monooxygenase	3,4-Dihydroxyphenylacetate
+r1599	4-Hydroxy-3-nitrophenylpyruvate	4-hydroxy-3-nitrophenylpyruvate oxidase	4-Hydroxy-3-nitrophenylacetate
+R08310	4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one 	alcohol dehydrogenase	5-Phenyl-1,3-oxazinane-2,4-dione
+r0756	4-Hydroxyacetophenone	4-hydroxyacetophenone monooxygenase	4-Hydroxyphenyl acetate
+R06852	4-Hydroxyaniline 	4-aminophenol dehydrogenase	p-Benzoquinone 
+r0273	4-Hydroxybenzaldehyde	p-hydroxybenzaldehyde dehydrogenase	4-Hydroxybenzoate
+R01293	4-Hydroxybenzaldehyde 	benzaldehyde dehydrogenase (NAD+)	4-Hydroxybenzoate 
+R01294	4-Hydroxybenzaldehyde 	benzaldehyde dehydrogenase (NADP+)	4-Hydroxybenzoate 
+r0109	4-Hydroxybenzoate	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; Miscellaneous	4-Hydroxybenzaldehyde 
+R01238	4-Hydroxybenzoate	4-hydroxybenzoate 1-hydroxylase	Hydroquinone
+R01303	4-Hydroxybenzoate	4-hydroxybenzoate decarboxylase	Phenol 
+r0156	4-Hydroxybenzoate	4-hydroxybenzoate-CoA ligase	4-Hydroxybenzoyl-CoA
+r0752	4-Hydroxybenzoate	4-hydroxybenzoate 3-monooxygenase	3,4-Dihydroxybenzoate
+R01296	4-Hydroxybenzoate 	4-hydroxybenzoate---CoA ligase	4-Hydroxybenzoyl-CoA
+R01297	4-Hydroxybenzoate 	4-hydroxybenzoate 3-monooxygenase	3,4-Dihydroxybenzoate 
+R01298	4-Hydroxybenzoate 	4-hydroxybenzoate 3-monooxygenase [NAD(P)H]	3,4-Dihydroxybenzoate 
+R01300	4-Hydroxybenzoate 	4-hydroxybenzoate 1-hydroxylase	p-Benzenediol 
+R01301	4-Hydroxybenzoyl-CoA	4-hydroxybenzoyl-CoA reductase	S-Benzoate coenzyme A 
+r0158	4-Hydroxybenzoyl-CoA	4-hydroxybenzoyl-CoA thioesterase	4-Hydroxybenzoate
+R05316	4-Hydroxybenzoyl-CoA	4-hydroxybenzoyl-CoA reductase	Benzoyl-CoA
+r0014	4-Hydroxybutyraldehyde	4-hydroxybutaraldehyde dehydrogenase	4-Hydroxybutanoate
+r1539	4-Hydroxycarbofuran	No enzyme supplied	Carbon Dioxide
+R08277	4-Hydroxycyclophosphamide	No Kegg enzyme supplied	Aldophosphamide
+R08278	4-Hydroxycyclophosphamide	unspecific monooxygenase	4-Ketocyclophosphamide
+R08288	4-Hydroxyifosfamide	No Kegg enzyme supplied	4-Ketoifosfamide
+R08291	4-Hydroxyifosfamide	No Kegg enzyme supplied	Aldoifosfamide
+r0466	4-Hydroxylamino-2,6-dinitrotoluene	No Kegg enzyme supplied	2,4',6,6'-Tetranitro-2',4-azoxytoluene
+r0468	4-Hydroxylamino-2,6-dinitrotoluene	nitrobenzene nitroreductase	2,4-Dihydroxylamino-6-nitrotoluene
+r0470	4-Hydroxylamino-2,6-dinitrotoluene	No enzyme supplied	2,4',6,6'-Tetranitro-4,2'-azoxytoluene
+r0500	4-Hydroxylamino-2,6-dinitrotoluene	No enzyme supplied	2,2',6,6'-Tetranitro-4,4'-azoxytoluene
+R08037	4-Hydroxylamino-2,6-dinitrotoluene	NAD(P)H nitroreductase	4-Amino-2,6-dinitrotoluene
+R08015	4-Hydroxylamino-2,6-dinitrotoluene 	nitrobenzene nitroreductase	2,4-Dihydroxylamino-6-nitrotoluene
+R08018	4-Hydroxylamino-2,6-dinitrotoluene 	nitroreductase	4-Amino-2,6-dinitrotoluene
+r0767	4-Hydroxymethylsalicylaldehyde	4-hydroxymethylsalicyaldehyde dehydrogenase	4-Hydroxymethylsalicylate
+r0768	4-Hydroxymethylsalicylate	salicylate hydroxylase	4-Hydroxymethylcatechol
+R06936	4-Hydroxymethylsalicylate 	salicylate 1-monooxygenase	4-Hydroxymethylcatechol
+r1410	4-Hydroxyphenacyl alcohol	2,4'-dihydroxyacetophenone dioxygenase	4-Hydroxybenzoate
+r1483	4-Hydroxyphenyl 4-hydroxybenzoate	4-hydroxyphenyl 4-hydroxybenzoate hydrolase	4-Hydroxybenzoate
+r1483	4-Hydroxyphenyl 4-hydroxybenzoate	4-hydroxyphenyl 4-hydroxybenzoate hydrolase	Hydroquinone
+r0757	4-Hydroxyphenyl acetate	arylesterase	Acetate
+r0757	4-Hydroxyphenyl acetate	arylesterase	Hydroquinone
+R06893	4-Hydroxyphenyl acetate 	arylesterase	p-Benzenediol
+r0301	4-Hydroxyphenylacetate	4-hydroxyphenylacetate 3-hydroxylase	3,4-Dihydroxyphenylacetate
+r0300	4-Hydroxyphenylacetate	4-hydroxyphenylacetate 1-hydroxylase	Homogentisate
+R02672	4-Hydroxyphenylglyoxylate	benzoylformate decarboxylase	4-Hydroxybenzaldehyde 
+r0299	4-Hydroxyphenylpyruvate	4-hydroxyphenylpyruvate oxidase	4-Hydroxyphenylacetate
+r0298	4-Hydroxyphenylpyruvate	4-hydroxyphenylpyruvate dioxygenase	Homogentisate
+r0152	4-Hydroxyphthalate	4,5-dihydroxyphthalate decarboxylase	3-Hydroxybenzoate
+r1397	4-Hydroxypyridine	4-hydroxypyridine-3-hydroxylase	Pyridine-3,4-diol
+r0272	4-Hydroxytoluene	4-cresol dehydrogenase	4-Hydroxybenzaldehyde
+R08330	4-Hydroxyvalproic acid	No Kegg enzyme supplied	2-n-Propyl-4-oxopentanoic acid
+r1004	4-Isopropenyl-2-ketocyclohexane-1-carboxyl-CoA	4-isopropenyl-2-ketocyclohexane-1-carboxyl-CoA hydrolase	3-Isopropenylpimelyl-CoA
+r0900	4-Isopropylaniline	No enzyme supplied	4,4'-Diisopropylazobenzene
+r0901	4-Isopropylaniline	4-isopropylaniline dehydrogenase	4'-(2-Hydroxyisopropyl)phenylaniline
+R05235	4-Isopropylbenzaldehyde 	aryl-aldehyde dehydrogenase	p-Cumate 
+R03181	4-Maleylacetoacetate	maleylacetoacetate isomerase	4-Fumarylacetoacetate
+r0106	4-Maleylacetoacetate	maleylacetoacetate isomerase	Fumarylacetoacetate
+r0154	4-Methoxybenzoate	4-methoxybenzoate monooxygenase	4-Hydroxybenzoate
+r0154	4-Methoxybenzoate	4-methoxybenzoate monooxygenase	Formaldehyde
+R01306	4-Methoxybenzoate  	4-methoxybenzoate monooxygenase (O-demethylating)	4-Hydroxybenzoate
+r1614	4-Methyl-3-oxoadipate	No enzyme supplied	Carbon Dioxide
+r1613	4-Methyl-3-oxoadipate-enol-lactone	4-Methyl-3-oxoadipate-enol-lactone hydrolase	4-Methyl-3-oxoadipate
+r0927	4-Methyl-3-oxooctanoyl-CoA	2-methylhexanoyl-CoA C-acetyltransferase	2-Methylhexanoyl-CoA
+r0927	4-Methyl-3-oxooctanoyl-CoA	2-methylhexanoyl-CoA C-acetyltransferase	Acetyl-CoA
+r1502	4-Methyl-5-nitrocatechol	4-methyl-5-nitrocatechol monooxygenase	2-Hydroxy-5-methylquinone
+r0503	4-Methylaminobutyrate	No enzyme supplied	Carbon Dioxide
+R05282	4-Methylbenzyl alcohol 	aryl-alcohol dehydrogenase	p-Tolualdehyde 
+r0186	4-Methylcatechol	catechol 1,2-dioxygenase	3-Methyl-cis,cis-hexadienedioate
+r0180	4-Methylcatechol	catechol 2,3-dioxygenase	2-Hydroxy-5-methyl-cis,cis-muconic semialdehyde
+r0179	4-Methylcyclohexa-3,5-diene-1,2-cis-diol-1-carboxylic acid	4-methylcyclohexa-3,5-diene-1,2-cis-diol-1-carboxylic acid dehydrogenase	4-Methylcatechol
+r0404	4-Methylenebut-2-en-4-olide	dienelactone hydrolase	cis-Acetylacrylate
+r1611	4-Methylmuconolactone	4-methylmuconolactone methylisomerase	3-Methylmuconolactone
+R05300	4-Methylmuconolactone	muconate cycloisomerase	3-Methyl-cis,cis-hexadienedioate
+r0925	4-Methyloct-2-enoyl-CoA	4-methyloct-2-enoyl-CoA hydratase	3-Hydroxy-4-methyloctanoyl-CoA
+r0924	4-Methyloctanoyl-CoA	4-methyloctanoyl-CoA dehydrogenase	4-Methyloct-2-enoyl-CoA
+r0769	4-Methylsalicylate	salicylate hydroxylase	4-Methylcatechol
+R06939	4-Methylsalicylate 	salicylate 1-monooxygenase	4-Methylcatechol 
+r1624	4-Nitro-2,4-diazabutanal	No enzyme supplied	Carbon Dioxide
+r0231	4-Nitrocatechol	4-nitrocatechol 4-monooxygenase	1,2,4-Benzenetriol
+R03023	4-Nitrophenol 	4-nitrophenol 2-monooxygenase	4-Nitrocatechol 
+R03024	4-Nitrophenyl phosphate 	alkaline phosphatase	4-Nitrophenol
+r0683	4-Oxahomoadamantan-5-one	camphor 5-monooxygenase	1-Hydroxy-4-oxahomoadamantan-5-one
+r0562	4-Phenanthrol	4-phenanthrol sulfotransferase	4-Phenanthrylsulfate
+r1520	4-Pyridoxate	4-pyridoxate dehydrogenase	2-Methyl-3-hydroxy-5-formylpyridine-4-carboxylate
+r1518	4-Pyridoxolactone	4-pyridoxolactonase	4-Pyridoxate
+r1634	4-Sulfoacetophenone	4-sulfoacetophenone monooxygenase	4-Sulfophenol acetate
+r0292	4-Sulfobenzaldehyde	toluenesulfonate aldehyde dehydrogenase	4-Sulfobenzoate
+R05272	4-Sulfobenzaldehyde 	4-formylbenzenesulfonate dehydrogenase	4-Sulfobenzoate 
+r0293	4-Sulfobenzoate	4-sulfobenzoate 3,4-dioxygenase	3,4-Dihydroxybenzoate
+R01636	4-Sulfobenzoate 	4-sulfobenzoate 3,4-dioxygenase	3,4-Dihydroxybenzoate 
+r0291	4-Sulfobenzyl alcohol	4-sulfobenzyl alcohol dehydrogenase	4-Sulfobenzaldehyde
+R05271	4-Sulfobenzyl alcohol 	4-(hydroxymethyl)benzenesulfonate dehydrogenase	4-Sulfobenzaldehyde 
+r0581	4-Sulfocatechol	protocatechuate 3,4-dioxygenase typeII	3-Sulfomuconate
+r0583	4-Sulfolactone	sulfolactone hydrolase	Maleylacetate
+R05420	4-Sulfolactone 	sulfolactone hydrolase	2-Maleylacetate 
+r1460	4-Sulfophenol	4-hydroxybenzenesulfonate 1,2-dioxygenase	1,2,4-Benzenetriol
+r1636	4-Sulfophenol	4-sulfophenol 2-monooxygenase	4-Sulfocatechol
+r1635	4-Sulfophenol acetate	4-sulfophenol acetate esterase	4-Sulfophenol
+r1266	5,6,7,8-Tetrahydro-2-naphthoate	No enzyme supplied	2-Carboxycyclohexylacetate
+R06899	5,6,7,8-Tetrahydro-2-naphthoic acid	No Kegg enzyme supplied	cis-2-Carboxycyclohexyl-acetic acid
+R06900	5,6,7,8-Tetrahydro-2-naphthoic acid	No Kegg enzyme supplied	Decahydro-2-naphthoic acid
+R05535	5,6-Dichloro-1,3-cyclohexadiene	No Kegg enzyme supplied	Benzene
+R05536	5,6-Dichloro-1,3-cyclohexadiene	No Kegg enzyme supplied	Chlorobenzene
+R08227	5,6-Dihydro-5-fluorouracil 	dihydropyrimidinase	alpha-Fluoro-beta-ureidopropionic acid
+r0049	5,6-Dihydroxy-3-methyl-2-oxo-1,2-dihydroquinoline	5,6-dihydroxy-3-methyl-2-oxo-1,2-dihydroquinoline dioxygenase	3-Methyl-5-hydroxy-6-(3-carboxy-3-oxopropenyl)-1H-2-pyridon
+r0817	5-Aminosalicylaldehyde	salicylaldehyde dehydrogenase	5-Aminosalicylate
+r0809	5-Aminosalicylate	5-aminosalicylate dioxygenase	cis-4-Amino-6-carboxy-2-oxo-hexa-3,5-dienoate
+r1062	5-Carboxy-2-pentenoyl-CoA	enoyl-CoA hydratase	(3S)-3-Hydroxyadipyl-CoA
+r0666	5-Chloro-1,2,4-trihydroxybenzene	5-chloro-1,2,4-trihydroxybenzene dechlorinase	2-Hydroxy-1,4-benzoquinone
+r1435	5-Chloro-2-hydroxymuconate	4-oxalocrotonate decarboxylase	5-Chloro-2-oxopent-4-enoate
+r1434	5-Chloro-2-hydroxymuconic semialdehyde	2-hydroxymuconic semialdehyde dehydrogenase	5-Chloro-2-hydroxymuconate
+r0298	5-Chloro-2-hydroxymuconic semialdehyde	2-hydroxymuconate semialdehyde hydrolase	5-Chloro-2-oxopent-4-enoate
+R05504	5-Chloro-2-hydroxymuconic semialdehyde 	5-chloro-2-hydroxymuconic semialdehyde dehalogenase	2-Hydroxymuconate semialdehyde
+r1436	5-Chloro-2-oxopent-4-enoate	5-Chloro-2-oxopent-4-enoate hydratase	5-Chloro-4-hydroxy-2-oxopentanate
+r1437	5-Chloro-4-hydroxy-2-oxopentanate	5-Chloro-4-hydroxy-2-oxopentanate aldolase	Chloroacetaldehyde
+r1437	5-Chloro-4-hydroxy-2-oxopentanate	5-Chloro-4-hydroxy-2-oxopentanate aldolase	Pyruvate
+R08221	5'-Deoxy-5-fluorocytidine 	cytidine deaminase	5'-Deoxy-5-fluorouridine 
+R08222	5'-Deoxy-5-fluorouridine	thymidine phosphorylase	5-FU 
+r0427	5-exo-Hydroxycamphor	5-exo-hydroxycamphor dehydrogenase	2,5-Diketocamphane
+r1221	5-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate	cis-diol dehydrogenase	4-Fluorocatechol
+R08112	5-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate 	1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase	4-Fluorocatechol
+R08233	5-Fluorodeoxyuridine 	thymidine kinase	5-Fluorodeoxyuridine monophosphate 
+R08120	5-Fluoromuconolactone 	carboxymethylenebutenolidase	2-Maleylacetate
+R08232	5-Fluorouridine 	uridine kinase	5-Fluorouridine monophosphate
+R08229	5-FU	orotate phosphoribosyltransferase	5-Fluorouridine monophosphate 
+R08230	5-FU	uridine phosphorylase	5-Fluorouridine 
+R08231	5-FU	thymidine phosphorylase	5-Fluorodeoxyuridine 
+R08226	5-FU 	dihydropyrimidine dehydrogenase (NADP+)	5,6-Dihydro-5-fluorouracil 
+r1357	5-Hydroxy-2-furoyl-CoA	5-oxo-dihydro-2-furoyl-CoA hydrolase	2-Oxoglutaryl-CoA
+r0682	5-Hydroxyadamantan-2-one	camphor 1,2-monooxygenase	1-Hydroxy-4-oxahomoadamantan-5-one
+R06882	5-Hydroxybisphenol A	No Kegg enzyme supplied	4,5-Bisphenol-o-quinone
+r0969	5-Hydroxypyrrole-2-carboxylate	5-hydroxypyrrole-2-carboxylate tautomerase	5-Oxo-4,5-dihydropyrrole-2-carboxylate
+R08334	5-Hydroxyvalproic acid	No Kegg enzyme supplied	2-Propylglutaric acid
+r1306	5-Methyl-3-oxo-4-hexenoyl-CoA	acetoacetyl-CoA thiolase	3-Methylcrotonyl-CoA
+r0355	5-Methyl-5,6,7,8-tetrahydromethanopterin	tetrahydromethanopterin S-methyltransferase	Methyl-coenzyme M
+r1303	5-Methylhex-4-enoyl-CoA	enoyl-CoA reductase	(2E)-5-Methylhexa-2,4-dienoyl-CoA
+r1548	5-Methylmaleylacetate	maleylacetate reductase	2-Methyl-3-oxoadipate
+r0984	5-Oxo-4,5-dihydropyrrole-2-carboxylate	5-oxo-4,5-dihydropyrrole-2-carboxylate amidase	2-Oxoglutarate
+r1236	5-Oxo-4,5-dihydrothiophene-2-carboxyl-CoA	thiolester hydrolase	(2Z)-5-Carboxy-2-sulfanylpent-2-enoyl-CoA
+R08311	5-Phenyl-1,3-oxazinane-2,4-dione 	No Kegg enzyme supplied	3-Carbamoyl-2-phenylpropionic acid
+r1528	5-Pyridoxate	5-pyridoxate oxygenase	2-(Hydroxymethyl)-3-(acetamidomethylene)succinate
+r1527	5-Pyridoxolactone	5-pyridoxolactonase	5-Pyridoxate
+r0326	5-Sulfosalicylate	Enzyme record not found	Gentisate
+R07686	5-Sulfosalicylate 	No Kegg enzyme supplied	2,5-Dihydroxybenzoate 
+r1180	6,7-Dihydroxy-2-mercaptobenzothiazole	catechol 1,2-dioxygenase	4-[2-Carboxylatovinyl]-2-mercaptothiazole-5-carboxylate
+r0814	6-Amino-1,2-dihydroxynaphthalene	1,2-dihydroxynaphthalene dioxygenase	6-Amino-2-hydroxychromene-2-carboxylate
+r0815	6-Amino-2-hydroxychromene-2-carboxylate	glutathione transferase	(3E)-4-(5-Amino-2-hydroxy-phenyl)-2-oxo-but-3-ene-1-oic-acid
+r0812	6-Amino-2-naphthalenesulfonic acid	naphthalene 1,2-dioxygenase	6-Amino-1,2-dihydroxynaphthalene
+r0449	6-Aminohexanoate	6-aminohexanoate transaminase	6-Oxohexanoate
+R05507	6-Aminohexanoate 	6-aminohexanoate transaminase	Adipate semialdehyde 
+r1097	6-Aminohexanoate Cyclic Dimer	6-aminohexanoate-cyclic-dimer hydrolase	6-Aminohexanoate Linear Dimer
+r1086	6-Aminohexanoate Hexamer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate
+r1086	6-Aminohexanoate Hexamer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate Pentamer
+r1096	6-Aminohexanoate Linear Dimer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate
+r1093	6-Aminohexanoate Pentamer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate
+r1093	6-Aminohexanoate Pentamer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate Tetramer
+r1094	6-Aminohexanoate Tetramer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate
+r1094	6-Aminohexanoate Tetramer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate Trimer
+r1095	6-Aminohexanoate Trimer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate
+r1095	6-Aminohexanoate Trimer	6-aminohexanoate-dimer hydrolase	6-Aminohexanoate Linear Dimer
+R05601	6-Carboxyhex-2-enoyl-CoA	Lyases; Carbon-oxygen lyases; Hydro-lyases	3-Hydroxypimeloyl-CoA
+R05311	6-Carboxyhexanoyl-CoA	pimeloyl-CoA dehydrogenase	6-Carboxyhex-2-enoyl-CoA
+R08123	6-Fluorocyclohexadiene-cis,cis-1,2-diol-1-carboxylate	Oxidoreductases; Acting on the CH-CH group of donors; With NAD+ or NADP+ as acceptor	3-Fluorocatechol
+r1181	6-Hydroxy-2-mercaptobenzothiazole	6-hydroxy-2-mercaptobenzothiazole monooxygenase	6,7-Dihydroxy-2-mercaptobenzothiazole
+r0048	6-Hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline	6-hydroxy-3-methyl-2-oxo-1,2-dihydroquinoline 6-monooxygenase	5,6-Dihydroxy-3-methyl-2-oxo-1,2-dihydroquinoline
+r1442	6-Hydroxy-3-succinoylpyridine	6-hydroxy-3-succinoylpyridine hydrolase	2,5-Dihydroxypyridine
+r1442	6-Hydroxy-3-succinoylpyridine	6-hydroxy-3-succinoylpyridine hydrolase	Succinic semialdehyde
+r0204	6-Hydroxycyclohex-1-ene-1-carboxyl-CoA	6-hydroxycyclohex-1-ene-1-carboxyl-CoA hydratase	2,6-Dihydroxycyclohexane-1-carboxyl-CoA
+R05581	6-Hydroxycyclohex-1-enecarbonyl-CoA	Lyases; Carbon-oxygen lyases; Hydro-lyases	2,6-Dihydroxycyclohexane-1-carboxyl-CoA
+R05602	6-Hydroxycyclohex-1-enecarbonyl-CoA	6-hydroxycyclohex-1-ene-1-carboxyl-CoA dehydrogenase 	6-Ketoxycyclohex-1-ene-1-carboxyl-CoA
+r0174	6-Hydroxyhexanoate	6-hydroxyhexanoate dehydrogenase	6-Oxohexanoate
+R05231	6-Hydroxyhexanoic acid 	alcohol dehydrogenase (NADP+)	Adipate semialdehyde 
+R05283	6-Hydroxyhexanoic acid 	6-hydroxyhexanoate dehydrogenase	Adipate semialdehyde 
+r1441	6-Hydroxypseudooxynicotine	6-hydroxypseudooxynicotine dehydrogenase	6-Hydroxy-3-succinoylpyridine
+r0480	6-Hydroxypseudooxynicotine	6-hydroxypseudooxynicotine monooxygenase	2,6-Dihydroxypseudooxynicotine
+R05594	6-Ketoxycyclohex-1-ene-1-carboxyl-CoA	6-oxo-cyclohex-1-ene-carbonyl-CoA hydrolase	3-Hydroxypimeloyl-CoA
+R08236	6-Mercaptopurine	hypoxanthine phosphoribosyltransferase	6-Thioinosine-5'-monophosphate
+R08237	6-Mercaptopurine	thiopurine S-methyltransferase	6-Methylmercaptopurine
+R08235	6-Mercaptopurine 	xanthine oxidase	6-Thiourate 
+R08242	6-Mercaptopurine ribonucleoside 5'-diphosphate 	IMP dehydrogenase	6-Mercaptopurine ribonucleoside triphosphate
+R08243	6-Mercaptopurine ribonucleoside triphosphate 	nucleoside-triphosphate diphosphatase	6-Thioinosine-5'-monophosphate
+R08238	6-Methylmercaptopurine	hypoxanthine phosphoribosyltransferase	6-Methylthiopurine 5'-monophosphate ribonucleotide
+R05472	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8,8-tetrachloroocta-2E,4E-dienoate	No Kegg enzyme supplied	4-Chlorobenzoate
+r0453	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8,8-tetrachloroocta-2Z,4Z-dienoate	No enzyme supplied	4-Chlorobenzoate
+R05363	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2E,4E,7E-trienoate 	Hydrolases; Acting on carbon-carbon bonds; In ketonic substances	2-(4'-Chlorophenyl)-3,3-dichloropropenoate 
+R05363	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2E,4E,7E-trienoate 	Hydrolases; Acting on carbon-carbon bonds; In ketonic substances	2-Hydroxy-3-chloropenta-2,4-dienoate
+r0444	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2Z,4Z,7-trienoate	6-oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2E,4E,7-trienoate hydrolase	2-(4'-Chlorophenyl)-3,3-dichloropropenoate
+r0444	6-Oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2Z,4Z,7-trienoate	6-oxo-2-hydroxy-7-(4'-chlorophenyl)-3,8,8-trichloroocta-2E,4E,7-trienoate hydrolase	cis-2-Hydroxy-3-chloropenta-2,4-dienone
+R05593	6-Oxo-2-hydroxycyclohexane-1-carboxyl-CoA	6-oxo-2-hydroxycyclohexane-1-carboxyl-CoA hydrolase	3-Hydroxypimelyl-CoA
+r0175	6-Oxohexanoate	6-oxohexanoate dehydrogenase	Adipate
+R08246	6-Thioguanosine monophosphate	thiopurine S-methyltransferase	6-Methylthioguanosine monophosphate
+R08239	6-Thioinosine-5'-monophosphate	thiopurine S-methyltransferase	6-Methylthiopurine 5'-monophosphate ribonucleotide
+R08240	6-Thioinosine-5'-monophosphate 	monophosphate kinase	6-Mercaptopurine ribonucleoside 5'-diphosphate
+R08241	6-Thioinosine-5'-monophosphate 	IMP dehydrogenase	6-Thioxanthine 5'-monophosphate
+R08244	6-Thioxanthine 5'-monophosphate &&L-Glutamine 	GMP synthase (glutamine-hydrolysing)	6-Thioguanosine monophosphate
+r1302	7-Methyl-3-oxo-6-octenoyl-CoA	acetoacetyl-CoA thiolase	5-Methylhex-4-enoyl-CoA
+r1253	7-Methylxanthine	xanthine oxidase	7-Methyluric acid
+r1249	7-Methylxanthine	heteroxanthine demethylase	Xanthine
+r1154	9&#945;-Hydroxy-4-androstene-3,17-dione	3-ketosteroid-delta1-dehydrogenase	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione
+r1361	9,10-Anthraquinone	No enzyme supplied	Catechol
+r1361	9,10-Anthraquinone	No enzyme supplied	Phthalate
+R07689	9,10-Dihydroxyanthracene	No Kegg enzyme supplied	9,10-Anthraquinone 
+r1134	9,10-Dihydroxybenzo(a)pyrene	9,10-dihydroxybenzo(a)pyrene dioxygenase	cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate
+r0576	9,10-Dihydroxyphenanthrene	No enzyme supplied	9,10-Phenanthrenequinone
+r0537	9,10-Phenanthrenequinone	No enzyme supplied	2,2'-Diphenate
+r1298	9,17-Dioxo-1,2,3,4,10,19-hexanorandrostan-5-oate	No enzyme supplied	Carbon Dioxide
+r0408	9-Fluorenol	9-fluorenol dehydrogenase	9-Fluorenone
+r0409	9-Fluorenone	9-fluorenone dioxygenase	(3S,4R)-3,4-Dihydroxy-3,4-dihydro-9-fluorenone
+r1039	9-Fluorenone	9-fluorenone-3,4-dioxygenase	1-Hydro-1,1a-dihydroxy-9-fluorenone
+R07087	9-Hydroxybenzo[a]pyrene 	unspecific monooxygenase	9-Hydroxybenzo[a]pyrene-4,5-oxide
+r0511	9-Phenanthrol	9-phenanthrol glycosyltransferase	9-Phenanthryl-beta-D-glucopyranoside
+r0567	9-Phenanthrol	9-phenanthrol UDP-glucuronosyltransferase	9-Phenanthryl-beta-D-glucuronide
+r0564	9-Phenanthrol	9-phenanthrol sulfotransferase	9-Phenanthrylsulfate
+R00750	Acetaldehyde	4-hydroxy-2-oxovalerate aldolase	4-Hydroxy-2-oxopentanoate
+R05380	Acetaldehyde	acetylene hydratase	Acetylene 
+r1440	Acetamide	amidase	Acetate
+r0723	Acetanilide	acetanilide 1,2-dioxygenase	Catechol
+R01364	Acetoacetate 	fumarylacetoacetase	4-Fumarylacetoacetate 
+r0201	Acetoacetyl-CoA	acetoacetyl-CoA thiolase	Acetyl-CoA
+r1315	Acetonitrile	nitrile hydratase	Acetamide
+r0251	Acetophenone	naphthalene 1,2-dioxygenase	2-Hydroxyacetophenone
+r0033	Acetophenone	acetophenone carboxylase	Benzoyl acetate
+r1626	Acetyl-CoA	arylamine N-acetyltransferase	N-acetylaminonitrofen
+r1333	Acetyl-CoA	arylamine N-acetyltransferase	N-Acetylisoniazid
+R00829	Acetyl-CoA	acetyl-CoA C-acetyltransferase	Acetoacetyl-CoA
+r1626	Acetyl-CoA	acetyl-CoA C-acyltransferase	3-Oxoadipyl-CoA
+r0591	Acetylene	acetylene hydratase	Acetaldehyde
+r0592	Acetylene	nitrogenase	Ethylene
+R08250	Acetylhydrazine 	arylamine N-acetyltransferase	N,N'-Diacetylhydrazine
+r0095	Acetylpyruvate	acetylpyruvate hydrolase	Pyruvate
+r0084	Acrylamide	amidase	Acrylate
+R05379	Acrylamide	nitrile hydratase	Acrylonitrile 
+r0085	Acrylate	glutaconate CoA-transferase	Acrylyl-CoA
+r0622	Acrylonitrile	aliphatic nitrilase	Acrylate
+r0083	Acrylonitrile	nitrile hydratase	Acrylamide
+R05358	Acrylonitrile 	aliphatic nitrilase	Propenoate 
+r0086	Acrylyl-CoA	lactoyl-CoA dehydratase	Lactoyl-CoA
+r0680	Adamantanone	camphor 5-monooxygenase	5-Hydroxyadamantan-2-one
+r0681	Adamantanone	camphor 1,2-monooxygenase	4-Oxahomoadamantan-5-one
+r1060	Adipate	adipate-CoA ligase	Adipyl-CoA
+R05100	Adipate semialdehyde	 cyclohexane-1,2-dione hydrolase	Cyclohexane-1,2-dione 
+R05099	Adipate semialdehyde 	aldehyde dehydrogenase (NADP+)	Adipate 
+R06943	Adipyl-CoA	adipyl-CoA dehydrogenase	5-Carboxy-2-pentenoyl-CoA
+r1061	Adipyl-CoA	enoyl-CoA reductase	5-Carboxy-2-pentenoyl-CoA
+r1696	Alachlor	alachlor hydrolase	Chloroacetate
+r1677	Alachlor	alachlor monooxygenase	Formaldehyde
+r1696	Alachlor	alachlor hydrolase	2,6-Diethyl-N-(methoxymethyl)aniline
+r1677	Alachlor	alachlor monooxygenase	2-Chloro-2',6'-diethylacetanilide
+r1693	Alachlor	alachlor dehalogenase	2-Hydroxy-2',6'-diethyl-N-acetanilide
+R08289	Aldoifosfamide	No Kegg enzyme supplied	Acrolein
+R08289	Aldoifosfamide	No Kegg enzyme supplied	Alcoifosfamide
+R08290	Aldoifosfamide	No Kegg enzyme supplied	Carboxyifosfamide
+R08292	Aldoifosfamide	No Kegg enzyme supplied	Isophosphamide mustard
+R08279	Aldophosphamide	No Kegg enzyme supplied	Acrolein
+R08279	Aldophosphamide	No Kegg enzyme supplied	Phosphoramide mustard
+R08280	Aldophosphamide 	aldehyde dehydrogenase [NAD(P)+]	Carboxyphosphamide 
+R08280	Aldophosphamide 	glutathione transferase	4-Glutathionyl cyclophosphamide 
+R08281	Aldophosphamide 	alcohol dehydrogenase	Alcophosphamide 
+r0848	Allophanate	allophanate hydrolase	Carbon Dioxide
+R08228	alpha-Fluoro-beta-ureidopropionic acid 	beta-ureidopropionase	alpha-Fluoro-beta-alanine
+R01764	alpha-Oxo-benzeneacetic acid	benzoylformate decarboxylase	Benzaldehyde 
+r0742	alpha-Pinene	alpha-pinene monooxygenase[NADH]	alpha-Pinene oxide
+r0712	alpha-Pinene	alpha-pinene lyase	Limonene
+r0709	alpha-Pinene	alpha-pinene dehydrogenase	Myrtenol
+r0716	alpha-Pinene	alpha-pinene monooxygenase	Pinocarveol
+r0743	alpha-Pinene oxide	alpha-pinene oxide lyase	cis-2-Methyl-5-isopropylhexa-2,5-dienal
+r1497	Aminohydroquinone	aminohydroquinone oxidase	1,2,4-Benzenetriol
+r0074	Aminomethylphosphonic acid (AMPA)	C-P lyase	Methylamine
+r1626	Aminonitrofen	arylamine N-acetyltransferase	N-acetylaminonitrofen
+r0069	Aminoparathion	aryldialkylphosphatase	Diethylthiophosphoric acid
+r0069	Aminoparathion	aryldialkylphosphatase	p-Aminophenol
+R05485	Aminoparathion 	No Kegg enzyme supplied	4-Hydroxyaniline
+R05485	Aminoparathion 	No Kegg enzyme supplied	Diethylthiophosphoric acid 
+r1455	Aminopyrimidine	thiaminase II	Toxopyrimidine
+R06967	Ammelide 	N-isopropylammelide isopropylaminohydrolase	Cyanuric acid 
+R06969	Ammeline 	ammeline aminohydrolase	Ammelide 
+r1153	Androst-4-ene-3,17-dione	4-AD 9alpha-hydroxylase	9&#945;-Hydroxy-4-androstene-3,17-dione
+r1148	Androst-4-ene-3,17-dione	3-ketosteroid-delta1-dehydrogenase	Androsta-1,4-diene-3,17-dione
+r1149	Androsta-1,4-diene-3,17-dione	ADD 9alpha-hydroxylase	3-Hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione
+r1047	Aniline	aniline dioxygenase	Catechol
+r1143	Anthracene	anthracene 9,10-dioxygenase	cis-9,10-Dihydroanthracene-9,10-diol
+r1359	Anthracene	lignin peroxidase	9,10-Anthraquinone
+r1111	Anthracene	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroanthracene-1,2-diol
+R07704	Anthracene 	naphthalene 1,2-dioxygenase	Anthracene cis-1,2-dihydrodiol 
+R07687	Anthracene 	anthracene 9,10-dioxygenase	Anthracene-9,10-dihydrodiol
+R07705	Anthracene cis-1,2-dihydrodiol 	cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase	1,2-Anthracenediol 
+r1108	Anthracene-1,2-diol	anthracene-1,2-diol 1,2-dioxygenase	3-[(Z)-2-carboxyvinyl]-2-naphthoate
+r1109	Anthracene-1,2-diol	anthracene-1,2-diol 1,2-dioxygenase	cis-4-(2-Hydroxynaph-3-yl)-2-oxobut-3-enoate
+R07688	Anthracene-9,10-dihydrodiol	cis-9,10-dihydroanthracene-9,10-diol dehydrogenase	9,10-Dihydroxyanthracene 
+R00823	Anthranilate 	anthranilate 3-monooxygenase (deaminating)	2,3-Dihydroxybenzoate 
+R00980	Anthranilate 	anthranilate---CoA ligase	Anthranilyl-CoA
+R00982	Anthranilate 	anthranilate 1,2-dioxygenase (deaminating, decarboxylating)	Catechol 
+R03998	Anthranilyl-CoA	anthraniloyl-CoA monooxygenase	2-Amino-5-oxocyclohex-1-enecarbonyl-CoA
+R05585	Anthranilyl-CoA	Oxidoreductases; Acting on the CH-NH2 group of donors	S-Benzoate coenzyme A 
+r0635	Arsenate	arsenate reductase	Arsenite
+r0634	Arsenite	arsenite oxidase	Arsenate
+r0633	Arsonoacetate	No enzyme supplied	Acetate
+r0633	Arsonoacetate	No enzyme supplied	Arsenite
+r1457	Asulam	asulam hydrolase	Sulfanilamide
+r0127	Atrazine	atrazine monooxygenase	Deethylatrazine
+r0113	Atrazine	atrazine chlorohydrolase	Hydroxyatrazine
+r0118	Atrazine	atrazine monooxygenase	Deisopropylatrazine
+R08234	Azathioprine	No Kegg enzyme supplied	1-Methyl-4-nitroimidazole
+R08234	Azathioprine	No Kegg enzyme supplied	6-Mercaptopurine
+r0269	Benzaldehyde	benzaldehyde dehydrogenase (NAD+)	Benzoate
+R01419	Benzaldehyde 	benzaldehyde dehydrogenase (NAD+)	Benzoate 
+r0375	Benzamide	amidase	Benzoate
+r0079	Benzene	benzene 1,2-dioxygenase	cis-Dihydrobenzenediol
+R03543	Benzene 	benzene 1,2-dioxygenase	cis-1,2-Dihydrobenzene-1,2-diol 
+R06853	Benzene-1,2,4-triol	1,2,4-benzenetriol dehydrogenase	2-Hydroxy-1,4-benzoquinone
+R03891	Benzene-1,2,4-triol 	hydroxyquinol 1,2-dioxygenase	2-Maleylacetate
+R04061	Benzene-1,2,4-triol 	hydroxyquinol 1,2-dioxygenase	3-Hydroxy-cis,cis-muconate
+r1124	Benzo(a)pyrene	benzo(a)pyrene 11,12-dioxygenase	Benzo(a)pyrene-cis-11,12-dihydrodiol
+r1119	Benzo(a)pyrene	benzo(a)pyrene 11,12-epoxidase	Benzo(a)pyrene-11,12-epoxide
+r1126	Benzo(a)pyrene	benzo(a)pyrene 4,5-dioxygenase	Benzo(a)pyrene-cis-4,5-dihydrodiol
+r1132	Benzo(a)pyrene	naphthalene 1,2-dioxygenase	Benzo(a)pyrene-cis-9,10-dihydrodiol
+r1137	Benzo(a)pyrene	benzo(a)pyrene 7,8-dioxygenase	Benzo(a)pyrene-cis-7,8-dihydrodiol
+r1120	Benzo(a)pyrene-11,12-epoxide	epoxide hydrolase	Benzo(a)pyrene-trans-11,12-dihydrodiol
+r1125	Benzo(a)pyrene-cis-11,12-dihydrodiol	benzo(a)pyrene-cis-9,10-dihydrodiol dehydrogenase	11,12-Dihydroxybenzo(a)pyrene
+r1127	Benzo(a)pyrene-cis-4,5-dihydrodiol	benzo(a)pyrene-cis-4,5-dihydrodiol dehydrogenase	4,5-Dihydroxybenzo(a)pyrene
+r1138	Benzo(a)pyrene-cis-7,8-dihydrodiol	7,8-dihydroxy benzo(a)pyrene dioxygenase	cis-4-(7-Hydroxypyren-8-yl)-2-oxobut-3-enoate
+r1133	Benzo(a)pyrene-cis-9,10-dihydrodiol	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	9,10-Dihydroxybenzo(a)pyrene
+r1121	Benzo(a)pyrene-trans-11,12-dihydrodiol	benzo(a)pyrene-trans-11,12-dihydrodiol dehydrogenase	11,12-Dihydroxybenzo(a)pyrene
+R07081	Benzo[a]pyrene 	unspecific monooxygenase	Benzo[a]pyrene-4,5-oxide 
+R07080	Benzo[a]pyrene 	unspecific monooxygenase	Benzo[a]pyrene-7,8-oxide 
+R07079	Benzo[a]pyrene 	unspecific monooxygenase	Benzo[a]pyrene-9,10-oxide 
+R07083	Benzo[a]pyrene-4,5-oxide	glutathione transferase	4,5-Dihydro-4-hydroxy-5-S-glutathionyl-benzo[a]pyrene
+R07084	Benzo[a]pyrene-7,8-diol 	glutathione transferase	7,8-Dihydro-7-hydroxy-8-S-glutathionyl-benzo[a]pyrene
+R07085	Benzo[a]pyrene-7,8-diol 	unspecific monooxygenase	Benzo[a]pyrene-7,8-dihydrodiol-9,10-oxide
+R07082	Benzo[a]pyrene-7,8-oxide 	microsomal epoxide hydrolase	Benzo[a]pyrene-7,8-diol
+R07086	Benzo[a]pyrene-9,10-oxide	No Kegg enzyme supplied	9-Hydroxybenzo[a]pyrene
+r0245	Benzoate	benzoate 1,2-dioxygenase	cis-1,6-Dihydroxy-2,4-cyclohexadiene-1-carboxylic acid
+r0189	Benzoate	benzoate-CoA ligase	Benzoyl-CoA
+r0245	Benzoate	No Kegg enzyme supplied	3-Hydroxybenzoate
+r0623	Benzoate	benzoate 4-monooxygenase	4-Hydroxybenzoate
+R01422	Benzoate 	benzoate---CoA ligase	S-Benzoate coenzyme A
+R05621	Benzoate 	benzoate 1,2-dioxygenase	(1R,6S)-1,6-Dihydroxycyclohexa-2,4-diene-1-carboxylate
+r0374	Benzonitrile	nitrilase	Benzoate
+r0377	Benzonitrile	nitrile hydratase	Benzamide
+r1292	Benzothiazole	benzothiazole monooxygenase	2-Hydroxybenzothiazole
+r1290	Benzothiazole-2-sulfonate	benzothiazole-2-sulfonate hydrolase	2-Hydroxybenzothiazole
+r1600	Benzothiophene	benzothiophene monooxygenase	Benzothiophene-S-oxide
+r1603	Benzothiophene-S,S-dioxide	benzothiophene-S,S-dioxide monooxygenase	(Z)-2-(2-Hydroxyphenyl)ethenesulfinate
+r1601	Benzothiophene-S-oxide	benzothiophene monooxygenase	Benzothiophene-S,S-dioxide
+r0242	Benzoyl acetate	benzoyl acetate-CoA ligase	Benzoyl acetyl-CoA
+r0243	Benzoyl acetyl-CoA	benzoyl acetate-CoA thiolase	Acetyl-CoA
+r0243	Benzoyl acetyl-CoA	benzoyl acetate-CoA thiolase	Benzoyl-CoA
+R05506	Benzoyl acetyl-CoA	acetyl-CoA C-acyltransferase	S-Benzoate coenzyme A 
+R01421	Benzoyl phosphate 	acylphosphatase	Benzoate
+r0190	Benzoyl-CoA	benzoyl-CoA reductase	Cyclohex-1,5-diene-1-carboxyl-CoA
+r1049	Benzoylformate	benzoylformate decarboxylase	Benzaldehyde
+R05587	Benzoylsuccinyl-CoA	benzoylsuccinyl-CoA thiolase BbsB subunit	S-Benzoate coenzyme A 
+R05587	Benzoylsuccinyl-CoA	benzoylsuccinyl-CoA thiolase BbsB subunit	Succinyl-CoA
+r0267	Benzyl alcohol	benzyl alcohol dehydrogenase	Benzaldehyde
+R01763	Benzyl alcohol 	aryl-alcohol dehydrogenase	Benzaldehyde 
+R02550	Benzyl alcohol  	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; With a reduced iron-sulfur protein as one donor, and incorporation of one atom of oxygen	Toluene 
+r1015	Benzyl disulfide	No enzyme supplied	Benzyl mercaptan
+r1014	Benzyl mercaptan	No enzyme supplied	Benzyl disulfide
+r1013	Benzyl sulfide	No enzyme supplied	Benzyl mercaptan
+r1016	Benzyl sulfide	DBT monooxygenase	Benzyl sulfoxide
+r1013	Benzyl sulfide	No enzyme supplied	Benzaldehyde
+r1018	Benzyl sulfoxide	DBT monooxygenase	Benzyl sulfone
+r0329	Benzylsuccinate	succinyl-CoA: benzylsuccinate CoA-transferase	Benzylsuccinyl-CoA
+R05588	Benzylsuccinate 	succinyl-CoA:(R)-benzylsuccinate CoA-transferase	Succinate
+r0330	Benzylsuccinyl-CoA	benzylsuccinyl-CoA dehydrogenase	E-Phenylitaconyl-CoA
+R05584	Benzylsuccinyl-CoA	(R)-benzylsuccinyl-CoA dehydrogenase	E-Phenylitaconyl-CoA
+r0077	beta-1,2,3,4,5,6-Hexachlorocyclohexane	No enzyme supplied	delta-3,4,5,6-Tetrachlorocyclohexene
+R05533	beta-1,2,3,4,5,6-Hexachlorocyclohexane	No Kegg enzyme supplied	delta-3,4,5,6-Tetrachlorocyclohexene
+r1299	beta-1,2,3,4,5,6-Hexachlorocyclohexane	haloalkane dehalogenase	2,3,4,5,6-Pentachlorocyclohexanol
+R07669	beta-1,2,3,4,5,6-Hexachlorocyclohexane 	haloalkane dehalogenase	beta-2,3,4,5,6-Pentachlorocyclohexanol
+R07670	beta-2,3,4,5,6-Pentachlorocyclohexanol 	haloalkane dehalogenase	beta-2,3,5,6-Tetrachloro-1,4-cyclohexanediol
+r0646	beta-Hydroxybutylbutyltin	No enzyme supplied	Butyltin (MBT)
+r0646	beta-Hydroxybutylbutyltin	No enzyme supplied	Methyl ethyl ketone
+r0644	beta-Hydroxybutyldibutyltin	No enzyme supplied	Dibutyltin (DBT)
+r0644	beta-Hydroxybutyldibutyltin	No enzyme supplied	Methyl ethyl ketone
+r0648	beta-Hydroxybutyltin	No enzyme supplied	Methyl ethyl ketone
+r0648	beta-Hydroxybutyltin	No enzyme supplied	Tin
+r0388	Biphenyl	biphenyl dioxygenase	cis-2,3-Dihydro-2,3-dihydroxybiphenyl
+R05263	Biphenyl 	biphenyl 2,3-dioxygenase	cis-2,3-Dihydro-2,3-dihydroxybiphenyl
+R03462	Biphenyl-2,3-diol 	biphenyl-2,3-diol 1,2-dioxygenase	2-Hydroxy-6-oxo-6-phenylhexa-2,4-dienoate
+R05479	Bis(4'-chlorophenyl)acetate	No Kegg enzyme supplied	2,2-Bis(4'-chlorophenyl)ethanol 
+R05481	Bis(4'-chlorophenyl)acetate	No Kegg enzyme supplied	4,4'-Dichlorobenzophenone
+r0520	bis(4'-Chlorophenyl)acetate (DDA)	DDA decarboxylase	bis(4'-Chlorophenyl)methane (DDM)
+r0517	bis(4'-Chlorophenyl)acetate (DDA)	No enzyme supplied	4,4'-Dichlorobenzophenone (DBP)
+R05473	Bis(4'-chlorophenyl)methane	No Kegg enzyme supplied	4-Chlorophenylacetate
+R05376	Bis(4'-chlorophenyl)methane 	DDT-dehydrochlorinase	Bis(4'-chlorophenyl)acetate
+r0538	bis(4'-Chlorophenyl)methane (DDM)	No enzyme supplied	4-Chlorophenylacetate
+r1481	Bis(4-hydroxyphenyl) methanol	bis(4-hydroxyphenyl) methanol dehydrogenase	4,4'-Dihydroxybenzophenone
+r1035	bis(Hydroxymethyl)nitramine	No enzyme supplied	Formaldehyde
+r1035	bis(Hydroxymethyl)nitramine	No enzyme supplied	Nitramine
+R06880	Bisphenol A	No Kegg enzyme supplied	4-Methyl-2,4-bis-(p-hydroxyphenyl)pent-1-ene
+R06881	Bisphenol A	No Kegg enzyme supplied	5-Hydroxybisphenol A
+r0861	Bisphenol A	bisphenol A hydroxylase A	2,2-bis(4-Hydroxyphenyl)-1-propanol
+r0860	Bisphenol A	bisphenol A hydroxylase B	1,2-bis(4-Hydroxyphenyl)-2-propanol
+r1480	Bisphenol F	bisphenol F monooxygenase	Bis(4-hydroxyphenyl) methanol
+r0846	Biuret	biuret hydrolase	Allophanate
+R05563	Biuret 	biuret amidohydrolase	Urea-1-carboxylate 
+r1080	Branched-chain dodecyl-4-hydroxy-benzene	No enzyme supplied	3-(4-Hydroxyphenyl)propionate
+r1081	Branched-chain dodecyl-4-hydroxy-benzene	No enzyme supplied	2-(4-Hydroxyphenyl)propionate
+r1079	Branched-chain dodecylbenzene sulfonate	branched-chain dodecylbenzene sulfonate monooxygenase	Branched-chain dodecyl-4-hydroxy-benzene
+r1079	Branched-chain dodecylbenzene sulfonate	branched-chain dodecylbenzene sulfonate monooxygenase	Sulfurous acid
+R07066	Bromobenzene 	unspecific monooxygenase	Bromobenzene-3,4-oxide 
+R07070	Bromobenzene-2,3-oxide	glutathione transferase	2,3-Dihydro-2-S-glutathionyl-3-hydroxy bromobenzene
+R07074	Bromobenzene-2,3-oxide	No Kegg enzyme supplied	2-Bromophenol
+R07072	Bromobenzene-2,3-oxide 	microsomal epoxide hydrolase	Bromobenzene-2,3-dihydrodiol
+R07078	Bromobenzene-3,4-dihydrodiol	No Kegg enzyme supplied	4-Bromocatechol
+R07069	Bromobenzene-3,4-oxide	glutathione transferase	3,4-Dihydro-3-hydroxy-4-S-glutathionyl bromobenzene
+R07073	Bromobenzene-3,4-oxide	No Kegg enzyme supplied	4-Bromophenol
+R07071	Bromobenzene-3,4-oxide 	microsomal epoxide hydrolase	Bromobenzene-3,4-dihydrodiol
+r0548	Bromoxynil	bromoxynil-specific nitrilase	3,5-Dibromo-4-hydroxybenzoate
+r0544	Bromoxynil	nitrile hydratase	3,5-Dibromo-4-hydroxybenzamide
+r0539	Bromoxynil	pentachlorophenol 4-monooxygenase	2,6-Dibromohydroquinone
+r0647	Butyltin (MBT)	MBT dioxygenase	beta-Hydroxybutyltin
+r0016	Butyrolactone	butyrolactone hydrolase	4-Hydroxybutanoate
+r0012	Butyryl-CoA	acetate CoA-transferase	Butyrate
+r1251	Caffeine	caffeine demethylase	Paraxanthine
+r1321	Caffeine	caffeine oxidase	1,3,7-Trimethyluric acid
+r1324	Caffeine	caffeine demethylase	Theophylline
+r1247	Caffeine	caffeine demethylase	Theobromine
+R08220	Capecitabine 	carboxylesterase	5'-Deoxy-5-fluorocytidine
+R08317	Carbamazepine	No Kegg enzyme supplied	2-Hydroxycarbamazepine
+R08313	Carbamazepine 	unspecific monooxygenase	3-Hydroxycarbamazepine 
+R08312	Carbamazepine 	unspecific monooxygenase	Carbamazepine-10,11-epoxide
+R08314	Carbamazepine-10,11-epoxide 	unspecific monooxygenase	Dihydroxycarbazepine
+r1475	Carbaryl	carbaryl hydrolase	1-Naphthol
+r1475	Carbaryl	carbaryl hydrolase	Methylamine
+r0456	Carbazole	carbazole 1,9a-dioxygenase	2'-Aminobiphenyl-2,3-diol
+r1551	Carbofuran	carbofuran 5-hydroxylase	5-Hydroxycarbofuran
+r1477	Carbofuran	carbofuran hydrolase	Carbofuran-7-phenol
+r1477	Carbofuran	carbofuran hydrolase	Methylamine
+r1540	Carbofuran	carbofuran hydroxylase	4-Hydroxycarbofuran
+r1541	Carbofuran	carbofuran furanhydrolase	2-Hydroxy-3-(3-methylpropan-2-ol) benzene-N-methylcarbamate
+r1549	Carbofuran	carbofuran 3-hydroxylase	3-Hydroxycarbofuran
+r1478	Carbofuran-7-phenol	carbofuran-7-phenol hydrolase	3-(2-Hydroxy-2-methylpropyl)benzene-1,2-diol
+r0345	Carbon Dioxide	formylmethanofuran dehydrogenase	Formylmethanofuran
+r0599	Carbon disulfide	carbon disulfide oxygenase	Carbonyl sulfide
+r0607	Carbon Monoxide	soluble methane monooxygenase	Carbon Dioxide
+r0678	Carbon Tetrachloride	No enzyme supplied	Carbon Dioxide
+r0670	Carbon Tetrachloride	Enzyme record not found	Chloroform
+r0677	Carbon Tetrachloride	No enzyme supplied	Formate
+r0676	Carbon Tetrachloride	No enzyme supplied	Carbon Monoxide
+r0600	Carbonyl sulfide	nitrogenase	Carbon Monoxide
+R08284	Carboxyphosphamide	No Kegg enzyme supplied	Nornitrogen mustard
+r0714	Carveol	carveol dehydrogenase	Carvone
+r0732	Carvone	carvone reductase	Dihydrocarvone
+r0601	Catechol	catechol 1,2-dioxygenase	cis,cis-Muconate
+r0307	Catechol	catechol 2,3-dioxygenase	2-Hydroxy-cis,cis-muconate semialdehyde
+R00816	Catechol 	catechol 2,3-dioxygenase	2-Hydroxymuconate semialdehyde
+R07101	Chloral 	No Kegg enzyme supplied	Chloral hydrate
+r0386	Chloral hydrate	chloral hydrate dehydrogenase	Trichloroacetate
+r0387	Chloral hydrate	chloral hydrate dehydrogenase	Trichloroethanol
+R07105	Chloral hydrate 	alcohol dehydrogenase	Trichloroethanol 
+R07104	Chloral hydrate 	aldehyde dehydrogenase [NAD(P)+]	Trichloroacetate 
+r0981	Chlorate	chlorate reductase	Chlorite
+r0982	Chlorite	chlorite dismutase	Chloride
+r0003	Chloroacetaldehyde	aldehyde dehydrogenase (NAD+)	Chloroacetate
+r0004	Chloroacetate	haloacetate dehalogenase	Glycolate
+R05287	Chloroacetic acid 	(S)-2-haloacid dehalogenase	Glycolate
+R07096	Chloroacetyl chloride 	No Kegg enzyme supplied	Chloroacetic acid
+R07093	Chloroacetyl chloride 	glutathione transferase	S-(2-Chloroacetyl)glutathione
+r0097	Chlorobenzene	chlorobenzene dioxygenase	3-Chloro-cis-1,2-dihydroxycyclohexa-3,5-diene
+r1009	Chloroethane	ammonia monooxygenase	Acetaldehyde
+r0671	Chloroform	Enzyme record not found	Dichloromethane
+r0555	Chlorohydroquinone	2,5-dichlorohydroquinone reductive dechlorinase	Hydroquinone
+r0883	Chromate	No enzyme supplied	Chromium (III)
+r1438	Chrysene-4-carboxylate	No enzyme supplied	Carbon Dioxide
+r1439	Chrysene-5-carboxylate	No enzyme supplied	Carbon Dioxide
+r1619	Cinnamate	3-phenylpropionate dioxygenase	cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol
+r1506	cis,cis-2,4-Dihydroxy-5-methyl-6-oxo-2,4-hexadienoate	2,4-dihydroxy-5-methyl-6-oxo-2,4-hexadienoate hydrolase	Methylmalonate semialdehyde
+r0263	cis,cis-2-Hydroxy-6-oxohept-2,4-dienoate	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	Acetate
+r0263	cis,cis-2-Hydroxy-6-oxohept-2,4-dienoate	2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	cis-2-Hydroxypenta-2,4-dienoate
+r0229	cis,cis-4-Hydroxymuconic semialdehyde	4-hydroxymuconic semialdehyde dehydrogenase	Maleylacetate
+R06989	cis,cis-Muconate	muconate cycloisomerase	(S)-5-Oxo-2,5-dihydrofuran-2-acetate
+R06621	cis-1,2-Cyclohexanediol 	cyclohexane-1,2-diol dehydrogenase	2-Hydroxycyclohexan-1-one 
+r0351	cis-1,2-Dichloroethene	1,2-dichloroethene reductive dehalogenase	Vinyl chloride
+R05313	cis-1,2-Dihydro-3-ethylcatechol 	cis-dihydroethylcatechol dehydrogenase	3-Ethylcatechol 
+r1110	cis-1,2-Dihydroanthracene-1,2-diol	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	Anthracene-1,2-diol
+R00812	cis-1,2-Dihydrobenzene-1,2-diol 	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	Catechol 
+R04115	cis-1,2-Dihydronaphthalene-1,2-diol 	cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase	Naphthalene-1,2-diol
+r1170	cis-1,2-Dihydroxy-1,2,5,6,7,8-hexahydronaphthalene	1,2-dihydroxy-1,2,5,6,7,8-hexyhadronaphthalene dehydrogenase	1,2-Dihydroxy-5,6,7,8-tetrahydronaphthalene
+r0763	cis-1,2-Dihydroxy-1,2-dihydro-7-hydroxymethylnaphthalene	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	1,2-Dihydroxy-7-hydroxymethylnaphthalene
+R06931	cis-1,2-Dihydroxy-1,2-dihydro-7-hydroxymethylnaphthalene 	cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase	1,2-Dihydroxy-7-hydroxymethylnaphthalene
+r0797	cis-1,2-Dihydroxy-1,2-dihydro-7-methylnaphthalene	No enzyme supplied	4-Methylsalicylate
+r0774	cis-1,2-Dihydroxy-1,2-dihydro-8-carboxynaphthalene	cis-1,2-dihydroxy-1,2-dihydro-8-carboxynaphthalene dehydrogenase	1,2-Dihydroxy-8-carboxynaphthalene
+r0780	cis-1,2-Dihydroxy-1,2-dihydro-8-methylnaphthalene	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	1,2-Dihydroxy-8-methylnaphthalene
+R06910	cis-1,2-Dihydroxy-1,2-dihydro-8-methylnaphthalene 	cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase	1,2-Dihydroxy-8-methylnaphthalene
+r0161	cis-1,2-Dihydroxy-1,2-dihydrodibenzothiophene	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	1,2-Dihydroxydibenzothiophene
+r0335	cis-1,2-Dihydroxy-1,2-dihydronaphthalene	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	1,2-Dihydroxynaphthalene
+R05292	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate	cis-1,2-dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate dehydrogenase	4-Methylcatechol
+r0687	cis-1,3-Dichloropropene	haloalkane dehalogenase	cis-3-Chloro-2-propene-1-ol
+r0246	cis-1,6-Dihydroxy-2,4-cyclohexadiene-1-carboxylic acid	cis-diol dehydrogenase	Catechol
+r0134	cis-2,3-Dihydro-2,3-dihydroxy-4'-chlorobiphenyl	2,3-dihydro-2,3-dihydroxybiphenyl dehydrogenase	2,3-Dihydroxy-4'-chlorobiphenyl
+r0389	cis-2,3-Dihydro-2,3-dihydroxybiphenyl	2,3-dihydro-2,3-dihydroxybiphenyl dehydrogenase	2,3-Dihydroxybiphenyl
+R05239	cis-2,3-Dihydro-2,3-dihydroxybiphenyl 	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase	Biphenyl-2,3-diol 
+R05395	cis-2,3-Dihydrodiol 1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane	cis-2,3-dihydrodiol DDT dehydrogenase	2,3-Dihydroxy1,1,1-Trichloro-2,2-bis(4'-chlorophenyl)ethane
+r0451	cis-2,3-Dihydrodiol DDT	cis-2,3-dihydrodiol DDT dehydrogenase	2,3-Dihydroxy DDT
+r0309	cis-2,3-Dihydroxy-2,3-dihydroethylbenzene	cis-ethylbenzene glycol dehydrogenase	2,3-Dihydroxyethylbenzene
+r0396	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate	2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase	2,3-Dihydroxy-p-cumate
+R04576	cis-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide	2-chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase	trans-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide
+R05511	cis-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide 	carboxymethylenebutenolidase	2-Chloromaleylacetate
+r0279	cis-2-Chlorodienelactone	dienelactone hydrolase	2-Chloromaleylacetate
+r0101	cis-2-Hydroxypenta-2,4-dienoate	2-oxopent-4-enoate hydratase	4-Hydroxy-2-oxovalerate
+r0744	cis-2-Methyl-5-isopropylhexa-2,5-dienal	cis-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase	cis-2-Methyl-5-isopropylhexa-2,5-dienoic acid
+r0988	cis-2-Methyl-5-isopropylhexa-2,5-dienoic acid	cis-2-methyl-5-isopropylhexa-2,5-dienoate-CoA ligase	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+r0990	cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA	enoyl-CoA hydratase	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
+r0369	cis-2-Oxohept-3-ene-1,7-dioate	2-oxo-hept-3-ene-1,7-dioate hydratase	2,4-Dihydroxy-hept-trans-2-ene-1,7-dioate
+r1620	cis-3-(3-carboxyethenyl)-3,5-cyclohexadiene-1,2-diol	2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	2,3-Dihydroxycinnamate
+r0436	cis-3-(3-Carboxyethyl)-3,5-cyclohexadiene-1,2-diol	2,3-dihydroxy-2,3-dihydrophenylpropionate dehydrogenase	3-(2,3-Dihydroxyphenyl)propionate
+r0488	cis-3,4-Dihydroxy-3,4-dihydrophenanthrene	cis-3,4-dihydroxy-3,4-dihydrophenanthrene dehydrogenase	3,4-Dihydroxyphenanthrene
+r0940	cis-3,4-Phenanthrenedihydrodiol-4-carboxylate	cis-3,4-phenanthrenedihydrodiol-4-carboxylate dehydrogenase	3,4-Dihydroxyphenanthrene
+r0691	cis-3-Chloro-2-propene-1-ol	alcohol dehydrogenase	cis-3-Chloroallyl aldehyde
+r0688	cis-3-Chloroacrylic acid	cis-chloroacrylic acid dehalogenase	Malonate semialdehyde
+R05372	cis-3-Chloroacrylic acid 	Hydrolases; Acting on halide bonds; In C-halide compounds	3-Oxopropanoate
+r0693	cis-3-Chloroallyl aldehyde	aldehyde dehydrogenase	cis-3-Chloroacrylic acid
+R05648	cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate 	Lyases; Carbon-carbon lyases; Aldehyde-lyases	1-Hydroxy-2-naphthaldehyde
+R05648	cis-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate 	Lyases; Carbon-carbon lyases; Aldehyde-lyases	Pyruvate
+r1105	cis-4-(2-Hydroxynaph-3-yl)-2-oxobut-3-enoate	cis-4-(2-hydroxynaph-3-yl)-2-oxobut-3-enoate hydratase-aldolase	3-Hydroxy-2-naphthoate
+r1106	cis-4-(2-Hydroxynaph-3-yl)-2-oxobut-3-enoate	No enzyme supplied	6,7-Benzocoumarin
+r1139	cis-4-(7-Hydroxypyren-8-yl)-2-oxobut-3-enoate	No enzyme supplied	7,8-Dihydropyrene-8-carboxylate
+r1139	cis-4-(7-Hydroxypyren-8-yl)-2-oxobut-3-enoate	No enzyme supplied	Pyruvate
+r1135	cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate	cis-4-(8-hydroxypyren-7-yl)-2-oxobut-3-enoate lyase	10-Oxabenzo(def)chrysen-9-one
+r1136	cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate	No enzyme supplied	7,8-Dihydropyrene-7-carboxylate
+r1136	cis-4-(8-Hydroxypyren-7-yl)-2-oxobut-3-enoate	No enzyme supplied	Pyruvate
+r0935	cis-4,5-Dihydroxy-4,5-dihydropyrene	1,2-dihydroxy-1,2-dihydronaphthalene dehydrogenase	4,5-Dihydroxypyrene
+R05275	cis-4,5-Dihydroxycyclohexa-1(6),2-diene-1,2-dicarboxylate 	phthalate 4,5-cis-dihydrodiol dehydrogenase	4,5-Dihydroxyphthalate
+r0163	cis-4-[2-(3-Hydroxy)-thionaphthenyl]-2-oxo-3-butenoate	cis-4-[2-(3-hydroxy)-thionaphthenyl]-2-oxo-3-butenoate isomerase	trans-4-[2-(3-Hydroxy)-thionaphthenyl]-2-oxo-3-butenoate
+r0818	cis-4-Amino-6-carboxy-2-oxo-hexa-3,5-dienoate	No enzyme supplied	trans-4-Amino-6-carboxy-2-oxo-hexa-3,5-dienoate
+r0286	cis-4-Carboxymethylenebut-2-en-4-olide	dienelactone hydrolase	Maleylacetate
+R03893	cis-4-Carboxymethylenebut-2-en-4-olide 	carboxymethylenebutenolidase	2-Maleylacetate
+r0053	cis-5,6-Dihydrodiol-3-methyl-2-oxo-1,2-dihydroquinoline	5,6-dihydrodiol-3-methyl-2-oxo-1,2-dihydroquinoline dehydrogenase	5,6-Dihydroxy-3-methyl-2-oxo-1,2-dihydroquinoline
+r0367	cis-5-Carboxymethyl-2-oxohex-3-ene-1,6-dioate	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase	cis-2-Oxohept-3-ene-1,7-dioate
+r1144	cis-9,10-Dihydroanthracene-9,10-diol	cis-9,10-dihydroanthracene-9,10-diol dehydrogenase	9,10-Anthraquinone
+r1344	cis-Aconitamide	cis-aconitamide amidase	cis-Aconitate
+r0839	cis-Chlorobenzene dihydrodiol	cis-chlorobenzene dihydrodiol dehydrogenase	Tetrachlorocatechol
+r0080	cis-Dihydrobenzenediol	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	Catechol
+r1166	cis-Geranyl-CoA	geranyl-CoA carboxylase	Isohexenyl-glutaconyl-CoA
+R08344	Citalopram	unspecific monooxygenase	Citalopram N-oxide
+R08343	Citalopram	unspecific monooxygenase	Demethylcitalopram
+R08346	Citalopram 	monoamine oxidase	Citalopram aldehyde
+R08349	Citalopram aldehyde 	aldehyde oxidase	Citalopram propionic acid 
+r1339	Citrazinate	citrazinate dehydrogenase	2,3,6-Trihydroxyisonicotinate
+r1342	Citrazinate	No enzyme supplied	Maleamate
+r1343	Citrazinate	citrazinate hydrolase	cis-Aconitamide
+r1345	Citrazinate	No enzyme supplied	Succinic semialdehyde
+r1156	Citronellal	citronellal dehydrogenase	Citronellate
+r1157	Citronellate	citronellyl-CoA ligase	Citronellyl-CoA
+r1155	Citronellol	citronellol dehydrogenase	Citronellal
+r1159	Citronellyl-CoA	citronellyl-CoA dehydrogenase	cis-Geranyl-CoA
+R08261	Codeine	glucuronosyltransferase	Codeine-6-glucuronid
+R08264	Codeine 	unspecific monooxygenase	Norcodeine 
+r0201	Coenzyme A	acetoacetyl-CoA thiolase	Acetyl-CoA
+r0595	Coenzyme A	epoxide dehydrogenase	Acetyl-CoA
+r0200	Crotonoyl-CoA	enoyl-CoA hydratase	(3S)-3-Hydroxybutyryl-CoA
+r0013	Crotonoyl-CoA	butyryl-CoA dehydrogenase	Butyryl-CoA
+r0668	Cyanamide	cyanamide hydratase	Urea
+r0608	Cyanate	cyanase	Carbon Dioxide
+r0116	Cyanuric acid	cyanuric acid amidohydrolase	Biuret
+r0507	Cyclohex-1,4-diene-1-carboxyl-CoA	No enzyme supplied	Cyclohex-1,5-diene-1-carboxyl-CoA
+r0203	Cyclohex-1,5-diene-1-carboxyl-CoA	dienoyl-CoA hydratase	6-Hydroxycyclohex-1-ene-1-carboxyl-CoA
+r0191	Cyclohex-1-ene-1-carboxyl-CoA	cyclohex-1-ene-1-carboxyl-CoA hydratase	2-Hydroxycyclohexane-1-carboxyl-CoA
+r0506	Cyclohex-2,5-diene-1-carboxyl-CoA	No enzyme supplied	Cyclohex-1,5-diene-1-carboxyl-CoA
+r1059	Cyclohexane	butane monooxygenase	Cyclohexanol
+R05620	Cyclohexane-1-carboxylate 	cyclohexanecarboxylate-CoA ligase	Cyclohexane-1-carboxyl-CoA
+R05619	Cyclohexane-1-carboxyl-CoA	benzylsuccinate synthase	Cyclohex-1-ene-1-carboxyl-CoA
+r0165	Cyclohexanol	cyclohexanol dehydrogenase	Cyclohexanone
+r0166	Cyclohexanone	cyclohexanone 1,2-monooxygenase	1-Oxa-2-oxocycloheptane
+R02229	Cyclohexanone 	aryl-alcohol dehydrogenase	Cyclohexanol 
+R02231	Cyclohexanone 	cyclohexanone monooxygenase	epsilon-Caprolactone 
+r0754	Cyclohexylamine	cyclohexylamine oxidase	Cyclohexanone
+r0755	Cyclohexylsulfamate	cyclamate sulfamatase	Cyclohexylamine
+R08276	Cyclophosphamide	unspecific monooxygenase	Chloroacetaldehyde
+R08276	Cyclophosphamide	unspecific monooxygenase	Dechloroethylcyclophosphamide 
+R08275	Cyclophosphamide 	unspecific monooxygenase	4-Hydroxycyclophosphamide
+r1056	Cyclopropanecarboxylate	cyclopropanecarboxylate-CoA ligase	Cyclopropanecarboxyl-CoA
+r1057	Cyclopropanecarboxyl-CoA	cyclopropanecarboxyl-CoA decyclase	Crotonoyl-CoA
+r0825	Cyromazine	N-cyclopropylmelamine deaminase	N-Cyclopropylammeline
+r0128	Deethylatrazine	deethylatrazine monooxygenase	Deisopropyldeethylatrazine
+r0119	Deisopropylatrazine	N-ethylammeline chlorohydrolase	Deisopropylhydroxyatrazine
+R05567	Deisopropylatrazine 	Deisopropylatrazine monooxygenase	Deisopropyldeethylatrazine
+r0129	Deisopropyldeethylatrazine	N-ethylammeline chlorohydrolase	2-Chloro-4-hydroxy-6-amino-1,3,5-triazine
+r0121	Deisopropylhydroxyatrazine	deisopropylhydroxyatrazine aminohydrolase	2,4-Dihydroxy-6-(N'-ethyl)amino-1,3,5-triazine
+R05574	Deisopropylhydroxyatrazine 	Hydrolases; Acting on carbon-nitrogen bonds, other than peptide bonds; In other compounds	N-Ethylammelide 
+r0431	delta2,5-3,4,4-Trimethylpimelyl-CoA	No enzyme supplied	Carbon Dioxide
+r0997	delta-3,4,5,6-Tetrachlorocyclohexene	No enzyme supplied	Chlorobenzene
+R05534	delta-3,4,5,6-Tetrachlorocyclohexene	No Kegg enzyme supplied	5,6-Dichloro-1,3-cyclohexadiene
+r0996	delta-3,4,5,6-Tetrachlorocyclohexene	No enzyme supplied	Benzene
+R08345	Demethylcitalopram	unspecific monooxygenase	Didemethylcitalopram
+R08347	Demethylcitalopram 	monoamine oxidase	Citalopram aldehyde 
+r0026	Dibenzofuran	dibenzofuran 4,4a-dioxygenase	2,2',3-Trihydroxybiphenyl
+r0571	Dibenzo-p-dioxin	dibenzofuran 4,4a-dioxygenase	2,2',3-Trihydroxydiphenylether
+r0160	Dibenzothiophene	dibenzothiophene dioxygenase	cis-1,2-Dihydroxy-1,2-dihydrodibenzothiophene
+r0037	Dibenzothiophene	DBT monooxygenase	Dibenzothiophene-5-oxide
+r0235	Dibenzothiophene-5,5-dioxide	dibenzothiophene-5,5-dioxide monooxygenase	2'-Hydroxybiphenyl-2-sulfinate
+r0038	Dibenzothiophene-5-oxide	DBT monooxygenase	Dibenzothiophene-5,5-dioxide
+R06878	Dibromobisphenol A	3,3'-dibromobisphenol A reductive dehalogenas	Monobromobisphenol A
+r0645	Dibutyltin (DBT)	DBT dioxygenase	beta-Hydroxybutylbutyltin
+r0383	Dichloroacetate	dichloroacetate halidohydrolase	Glyoxylate
+R07103	Dichloroacetyl chloride	No Kegg enzyme supplied	Dichloroacetate
+r0188	Dichloromethane	dichloromethane dehalogenase	Formaldehyde
+r0672	Dichloromethane	Enzyme record not found	Methyl chloride
+R08348	Didemethylcitalopram 	monoamine oxidase	Citalopram aldehyde 
+r0899	Didemethylisoproturon	didemethylisoproturon dehydrogenase	4'-(2-Hydroxyisopropyl)phenylurea
+r0898	Didemethylisoproturon	didemethylisoproturon amidohydrolase	4-Isopropylaniline
+r0898	Didemethylisoproturon	didemethylisoproturon amidohydrolase	Carbamate
+r0660	Diethanolamine	triethanolamine lyase	Acetaldehyde
+r0660	Diethanolamine	triethanolamine lyase	Ethanolamine
+r1661	Diethyl dithiophosphate	diethyl dithiophosphate oxidoreductase	Diethylthiophosphoric acid
+r1589	Diethylamine	trimethylamine dehydrogenase	Acetaldehyde
+r1589	Diethylamine	trimethylamine dehydrogenase	Ethyl amine
+r1668	Diethylthiophosphoric acid	diethylthiophosphate phosphodiesterase	Ethylthiophosphate
+r0065	Diethylthiophosphoric acid	diethylthiophosphoric acid oxidoreductase	Diethylphosphoric acid
+r1668	Diethylthiophosphoric acid	diethylthiophosphate phosphodiesterase	Ethanol
+r0880	Difluoroacetate	Enzyme record not found	Fluoroacetate
+r1534	Diglycolate	diglycolate dehydrogenase	Glycolate
+r1534	Diglycolate	diglycolate dehydrogenase	Glyoxylate
+R03692	Dihydrocoumarin 	dihydrocoumarin hydrolase	3-(2-Hydroxyphenyl)propanoate
+r0008	Dihydrophloroglucinol	dihydrophloroglucinol hydrolase	3-Hydroxy-5-oxohexanoate
+r0082	Dimethyl ether	ammonia monooxygenase	Formaldehyde
+r0082	Dimethyl ether	ammonia monooxygenase	Methanol
+r1484	Dimethyl isophthalate	dimethyl isophthalate esterase	Monomethyl isophthalate
+r0208	Dimethyl Sulfide	dimethyl sulfide monooxygenase	Formaldehyde
+r0208	Dimethyl Sulfide	dimethyl sulfide monooxygenase	Methanethiol
+r0207	Dimethyl Sulfoxide	dimethyl sulfoxide reductase	Dimethyl Sulfide
+r1380	Dimethylamine	dimethylamine dehydrogenase	Formaldehyde
+r1380	Dimethylamine	dimethylamine dehydrogenase	Methylamine
+r0838	Dimethylarsinate	dimethylarsinate reductase	Dimethylarsinous acid
+r0806	Dimethylarsinous acid	dimethylarsinite methyltransferase	Trimethylarsine oxide
+r1031	Dimethylmalonate	dimethylmalonate decarboxylase	Isobutyrate
+r0759	Dimethylphosphinate	C-P lyase	Methylphosphonate
+r0637	Dimethylsilanediol	DMSD hydroxylase	Hydroxymethylmethylsilanediol
+r1595	Dioxanone	No enzyme supplied	2-Hydroxyethoxyacetate
+r1453	Diphenyl ether	diphenyl ether 1,2-dioxygenase	Phenol
+r1450	Diphenyl ether	diphenyl ether 2,3-dioxygenase	2,3-Dihydroxydiphenyl ether
+r1453	Diphenyl ether	diphenyl ether 1,2-dioxygenase	Catechol
+r0605	Dodecanal	aldehyde dehydrogenase (NAD+)	Lauric acid
+r0602	Dodecyl sulfate	alkyl sulfatase	1-Dodecanol
+r1385	Endosulfan	No enzyme supplied	Endosulfan diol
+r1382	Endosulfan	endosulfan monooxygenase I	Endosulfan sulfate
+r1390	Endosulfan	endosulfan monooxygenase II	Endosulfan hydroxyether
+r1424	Endosulfan	endosulfan sulfate monooxygenase	Endosulfan monoalcohol
+r1391	Endosulfan	endosulfan monooxygenase II	Endosulfan monoaldehyde
+r1388	Endosulfan diol	endosulfan diol dehydrogenase	Endosulfan hydroxyether
+r1386	Endosulfan diol	endosulfan diol hydrolyase (cyclizing)	Endosulfan ether
+r1413	Endosulfan ether	endosulfan ether monooxygenase	Endosulfan hydroxyether
+r1384	Endosulfan hemisulfate	endosulfan hemisulfate sulfatase	Endosulfan monoalcohol
+r1411	Endosulfan hydroxyether	endosulfan hydroxyether dehydrogenase	Endosulfan lactone
+r1389	Endosulfan lactone	endosulfan lactone lactonase	Endosulfan hydroxycarboxylate
+r1383	Endosulfan sulfate	endosulfan sulfate monooxygenase	Endosulfan hemisulfate
+r1387	Endosulfan sulfate	endosulfan sulfate hydrolase	Endosulfan diol
+r0331	E-Phenylitaconyl-CoA	E-phenylitaconyl-CoA hydratase	(Hydroxymethylphenyl)succinyl-CoA
+r0448	epsilon-Caprolactam	epsilon-caprolactam lactamase	6-Aminohexanoate
+R05356	epsilon-Caprolactam 	Hydrolases; Acting on carbon-nitrogen bonds, other than peptide bonds; In cyclic amides	6-Aminohexanoate
+R03751	epsilon-Caprolactone 	gluconolactonase	6-Hydroxyhexanoic acid
+r0172	Ethanol	NADP-dependent alcohol dehydrogenase	Acetaldehyde
+r0170	Ethyl acetate	acetylesterase	Acetate
+r0170	Ethyl acetate	acetylesterase	Ethanol
+r1590	Ethyl amine	methylamine dehydrogenase	Acetaldehyde
+r0234	Ethylbenzene	ethylbenzene dehydrogenase	(S)-1-Phenylethanol
+r0248	Ethylbenzene	ethylbenzene dioxygenase	cis-2,3-Dihydroxy-2,3-dihydroethylbenzene
+R05424	Ethylbenzene	naphthalene 1,2-dioxygenase	Styrene
+R05440	Ethylbenzene 	ethylbenzene dioxygenase	cis-1,2-Dihydro-3-ethylcatechol
+R05425	Ethylbenzene 	naphthalene 1,2-dioxygenase	(S)-1-Phenylethanol 
+r0593	Ethylene	alkene monooxygenase	Ethylene Oxide
+r0594	Ethylene Oxide	epoxide hydrolase	Ethylene Glycol
+r0595	Ethylene Oxide	epoxide dehydrogenase	Acetyl-CoA
+r1662	Ethylphosphate	ethylphosphate phosphomonoesterase	Ethanol
+r1662	Ethylphosphate	ethylphosphate phosphomonoesterase	Phosphate
+r1669	Ethylthiophosphate	ethylthiophosphate oxidoreductase	Ethylphosphate
+R08305	Felbamate 	No Kegg enzyme supplied	2-Phenyl-1,3-propanediol monocarbamate 
+R08303	Felbamate 	unspecific monooxygenase	p-Hydroxyfelbamate 
+R08304	Felbamate 	unspecific monooxygenase	2-Hydroxyfelbamate 
+R05349	Fluoren-9-ol 	fluoren-9-ol dehydrogenase	Fluoren-9-one 
+R07799	Fluoren-9-one 	9-fluorenone-3,4-dioxygenase	1-Hydro-1,1a-dihydroxy-9-fluorenone
+R05435	Fluoren-9-one 	9-fluorenone dioxygenase	3,4-Dihydroxy-3,4-dihydro-9-fluorenone
+r0407	Fluorene	naphthalene 1,2-dioxygenase	(+)-(3S,4R)-cis-3,4-Dihydroxy-3,4-dihydrofluorene
+r0421	Fluorene	No enzyme supplied	1,2-Dihydroxyfluorene
+r0407	Fluorene	fluorene oxygenase	9-Fluorenol
+r0412	Fluorene	No enzyme supplied	3,4-Dihydroxyfluorene
+R05422	Fluorene 	naphthalene 1,2-dioxygenase	Fluoren-9-ol 
+r0881	Fluoroacetate	haloacetate dehalogenase	Acetate
+r1028	Fluoroacetate	haloacetate dehalogenase	Glycolate
+R08103	Fluorobenzene 	fluorobenzene dioxygenase	1-Fluorocyclohexadiene-cis,cis-1,2-diol
+R08104	Fluorobenzene 	fluorobenzene dioxygenase	4-Fluorocyclohexadiene-cis,cis-1,2-diol
+r0240	Formaldehyde	glutathione-independent formaldehyde dehydrogenase	Formate
+r1145	Formaldehyde	S-(hydroxymethyl)glutathione synthase	S-Hydroxymethylglutathione
+R03697	Formaldehyde 	unspecific monooxygenase	Codeine 
+r0873	Formamide	formamide hydrolase	Formate
+r0103	Formate	formate dehydrogenase	Carbon Dioxide
+r1454	Formylaminopyrimidine	formylaminopyrimidine amidohydrolase	Aminopyrimidine
+r0346	Formylmethanofuran	formylmethanofuran--tetrahydromethanopterin N-formyltransferase	N5-Formyl-5,6,7,8-tetrahydromethanopterin
+r0639	Formylmethylsilanediol	No enzyme supplied	Formaldehyde
+r0639	Formylmethylsilanediol	No enzyme supplied	Methylsilanetriol
+r0642	Formylsilanetriol	No enzyme supplied	Formaldehyde
+r0642	Formylsilanetriol	No enzyme supplied	Silicic acid
+r0328	Fumarate	benzylsuccinate synthase	Benzylsuccinate
+r0920	Fumarate	(1-methylpentyl)succinate synthase	(1-Methylpentyl)succinate
+r1267	Fumarate	benzylsuccinate synthase	Naphthyl-2-methyl-succinate
+R01364	Fumarate 	fumarylacetoacetase	4-Fumarylacetoacetate 
+r0107	Fumarylacetoacetate	fumarylacetoacetase	Acetoacetate
+r0107	Fumarylacetoacetate	fumarylacetoacetase	Fumarate
+r0811	Fumarylpyruvate	fumarylpyruvate hydrolase	Fumarate
+r0811	Fumarylpyruvate	fumarylpyruvate hydrolase	Pyruvate
+r1354	Furfural	aldehyde oxidase	2-Furoate
+r1432	Furfural	furfural reductase	Furfuryl alcohol
+r1433	Furfuryl alcohol	furfuryl alcohol dehydrogenase	Furfural
+r0005	Gallate	gallate decarboxylase	1,2,3-Trihydroxybenzene 
+R03247	Gallate	gallate decarboxylase	Pyrogallol
+r1673	Gallate	gallate dioxygenase	4-Oxalomesaconate
+R03549	Gallate 	protocatechuate 3,4-dioxygenase	2-Pyrone-4,6-dicarboxylate 
+R03550	Gallate 	protocatechuate 4,5-dioxygenase	4-Carboxy-2-hydroxyhexa-2,4-dienedioate
+r0549	gamma-Hexachlorocyclohexane	gamma-hexachlorocyclohexane dehydrochlorinase	1,3(R),4(S),5(S),6(R)-Pentachlorocyclohexene
+R02602	gamma-Oxalocrotonate	4-oxalocrotonate decarboxylase	2-Hydroxy-2,4-pentadienoate 
+R04223	gamma-Oxalocrotonate 	mandelate racemase	4-Hydroxy-2-oxopentanoate 
+R05387	gamma-Pentachlorocyclohexene	Lyases; Carbon-halide lyases	1,3,4,6-Tetrachloro-1,4-cyclohexadiene
+r1164	Geranial	geranial dehydrogenase	Geranylate
+r1163	Geraniol	geraniol dehydrogenase	Geranial
+r1165	Geranylate	geranylate CoA-transferase	trans-Geranyl-CoA
+r0199	Glutaconyl-CoA	glutaconyl-CoA decarboxylase	Crotonoyl-CoA
+r0198	Glutaryl-CoA	glutaryl-CoA dehydrogenase	Glutaconyl-CoA
+R07119	Glutathione episulfonium ion	No Kegg enzyme supplied	S-[2-(N7-Guanyl)ethyl]-N-acetyl-L-cysteine
+R07117	Glutathione episulfonium ion 	No Kegg enzyme supplied	S-(2-Hydroxyethyl)glutathione
+r0832	Glutathionyl selenide anion	No enzyme supplied	Hydrogen Selenide
+R08299	Glycinexylidide	No Kegg enzyme supplied	2,6-Dimethylaniline
+r0073	Glyphosate	glyphosate dehydrogenase	Aminomethylphosphonic acid (AMPA)
+r0073	Glyphosate	glyphosate dehydrogenase	Glyoxylate
+r0072	Glyphosate	C-P lyase	Sarcosine
+r1404	Hexadecanal	long-chain-aldehyde dehydrogenase	Hexadecanoate
+r1374	Hexadecanal	hexadecanal dehydrogenase	Hexadecanoyl-CoA
+r1408	Hexadecanoate	acyl-CoA synthetase	Hexadecanoyl-CoA
+r1373	Hexadecyltrimethylammonium chloride	hexadecyltrimethylammonium chloride monooxygenase	Hexadecanal
+r1373	Hexadecyltrimethylammonium chloride	hexadecyltrimethylammonium chloride monooxygenase	Trimethylamine
+r0834	Hexahydro-1,3,5-trinitro-1,3,5-triazine	Type I nitroreductase	Hexahydro-1-nitroso-3,5-dinitro-1,3,5-triazine
+r0870	Hexahydro-1,3,5-trinitro-1,3,5-triazine	unspecific monooxygenase	1,3-Dinitro-1,2,3,4-tetrahydro-1,3,5-triazine
+r0868	Hexahydro-1,3,5-trinitro-1,3,5-triazine	No enzyme supplied	bis(Hydroxymethyl)nitramine
+r0868	Hexahydro-1,3,5-trinitro-1,3,5-triazine	No enzyme supplied	Methylenedinitramine
+r0878	Hexahydro-1,3,5-trinitroso-1,3,5-triazine	No enzyme supplied	Nitrous Oxide
+r0836	Hexahydro-1,3-dinitroso-5-nitro-1,3,5-triazine	Type I nitroreductase	Hexahydro-1,3,5-trinitroso-1,3,5-triazine
+r0835	Hexahydro-1-nitroso-3,5-dinitro-1,3,5-triazine	Type I nitroreductase	Hexahydro-1,3-dinitroso-5-nitro-1,3,5-triazine
+r0105	Homogentisate	homogentisate 1,2-dioxygenase	4-Maleylacetoacetate
+r1064	Hydrogen (2R,3S)-3-methyloxiran-2-ylphosphonic acid	epoxide hydrolase	Hydrogen (1R,2R)-1,2-dihydroxypropylphosphonic acid
+r1073	Hydrogen (2R,3S)-3-methyloxiran-2-ylphosphonic acid	glutathione transferase	Hydrogen (1R,2R)-1-glutathio-2-hydroxypropylphosphonic acid
+r1074	Hydrogen (2R,3S)-3-methyloxiran-2-ylphosphonic acid	cysteine transferase	Hydrogen (1R,2R)-1- L-cysteine-2-hydroxypropylphosphonic acid
+r0833	Hydrogen Selenide	selenophosphate synthetase	Selenophosphate
+r0210	Hydrogen Sulfide	thiol S-methyltransferase	Methanethiol
+r0753	Hydroquinone	phenol 2-monooxygenase	1,2,4-Benzenetriol
+r0228	Hydroquinone	hydroquinone 1,2-dioxygenase	cis,cis-4-Hydroxymuconic semialdehyde
+r0114	Hydroxyatrazine	hydroxydechloroatrazine ethylaminohydrolase	Ethyl amine
+r0114	Hydroxyatrazine	hydroxydechloroatrazine ethylaminohydrolase	N-Isopropylammelide
+r0304	Hydroxylaminobenzene	hydroxylaminobenzene mutase	2-Aminophenol
+r1123	Hydroxymethoxybenzo(a)pyrene	11,12-dihydroxybenzo(a)pyrene methyltransferase	Dimethoxybenzo(a)pyrene
+r0638	Hydroxymethylmethylsilanediol	hydroxymethylmethylsilanediol oxidase	Formylmethylsilanediol
+r1036	Hydroxymethylnitramine	No enzyme supplied	Formaldehyde
+r1036	Hydroxymethylnitramine	No enzyme supplied	Nitramine
+r0641	Hydroxymethylsilanetriol	hydroxymethylsilanetriol oxidase	Formylsilanetriol
+r0894	Hydroxymonodemethylisoproturon	hydroxymonomethylisoproturon dimethylaminedehydrogenase	4'-(2-Hydroxyisopropyl)phenylurea
+r0894	Hydroxymonodemethylisoproturon	hydroxymonomethylisoproturon dimethylaminedehydrogenase	Formaldehyde
+R08269	Hydroxytamoxifen	unspecific monooxygenase	4-Hydroxy-N-desmethyltamoxifen
+r1058	Hypophosphite	hypophosphite dioxygenase	Phosphite
+R08287	Ifosfamide	unspecific monooxygenase	2-Dechloroethylifosfamide
+R08287	Ifosfamide	unspecific monooxygenase	Chloroacetaldehyde
+R08286	Ifosfamide	unspecific monooxygenase	Dechloroethylcyclophosphamide
+R08285	Ifosfamide 	unspecific monooxygenase	4-Hydroxyifosfamide 
+r0589	Iminodiacetate	iminodiacetate dehydrogenase	Glycine
+r0589	Iminodiacetate	iminodiacetate dehydrogenase	Glyoxylate
+R05431	Indanone 	1-indanone dioxygenase	3-Hydroxy-1-indanone
+R05540	Indanone 	No Kegg enzyme supplied	2-Formyl-1-indanone 
+R05430	Indanone 	1-indanone monooxygenase	Dihydrocoumarin 
+r0706	Iprodione	iprodione amidohydrolase	3,5-Dichlorophenylcarboximide
+r0706	Iprodione	iprodione amidohydrolase	N-Isopropylcarbamate
+R08256	Irinotecan	unspecific monooxygenase	APC
+R08257	Irinotecan	unspecific monooxygenase	NPC
+R08255	Irinotecan 	carboxylesterase	SN-38
+r1053	Isobutylamine	isobutylamine N-hydroxylase	Isobutylhydroxylamine
+r1054	Isobutylhydroxylamine	No enzyme supplied	Valanimycin
+r1167	Isohexenyl-glutaconyl-CoA	isohexenyl-glutaconyl-CoA hydratase	3-Hydroxy-3-isohexeneylglutaryl-CoA
+R08248	Isoniazid	arylamine N-acetyltransferase	N-Acetylisoniazid
+r1335	Isoniazid	catalase-peroxidase	Pyridine-4-carboxaldehyde
+R08254	Isoniazid	No Kegg enzyme supplied	Isoniazid alpha-ketoglutaric acid 
+R08253	Isoniazid	No Kegg enzyme supplied	Isoniazid pyruvate 
+r1334	Isoniazid	catalase-peroxidase	Isonicotinamide
+r1336	Isoniazid	isonicotinic acid hydrazide hydrolase	Isonicotinate
+R08251	Isoniazid 	No Kegg enzyme supplied	Hydrazine
+R08251	Isoniazid 	No Kegg enzyme supplied	Isonicotinic acid
+R08251	Isoniazid 	arylamine N-acetyltransferase	N-Acetylisoniazid
+r1346	Isonicotinamide	amidase	Isonicotinate
+r1337	Isonicotinate	isonicotinate dehydrogenase	2-Hydroxyisonicotinate
+R08252	Isonicotinic acid	No Kegg enzyme supplied	Isonicotinylglycine
+r1269	Isooctane	isooctane monooxygenase	2,4,4-Trimethyl-1-pentanol
+r1486	Isophthalate	isophthalate 3,4-dioxygenase	4-Hydro-3,4-dihydroxyisophthalate
+r0740	Isopiperitenol	isopiperitenol dehydrogenase	Isopiperitenone
+r0726	Isopropylamine	methylamine dehydrogenase	Acetaldehyde
+r0726	Isopropylamine	methylamine dehydrogenase	Methane
+r0892	Isoproturon	isoproturon dimethylaminedehydrogenase	Formaldehyde
+r0892	Isoproturon	isoproturon dimethylaminedehydrogenase	Monodemethylisoproturon
+r1526	Isopyridoxal	isopyridoxal dehydrogenase	5-Pyridoxolactone
+R05508	Lactoyl-CoA	propionate CoA-transferase	(S)-Lactate 
+r0087	Lactoyl-CoA	propionate CoA-transferase	L-Lactate
+R02963	Lactoyl-CoA	lactoyl-CoA dehydratase	Propenoyl-CoA
+R08342	L-alpha-Acetyl-N-normethadol	unspecific monooxygenase	L-alpha-Acetyl-N,N-dinormethadol
+r0604	Lauric acid	acyl-CoA synthetase	Lauroyl-CoA
+R08341	Levomethadyl acetate	unspecific monooxygenase	L-alpha-Acetyl-N-normethadol
+R08293	Lidocaine	unspecific monooxygenase	Monoethylglycinexylidide
+R08294	Lidocaine 	unspecific monooxygenase	3-Hydroxylidocaine 
+R08300	Lidocaine 	carboxylesterase	2,6-Dimethylaniline
+r0713	Limonene	limonene 6-monooxygenase	Carveol
+r0739	Limonene	limonene 3-monooxygenase	Isopiperitenol
+r0916	Limonene	limonene 8-hydratase	alpha-Terpineol
+r0728	Limonene	limonene 7-monooxygenase	Perillyl alcohol
+R05386	Lindane	Lyases; Carbon-halide lyases	gamma-Pentachlorocyclohexene
+r1054	L-Serine	No enzyme supplied	Valanimycin
+r0433	L-Threonine	threonine dehydratase	2-Oxobutanoate
+r0297	L-Tyrosine	aromatic aminotransferase	4-Hydroxyphenylpyruvate
+r1052	L-Valine	valine decarboxylase	Isobutylamine
+r0099	Maleylacetate	maleylacetate reductase	3-Oxoadipate
+r0266	Malonate semialdehyde	malonate semialdehyde decarboxylase	Acetaldehyde
+R06968	Melamine 	No Kegg enzyme supplied	Ammeline 
+r1186	Mentha-1,3-dione	mentha-1,3-dione-CoA ligase	3,7-Dimethyl-5-oxo-octyl-CoA
+r0071	Mercury (II)	organomercurial lyase	Methylmercury chloride
+r0406	Mercury (II)	mercuric reductase	Mercury
+r1509	Metamitron	metamitron amidohydrolase	2-(Acetylhydrazinylidene)-2-phenylacetate
+r1511	Metamitron	metamitron 2,3-dioxygenase	1,2-Dihydrodihydroxymetamitron
+r1536	Methacrylate	methacrylate reductase	Isobutyrate
+R08339	Methadone	unspecific monooxygenase	2-Ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine
+r0237	Methane	soluble methane monooxygenase	Methanol
+r0343	Methanesulfonic acid	methanesulfonic acid monooxygenase	Formaldehyde
+r0343	Methanesulfonic acid	methanesulfonic acid monooxygenase	Sulfurous acid
+r0211	Methanethiol	thiol S-methyltransferase	Dimethyl Sulfide
+r0209	Methanethiol	methyl mercaptan oxidase	Formaldehyde
+r0209	Methanethiol	methyl mercaptan oxidase	Hydrogen Sulfide
+r0238	Methanol	quinoprotein alcohol dehydrogenase	Formaldehyde
+r0432	Methionine	methionine gamma lyase	2-Oxobutanoate
+r0432	Methionine	methionine gamma lyase	Methanethiol
+r0673	Methyl chloride	Enzyme record not found	Methane
+r0169	Methyl ethyl ketone	2-butanone oxidase	Ethyl acetate
+r0344	Methyl fluoride	ammonia monooxygenase	Formaldehyde
+r1352	Methyl tert-butyl ether	alkane 1-monooxygenase	tert-Butyl formate
+r1023	Methyl tert-butyl ether	unspecific monooxygenase	tert-Butyl alcohol
+r0075	Methylamine	methylamine dehydrogenase	Formaldehyde
+r0837	Methylarsonate	methylarsonate reductase	Methylarsonous acid
+r0805	Methylarsonous acid	arsenite methyltransferase	Dimethylarsinate
+r0356	Methyl-coenzyme M	methyl-coenzyme-M reductase	Methane
+r0869	Methylenedinitramine	No enzyme supplied	Hydroxymethylnitramine
+r0760	Methylphosphonate	C-P lyase	Phosphate
+r0640	Methylsilanetriol	methylsilanetriol hydroxylase	Hydroxymethylsilanetriol
+r0215	m-Methylbenzoate	toluate dioxygenase	1,2-Dihydroxy-3-methylcyclohexa-3,5-dienecarboxylate
+R06879	Monobromobisphenol A	3-monobromobisphenol A reductive dehalogenase	Bisphenol A
+r0897	Monodemethylisoproturon	monodemethylisoproturon dimethylaminedehydrogenase	Didemethylisoproturon
+r0897	Monodemethylisoproturon	monodemethylisoproturon dimethylaminedehydrogenase	Formaldehyde
+r0893	Monodemethylisoproturon	monodemethylisoproturon dehydrogenase	Hydroxymonodemethylisoproturon
+R08296	Monoethylglycinexylidide	No Kegg enzyme supplied	3-Hydroxymonoethylglycinexylidide
+R08298	Monoethylglycinexylidide	No Kegg enzyme supplied	Glycinexylidide
+R08295	Monoethylglycinexylidide 	carboxylesterase	2,6-Dimethylaniline 
+R08295	Monoethylglycinexylidide 	carboxylesterase	N-Ethylglycine
+r1485	Monomethyl isophthalate	monomethyl isophthalate esterase	Isophthalate
+r0808	Mordant Yellow 3	azoreductase	5-Aminosalicylate
+r0808	Mordant Yellow 3	azoreductase	6-Amino-2-naphthalenesulfonic acid
+R08262	Morphine	glucuronosyltransferase	Morphine-3-glucuronide
+R08265	Morphine	unspecific monooxygenase	Normorphine 
+R08263	Morphine 	glucuronosyltransferase	Morphine-6-glucuronide
+r1530	Morpholine	unspecific monooxygenase	2-Hydroxymorpholine
+r0212	m-Xylene	xylene monooxygenase	3-Methylbenzyl alcohol
+r0711	Myrtenal	myrtenal dehydrogenase	Myrtenate
+r0710	Myrtenol	myrtenol dehydrogenase	Myrtenal
+r1695	N-(2,6-Diethylphenyl)-2-hydroxyacetamide	N-(2,6-diethylphenyl)-2-hydroxyacetamide hydrolase	2,6-Diethylaniline
+r1695	N-(2,6-Diethylphenyl)-2-hydroxyacetamide	N-(2,6-diethylphenyl)-2-hydroxyacetamide hydrolase	Glycolate
+r1703	N-(2,6-Diethylphenyl)-methyleneamine	N-(2,6-diethylphenyl)-methyleneamine dehydrogenase	2-Ethenyl-6-ethyl-N-methylideneaniline
+r1566	N,N-Diethyl-m-toluamide	deet hydrolase	Diethylamine
+r1566	N,N-Diethyl-m-toluamide	deet hydrolase	m-Methylbenzoate
+r0348	N5,N10-Methenyltetrahydromethanopterin	F420-dependent methylenetetrahydromethanopterin dehydrogenase	N5,N10-Methylenetetrahydromethanopterin
+r0354	N5,N10-Methylenetetrahydromethanopterin	methylenetetrahydromethanopterin reductase	5-Methyl-5,6,7,8-tetrahydromethanopterin
+r0347	N5-Formyl-5,6,7,8-tetrahydromethanopterin	methenyltetrahydromethanopterin cyclohydrolase	N5,N10-Methenyltetrahydromethanopterin
+r1627	N-acetylaminonitrofen	N-acetylaminonitrofen 1,2-dioxygenase	2,4-Dichlorophenol
+r1627	N-acetylaminonitrofen	N-acetylaminonitrofen 1,2-dioxygenase	p-Acetamidophenol
+r1474	N-Acetylanthranilate	N-acetylanthranilate amidase	2-Aminobenzoate
+R08249	N-Acetylisoniazid 	hepatic amidase	Acetylhydrazine
+R08249	N-Acetylisoniazid 	hepatic amidase	Isonicotinic acid
+r1616	Naphthalene	naphthalene 2,3-dioxygenase	2,3-Dihydroxynaphthalene
+r0334	Naphthalene	naphthalene 1,2-dioxygenase	cis-1,2-Dihydroxy-1,2-dihydronaphthalene
+R07000	Naphthalene 	unspecific monooxygenase	(1R,2S)-Naphthalene 1,2-oxide
+R07001	Naphthalene 	unspecific monooxygenase	(1S,2R)-Naphthalene 1,2-oxide
+R02968	Naphthalene 	naphthalene 1,2-dioxygenase	cis-1,2-Dihydronaphthalene-1,2-diol
+R07017	Naphthalene-1,2-diol	No Kegg enzyme supplied	1,2-Naphthoquinone
+R04117	Naphthalene-1,2-diol 	Oxidoreductases; Acting on single donors with incorporation of molecular oxygen (oxygenases); With incorporation of two atoms of oxygen	2-Hydroxychromene-2-carboxylate
+r0323	Naphthalene-1,6-disulfonate	naphthalene disulfonate 1,2-dioxygenase	1,2-Dihydroxynaphthalene-6-sulfonate
+r0320	Naphthalene-1-sulfonate	naphthalene disulfonate 1,2-dioxygenase	1,2-Dihydroxynaphthalene
+r0322	Naphthalene-2,6-disulfonate	naphthalene disulfonate 1,2-dioxygenase	1,2-Dihydroxynaphthalene-6-sulfonate
+r0318	Naphthalene-2-sulfonate	naphthalene disulfonate 1,2-dioxygenase	1,2-Dihydroxynaphthalene
+r1260	Naphthyl-2-hydroxymethyl-succinyl-CoA	naphthyl-2-hydroxymethyl-succinyl-CoA dehydrogenase	Naphthyl-2-oxomethyl-succinyl-CoA
+R06906	Naphthyl-2-methylene-succinyl-CoA	naphthyl-2-methylene-succinyl-CoA lyase	Naphthyl-2-hydroxymethyl-succinyl-CoA
+r1256	Naphthyl-2-methyl-succinate	naphthyl-2-methyl-succinate CoA-transferase	Naphthyl-2-methyl-succinyl-CoA
+R06904	Naphthyl-2-methyl-succinic acid 	succinyl-CoA:naphthyl-2-methyl-succinyl-CoA transferase	Naphthyl-2-methyl-succinyl-CoA
+r1258	Naphthyl-2-methyl-succinyl-CoA	naphthyl-2-methyl-succinyl-CoA dehydrogenase	Naphthyl-2-methylene-succinyl-CoA
+R06908	Naphthyl-2-oxomethyl-succinyl-CoA	naphthyl-2-oxomethyl-succinyl-CoA succinyl transferase	Succinyl-CoA
+r1261	Naphthyl-2-oxomethyl-succinyl-CoA	naphthyl-2-oxomethyl-succinyl-CoA succinyl transferase	2-Naphthoyl-CoA
+r1030	N-Cyclohexylformamide	N-cyclohexylformamide amidohydrolase	Formate
+R05771	N-Cyclohexylformamide	cyclohexyl-isocyanide hydratase	Cyclohexyl isocyanide 
+r1030	N-Cyclohexylformamide	N-cyclohexylformamide amidohydrolase	Cyclohexylamine
+r1029	N-Cyclohexylisocyanide	isonitrile hydratase	N-Cyclohexylformamide
+r0827	N-Cyclopropylammelide	N-cyclopropylammelide alkylamino hydrolase	Cyanuric acid
+r0827	N-Cyclopropylammelide	N-cyclopropylammelide alkylamino hydrolase	Cyclopropylamine
+r0826	N-Cyclopropylammeline	N-cyclopropylammeline deaminase	N-Cyclopropylammelide
+R08272	N-Desmethyltamoxifen	unspecific monooxygenase	N,N-Didesmethyltamoxifen
+R08270	N-Desmethyltamoxifen 	unspecific monooxygenase	4-Hydroxy-N-desmethyltamoxifen
+R08274	N-Desmethyltamoxifen 	unspecific monooxygenase	alpha-Hydroxy-N-desmethyltamoxifen
+R05573	N-Ethylammelide 	Hydrolases; Acting on carbon-nitrogen bonds, other than peptide bonds; In other compounds	Cyanuric acid
+r0920	n-Hexane	(1-methylpentyl)succinate synthase	(1-Methylpentyl)succinate
+R07030	N-Hydroxy-1-aminonaphthalene	No Kegg enzyme supplied	1-Naphthylamine
+r0914	N-Isopropylacetanilide	N-isopropylacetaniline monooxygenase	Acetanilide
+r0913	N-Isopropylacetanilide	N-isopropylacetanilide amidohydrolase	Acetate
+r0914	N-Isopropylacetanilide	N-isopropylacetaniline monooxygenase	Acetone
+r0913	N-Isopropylacetanilide	N-isopropylacetanilide amidohydrolase	N-Isopropylaniline
+r0115	N-Isopropylammelide	N-isopropylammelide isopropylaminohydrolase	Cyanuric acid
+r0721	N-Isopropylaniline	N-isopropylaniline 1,2-dixoxygenase	Catechol
+r1037	Nitramine	No enzyme supplied	Nitrous Oxide
+r0587	Nitrilotriacetate	nitrilotriacetate monooxygenase	Glyoxylate
+r0587	Nitrilotriacetate	nitrilotriacetate monooxygenase	Iminodiacetate
+r0302	Nitrobenzene	nitrobenzene nitroreductase	Nitrosobenzene
+r0306	Nitrobenzene	nitrobenzene dioxygenase	Catechol
+r1630	Nitrofen	nitrofen 1,2-dioxygenase	p-Nitrophenol
+r1630	Nitrofen	nitrofen 1,2-dioxygenase	2,4-Dichlorophenol
+r1625	Nitrofen	nitrofen nitroreductase	Aminonitrofen
+r0039	Nitroglycerin (NG)	xenobiotic reductase	1,2-Dinitroglycerol
+r0040	Nitroglycerin (NG)	xenobiotic reductase	1,3-Dinitroglycerol
+r0303	Nitrosobenzene	nitrobenzene nitroreductase	Hydroxylaminobenzene
+r1570	N-Methylmorpholine	trimethylamine dehydrogenase	Formaldehyde
+r1570	N-Methylmorpholine	trimethylamine dehydrogenase	Morpholine
+r1569	N-Methylmorpholine-N-oxide	trimethylamine-N-oxide reductase	N-Methylmorpholine
+r1565	N-Methyltaurine	N-methyltaurine dehydrogenase	Methylamine
+r1565	N-Methyltaurine	N-methyltaurine dehydrogenase	Sulfoacetaldehyde
+r1395	N-Nitrodimethylamine	N-nitrodimethylamine hydroxylase	Formaldehyde
+r1395	N-Nitrodimethylamine	N-nitrodimethylamine hydroxylase	N-Nitromethylamine
+r1363	N-Nitrosodimethylamine	toluene 4-monooxygenase	N-Nitrodimethylamine
+r0021	n-Octane	alkane 1-monooxygenase	1-Octanol
+r1564	N-Oleoyl-N-methyltaurine	N-oleoyl-N-methyltaurine amidase	N-Methyltaurine
+r1564	N-Oleoyl-N-methyltaurine	N-oleoyl-N-methyltaurine amidase	Oleate
+R08258	NPC 	carboxylesterase	SN-38
+R03608	o-Cresol 	phenol 2-monooxygenase	2,3-Dihydroxytoluene 
+r0636	Octamethylcyclotetrasiloxane	No enzyme supplied	Dimethylsilanediol
+r0684	Octane hydroperoxide	alkyl hydroperoxide reductase	1-Octanol
+r0024	Octanoate	acyl-CoA synthetase	Octanoyl-CoA
+r1617	o-Dihydroxethoxyacetate	No enzyme supplied	Ethylene Glycol
+r1617	o-Dihydroxethoxyacetate	No enzyme supplied	Glyoxylate
+r1026	o-Hydroxylaminobenzoate	o-hydroxylaminobenzoate mutase	3-Hydroxyanthranilate
+r0850	o-Hydroxylaminobenzoate	o-hydroxylaminobenzoate nitroreductase	2-Aminobenzoate
+R07734	o-Hydroxylaminobenzoate 	o-hydroxylaminobenzoate reductase	Anthranilate 
+r0223	o-Methylbenzoate	toluate dioxygenase	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate
+r0849	o-Nitrobenzoate	nitrobenzoate nitroreductase	o-Hydroxylaminobenzoate
+R07727	o-Nitrobenzoate 	anthraniloyl-CoA monooxygenase	o-Hydroxylaminobenzoate
+r0092	Orcinol	orcinol hydroxylase	2,3,5-Trihydroxytoluene
+r1045	Osmium dioxide	hydrogenase	Osmium
+r1044	Osmium tetroxide	hydrogenase	Osmate
+r1046	Osmium(III) chloride	hydrogenase	Osmium
+R05428	o-Toluate 	4-oxalocrotonate decarboxylase	1,2-Dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate
+R08321	Oxcarbazepine	No Kegg enzyme supplied	10-Hydroxycarbazepine
+r1557	o-Xylene	o-xylene 4,5-dioxygenase	4,5-Dimethylcatechol
+r0220	o-Xylene	xylene monooxygenase	2-Methylbenzyl alcohol
+r1554	o-Xylene	o-xylene 3,4-dioxygenase	3,4-Dimethylcatechol
+r1629	p-Acetamidophenol	p-Acetamidophenol amidohydrolase	Acetate
+r1629	p-Acetamidophenol	p-Acetamidophenol amidohydrolase	p-Aminophenol
+r0070	p-Aminophenol	4-aminophenol dehydrogenase	p-Benzoquinone
+r0067	Paraoxon	aryldialkylphosphatase	Diethylphosphoric acid
+r0067	Paraoxon	aryldialkylphosphatase	p-Nitrophenol
+R05548	Paraoxon 	aryldialkylphosphatase	4-Nitrophenol
+R00008	Parapyruvate	Lyases; Carbon-oxygen lyases; Hydro-lyases	4-Methylene-2-oxoglutarate 
+R05078	Parapyruvate	4-hydroxy-4-methyl-2-oxoglutarate aldolase	Pyruvate
+r0068	Parathion	NAD(P)H nitroreductase	Aminoparathion
+r0064	Parathion	aryldialkylphosphatase	Diethylthiophosphoric acid
+r0064	Parathion	aryldialkylphosphatase	p-Nitrophenol
+r0066	Parathion	parathion oxidoreductase	Paraoxon
+R05259	Parathion 	unspecific monooxygenase	Paraoxon
+R05421	Parathion 	aryldialkylphosphatase	4-Nitrophenol
+r1257	Paraxanthine	paraxanthine demethylase	7-Methylxanthine
+r1320	Paraxanthine	paraxanthine demethylase	1-Methylxanthine
+r1252	Paraxanthine	xanthine oxidase	1,7-Dimethyluric acid
+R05267	p-Benzenediol	Oxidoreductases; Other oxidoreductases	Chlorohydroquinone
+R05246	p-Benzenediol 	Oxidoreductases; Acting on single donors with incorporation of molecular oxygen (oxygenases); With incorporation of two atoms of oxygen	cis,cis-4-Hydroxymuconic semialdehyde
+R06851	p-Benzenediol 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; With NADH or NADPH as one donor, and incorporation of one atom of oxygen	Benzene-1,2,4-triol 
+r0227	p-Benzoquinone	p-benzoquinone reductase	Hydroquinone
+R05244	p-Benzoquinone 	p-benzoquinone reductase (NADPH)	p-Benzenediol 
+R05258	p-Benzoquinone 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; With NADH or NADPH as one donor, and incorporation of one atom of oxygen	4-Nitrophenol 
+r0395	p-Cumate	p-cumate 2,3-dioxygenase	cis-2,3-Dihydroxy-2,3-dihydro-p-cumate
+r0393	p-Cumic alcohol	p-cumic alcohol dehydrogenase	p-Cumic aldehyde
+R05232	p-Cumic alcohol 	No Kegg enzyme supplied	4-Isopropylbenzaldehyde 
+r0394	p-Cumic aldehyde	aryl-aldehyde dehydrogenase	p-Cumate
+r0392	p-Cymene	p-cymene methyl hydroxylase	p-Cumic alcohol
+r1618	p-Dihydroxyethoxyacetate	No enzyme supplied	Glycoaldehyde
+r1618	p-Dihydroxyethoxyacetate	No enzyme supplied	Glycolate
+r0313	Pentachlorophenol	pentachlorophenol 4-monooxygenase	2,3,5,6-Tetrachlorohydroquinone (TeCH)
+R03982	Pentachlorophenol 	pentachlorophenol monooxygenase	Tetrachlorohydroquinone
+r0025	Pentaerythritol tetranitrate	xenobiotic reductase	Pentaerythritol trinitrate
+r0031	Pentaerythritol trinitrate	xenobiotic reductase	Pentaerythritol dinitrate
+r0980	Perchlorate	perchlorate reductase	Chlorate
+r0731	Perillic acid	perillyl-CoA synthetase	Perillyl-CoA
+r0729	Perillyl alcohol	perillyl alcohol dehydrogenase	Perillyl aldehyde
+r0730	Perillyl aldehyde	aldehyde dehydrogenase (NAD+)	Perillic acid
+r1002	Perillyl-CoA	perillyl-CoA hydratase	2-Hydroxy-4-isopropenylcyclohexane-1-carboxyl-CoA
+r0859	Pertechnetate ion	technetium (VII) reductase	Technetium (IV) oxide
+r0492	Phenanthrene	phenanthrene 1,2-monooxygenase	Phenanthrene-1,2-oxide
+r0521	Phenanthrene	No enzyme supplied	9,10-Phenanthrenequinone
+r0495	Phenanthrene	phenanthrene 9,10-monooxygenase	Phenanthrene-9,10-oxide
+r0455	Phenanthrene	phenanthrene 3,4-dioxygenase	cis-3,4-Dihydroxy-3,4-dihydrophenanthrene
+r0508	Phenanthrene	phenanthrene 3,4-monooxygenase	Phenanthrene-3,4-oxide
+r0498	Phenanthrene	phenanthrene 1,2-monooxygenase	1-Phenanthrol
+R05653	Phenanthrene 	phenathrene dioxygenase	Phenanthrene-9,10-oxide
+r0494	Phenanthrene-1,2-oxide	No enzyme supplied	1-Phenanthrol
+r0570	Phenanthrene-1,2-oxide	No enzyme supplied	2-Phenanthrol
+r0536	Phenanthrene-1,2-oxide	phenanthrene-1,2-epoxide hydrolase	trans-1,2-Dihydrodiolphenanthrene
+R05650	Phenanthrene-3,4-diol 	Oxidoreductases; Acting on single donors with incorporation of molecular oxygen (oxygenases); With incorporation of two atoms of oxygen	2-Hydroxy-2H-benzo[h]chromene-2-carboxylate
+r0535	Phenanthrene-3,4-oxide	phenanthrene-3,4-epoxide hydrolase	trans-3,4-Dihydrodiolphenanthrene
+r0998	Phenanthrene-3,4-oxide	No enzyme supplied	3-Phenanthrol
+r0999	Phenanthrene-3,4-oxide	No enzyme supplied	4-Phenanthrol
+r0938	Phenanthrene-4,5-dicarboxylate	phenanthrene-4,5-dicarboxylate decarboxylase	Phenanthrene-4-carboxylate
+r0939	Phenanthrene-4-carboxylate	phenanthrene-4-carboxylate dioxygenase	cis-3,4-Phenanthrenedihydrodiol-4-carboxylate
+r0496	Phenanthrene-9,10-oxide	phenanthrene-9,10-epoxide hydrolase (9S,10S-forming)	trans-9(S),10(S)-Dihydrodiolphenanthrene
+R07707	Phenanthrene-9,10-oxide	No Kegg enzyme supplied	9-Hydroxyphenanthrene
+r0499	Phenanthrene-9,10-oxide	No enzyme supplied	9-Phenanthrol
+r0560	Phenanthrene-9,10-oxide	phenanthrene-9,10-epoxide hydrolase (9R,10R-forming)	trans-9R,10R-Dihydrodiolphenanthrene
+r0155	Phenol	phenylphosphate synthase	Phenylphosphate
+r0159	Phenol	4-hydroxybenzoate decarboxylase	4-Hydroxybenzoate
+r0696	Phenol	phenol 2-monooxygenase	Catechol
+R05625	Phenol 	Transferases; Transferring phosphorus-containing groups; Phosphotransferases with paired acceptors	Phenolic phosphate
+R05603	Phenolic phosphate 	Ligases; Forming carbon-carbon bonds	4-Hydroxybenzoate 
+r0035	Phenylacetaldehyde	phenylacetaldehyde dehydrogenase	Phenylacetate
+R02536	Phenylacetaldehyde 	aldehyde dehydrogenase [NAD(P)+]	Phenylacetic acid 
+r0700	Phenylacetamide	amidase	Phenylacetate
+r0036	Phenylacetate	phenylacetate hydroxylase	2-Hydroxyphenylacetate
+r0701	Phenylacetonitrile	nitrilase	Phenylacetate
+r0698	Phenylacetonitrile	nitrile hydratase	Phenylacetamide
+R07855	Phenylacetonitrile 	nitrile hydratase	2-Phenylacetamide
+r1020	Phenylboronic acid	phenylboronic acid monooxygenase	Phenol
+r0405	Phenylmercury acetate	organomercurial lyase	Acetate
+r0405	Phenylmercury acetate	organomercurial lyase	Mercury (II) and Benzene
+r0157	Phenylphosphate	phenylphosphate carboxylase	4-Hydroxybenzoate
+r0007	Phloroglucinol	phloroglucinol reductase	Dihydrophloroglucinol
+r1658	Phorate	phorate monooxygenase	Phorate sulfoxide
+r1660	Phorate	No enzyme supplied	Diethyl dithiophosphate
+r1659	Phorate sulfoxide	phorate sulfoxide monooxygenase	Phorate sulfone
+r1055	Phosphite	phosphite dehydrogenase	Phosphate
+r0102	Phthalate	phthalate 4,5-dioxygenase	Phthalate-4,5-cis-dihydrodiol
+r1444	Phthalate	phthalate 3,4-dioxygenase	Phthalate 3,4-cis-dihydrodiol
+R03630	Phthalate 	phthalate 4,5-dioxygenase	cis-4,5-Dihydroxycyclohexa-1(6),2-diene-1,2-dicarboxylate
+r1445	Phthalate 3,4-cis-dihydrodiol	phthalate 3,4-cis-dihydrodiol dehydrogenase	3,4-Dihydroxyphthalate
+r0142	Phthalate-4,5-cis-dihydrodiol	phthalate 4,5-cis-dihydrodiol dehydrogenase	4,5-Dihydroxyphthalate
+r0194	Pimeloyl-CoA	pimeloyl-CoA dehydrogenase	2,3-Didehydro-pimeloyl-CoA
+r0717	Pinocarveol	pinocarveol dehydrogenase	Pinocarvone
+r0715	Pinocarveol	pinocarveol isomerase	Carveol
+r1032	Pivalate	pivalate-CoA ligase	Pivalyl-CoA
+r1038	Pivalate	No enzyme supplied	Dimethylmalonate
+r1033	Pivalyl-CoA	pivalyl-CoA mutase	3-Methylbutyryl-CoA
+r0176	p-Methylbenzyl alcohol	benzyl alcohol dehydrogenase	p-Tolualdehyde
+r0226	p-Nitrophenol	4-nitrophenol 4-monooxygenase	p-Benzoquinone
+r0230	p-Nitrophenol	4-nitrophenol 2-monooxygenase	4-Nitrocatechol
+R05298	Propanal 	4-hydroxy-2-oxovalerate aldolase	4-Hydroxy-2-oxohexanoic acid
+R05509	Propenoate 	glutaconate CoA-transferase	Propenoyl-CoA
+R05551	Propenoate 	amidase	Acrylamide 
+r0856	Propylene	alkene monooxygenase	(R)-1,2-Epoxypropane
+r0857	Propylene	alkene monooxygenase	(S)-1,2-Epoxypropane
+R05510	Protoanemonin 	carboxymethylenebutenolidase	cis-Acetylacrylate
+r0177	p-Tolualdehyde	benzaldehyde dehydrogenase	p-Toluate
+R05289	p-Tolualdehyde 	benzaldehyde dehydrogenase (NADP+)	Toluate 
+r0178	p-Toluate	benzoate 1,2-dioxygenase	4-Methylcyclohexa-3,5-diene-1,2-cis-diol-1-carboxylic acid
+r0168	p-Xylene	xylene monooxygenase	p-Methylbenzyl alcohol
+r1560	p-Xylene	p-xylene dioxygenase	3,6-Dimethylcatechol
+R05288	p-Xylene 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; With NADH or NADPH as one donor, and incorporation of one atom of oxygen	4-Methylbenzyl alcohol 
+r0941	Pyrene	pyrene 4,5-monooxygenase	Pyrene-4,5-oxide
+r0934	Pyrene	pyrene 1,2-monooxygenase	Pyrene-1,2-oxide
+r0943	Pyrene	pyrene dioxygenase	cis-4,5-Dihydroxy-4,5-dihydropyrene
+r0944	Pyrene-1,2-oxide	No enzyme supplied	2-Hydroxypyrene
+r0945	Pyrene-1,2-oxide	No enzyme supplied	1-Hydroxypyrene
+r0942	Pyrene-4,5-oxide	pyrene-4,5-epoxide hydrolase	trans-4,5-Dihydroxy-4,5-dihydropyrene
+r1398	Pyridine-3,4-diol	pyridine-3,4-diol dioxygenase	3-(N-Formyl)-formiminopyruvate
+r1519	Pyridoxal	pyridoxal oxidase	4-Pyridoxate
+r1517	Pyridoxal	pyridoxal 4-dehydrogenase	4-Pyridoxolactone
+r1479	Pyridoxamine	pyridoxamine-pyruvate transaminase	Pyridoxal
+r1525	Pyridoxine	pyridoxine 5-dehydrogenase	Isopyridoxal
+r1516	Pyridoxine	pyridoxine 4-dehydrogenase	Pyridoxal
+r0006	Pyrogallol	pyrogallol hydroxyltransferase	Phloroglucinol
+r0970	Pyrrole-2-carboxylate	pyrrole-2-carboxylate decarboxylase	Pyrrole
+r0968	Pyrrole-2-carboxylate	pyrrole-2-carboxylate monooxygenase	5-Hydroxypyrrole-2-carboxylate
+R05298	Pyruvate 	4-hydroxy-2-oxovalerate aldolase	4-Hydroxy-2-oxohexanoic acid
+R05136	Pyruvate 	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	trans-O-Hydroxybenzylidenepyruvate 
+R00750	Pyruvate 	4-hydroxy-2-oxovalerate aldolase	4-Hydroxy-2-oxopentanoate
+r0891	Quercetin	quercetin 2,3-dioxygenase	2-Protocatechoylphloroglucinolcarboxylate
+r1471	Quinaldine	quinaldine 4-oxidase	1H-4-Oxoquinaldine
+r0233	Resorcinol	phenol 2-monooxygenase	1,2,4-Benzenetriol
+R07118	S-(2-Hydroxyethyl)glutathione	No Kegg enzyme supplied	S-(2-Hydroxyethyl)-N-acetyl-L-cysteine
+R07114	S-(Formylmethyl)glutathione	No Kegg enzyme supplied	S-(2-Hydroxyethyl)glutathione
+R07115	S-(Formylmethyl)glutathione	No Kegg enzyme supplied	Thiodiacetic acid
+R07120	S-(Formylmethyl)glutathione	No Kegg enzyme supplied	Thiodiacetic acid sulfoxide
+R05609	S-1,5-Cyclohexadiene-1-carboxylate coenzymeA	No Kegg enzyme supplied	Cyclohex-1,4-diene-1-carboxyl-CoA
+R05610	S-1,5-Cyclohexadiene-1-carboxylate coenzymeA	No Kegg enzyme supplied	Cyclohex-2,5-diene-1-carboxyl-CoA
+R05597	S-1,5-Cyclohexadiene-1-carboxylate coenzymeA 	cyclohexa-1,5-dienecarbonyl-CoA hydratase	6-Hydroxycyclohex-1-enecarbonyl-CoA
+r1667	Saccharin	saccharin dioxygenase	Catechol
+r0339	Salicylaldehyde	salicylaldehyde dehydrogenase	Salicylate
+R02941	Salicylaldehyde 	Lyases; Carbon-oxygen lyases; Hydro-lyases	trans-O-Hydroxybenzylidenepyruvate 
+r1034	Salicylate	salicylate 5-hydroxylase	Gentisate
+r0340	Salicylate	salicylate hydroxylase	Catechol
+R07709	Salicylate 	salicylate 5-hydroxylase	2,5-Dihydroxybenzoate 
+R02451	S-Benzoate coenzyme A  	benzoyl-CoA reductase	S-1,5-Cyclohexadiene-1-carboxylate coenzymeA
+r0828	Selenate	selenate reductase	Selenite
+r0830	Selenite	No enzyme supplied	Selenodiglutathione
+r0831	Selenodiglutathione	No enzyme supplied	Glutathionyl selenide anion
+r0241	S-Formylglutathione	S-formylglutathione hydrolase	Formate
+r1146	S-Hydroxymethylglutathione	S-(hydroxymethyl)glutathione dehydrogenase	S-Formylglutathione
+R08259	SN-38	glucuronosyltransferase	SN38 glucuronide
+R08260	SN38 glucuronide 	beta-glucuronidase	SN-38
+r0225	Styrene	styrene monooxygenase	Styrene oxide
+r0256	Styrene	styrene dioxygenase	Styrene cis-glycol
+r0257	Styrene cis-glycol	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	3-Vinylcatechol
+r0034	Styrene oxide	styrene oxide isomerase	Phenylacetaldehyde
+R00412	Succinate 	succinate dehydrogenase	Fumarate
+r0371	Succinic semialdehyde	succinic semialdehyde dehydrogenase	Succinate
+R00829	Succinyl-CoA	acetyl-CoA C-acyltransferase	3-Oxoadipyl-CoA
+r1458	Sulfanilamide	sulfanilamide hydrolase	4-Aminobenzenesulfonate
+r0609	Sulfide	No enzyme supplied	Thiosulfate
+r1632	Syringate	tetrahydrofolate-dependent O-demethylase (anaerobic)	3-O-Methylgallate
+R08268	Tamoxifen	unspecific monooxygenase	N-Desmethyltamoxifen
+R08266	Tamoxifen 	unspecific monooxygenase	alpha-Hydroxytamoxifen 
+R08267	Tamoxifen 	unspecific monooxygenase	Hydroxytamoxifen 
+R08271	Tamoxifen 	flavin-containing monooxygenase	Tamoxifen N-oxide 
+R07102	TCE epoxide	No Kegg enzyme supplied	Dichloroacetyl chloride
+R08225	Tegafur 	unspecific monooxygenase	5-FU
+R08225	Tegafur 	unspecific monooxygenase	Succinic aldehyde
+r0321	Terephthalate	terephthalate decarboxylase	Benzoate
+r0150	Terephthalate	terephthalate 1,2-dioxygenase	Terephthalate-1,2-cis-dihydrodiol
+R05148	Terephthalate 	terephthalate 1,2-dioxygenase	(3S,4R)-3,4-Dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate
+r0151	Terephthalate-1,2-cis-dihydrodiol	terephthalate 1,2-cis-dihydrodiol dehydrogenase	3,4-Dihydroxybenzoate
+r0615	tert-Butyl alcohol	alkane 1-monooxygenase	2-Methyl-2-hydroxy-1-propanol
+r1025	tert-Butyl formate	carboxylesterase	Formate
+r1025	tert-Butyl formate	carboxylesterase	tert-Butyl alcohol
+r1147	Testosterone	beta-hydroxysteroid dehydrogenase	Androst-4-ene-3,17-dione
+r1284	Testosterone	3-ketosteroid-delta1-dehydrogenase	17beta-Hydroxyandrosta-1,4-diene-3-one
+R06876	Tetrabromobisphenol A	3,3',5,5'-tetrabromobisphenol A reductive dehalogenas	Tribromobisphenol A
+r0801	Tetrachlorocatechol	catechol 1,2-dioxygenase	Tetrachloro-cis,cis-muconate
+r0802	Tetrachloro-cis,cis-muconate	chloromuconate cycloisomerase	2,3,5-Trichlorodienelactone
+r0349	Tetrachloroethene	tetrachloroethene reductive dehalogenase	1,1,2-Trichloroethylene
+R05499	Tetrachloroethene 	tetrachloroethene reductive dehalogenase	Trichloroethene
+R05402	Tetrachlorohydroquinone 	tetrachloro-p-hyrodoquinone reductive dehalogenase	2,3,6-Trichlorohydroquinone
+r0017	Tetrahydrofuran	tetrahydrofuran hydroxylase	2-Hydroxytetrahydrofuran
+R06901	Tetralin	tetralin ring-hydroxylating dioxygenase	cis-1,2-Dihydroxy-1,2,5,6,7,8-hexahydronaphthalene
+r1169	Tetralin	No Kegg enzyme supplied	5,6,7,8-Tetrahydro-2-naphthoic acid
+r1175	Tetralin	camphor 5-monooxygenase	(R)-1,2,3,4-Tetrahydronaphthol
+r1319	Theobromine	theobromine demethylase	3-Methylxanthine
+r1248	Theobromine	theobromine demethylase	7-Methylxanthine
+r1250	Theobromine	xanthine oxidase	3,7-Dimethyluric acid
+r1325	Theophylline	theophylline demethylase	3-Methylxanthine
+r1327	Theophylline	theophylline demethylase	1-Methylxanthine
+r1461	Thiamin	No enzyme supplied	5-Hydroxy-3-sulfanylpentan-2-one
+r1461	Thiamin	No enzyme supplied	Formylaminopyrimidine
+r1312	Thioacetamide	thioacetamide S-oxygenase	Thioacetamide S-oxide
+r1314	Thioacetamide S,S-dioxide	No enzyme supplied	Acetonitrile
+r1313	Thioacetamide S-oxide	thioacetamide S-oxide S-oxygenase	Thioacetamide S,S-dioxide
+r1311	Thiobenzamide	ethionamide monooxygenase	Thiobenzamide S-oxide
+r1317	Thiobenzamide S,S-dioxide	No enzyme supplied	Benzonitrile
+r1316	Thiobenzamide S-oxide	ethionamide monooxygenase	Thiobenzamide S,S-dioxide
+r0606	Thiocyanate	No enzyme supplied	Sulfide
+r0598	Thiocyanate	thiocyanate hydrolase	Carbonyl sulfide
+r0606	Thiocyanate	No enzyme supplied	Cyanate
+R08245	Thioguanine	hypoxanthine phosphoribosyltransferase	6-Thioguanosine monophosphate
+r1234	Thiophene-2-carboxylate	thiophene-2-carboxylate-CoA ligase	Thiophene-2-carboxyl-CoA
+r1282	Thiophene-2-carboxylate	No enzyme supplied	Tetrahydrothiophene-2-carboxylate
+r1283	Thiophene-2-carboxylate	No enzyme supplied	3-Hydroxytetrahydrothiophene-2-carboxylate
+r1235	Thiophene-2-carboxyl-CoA	thiophene-2-carboxyl-CoA monooxygenase	5-Oxo-4,5-dihydrothiophene-2-carboxyl-CoA
+r0610	Thiosulfate	No enzyme supplied	Tetrathionate
+r1070	TNP Dihydride Meisenheimer complex (aci form)	dihydride TNP tautomerase	TNP Dihydride Meisenheimer complex (nitro form)
+r1067	TNP Dihydride Meisenheimer complex (aci form)	TNP dihydride denitratase	2,4-DNP Hydride Meisenheimer complex
+r1448	TNP Hydride Meisenheimer complex	TNP hydride denitratase	2,4-Dinitrophenol
+r1066	TNP Hydride Meisenheimer complex	hydride transferase 1	TNP Dihydride Meisenheimer complex (aci form)
+R05290	Toluate 	Oxidoreductases; Acting on paired donors with incorporation of molecular oxygen; With NADH or NADPH as one donor, and incorporation of one atom of oxygen	cis-1,2-Dihydroxy-4-methylcyclohexa-3,5-diene-1-carboxylate
+r0265	Toluene	xylene monooxygenase	Benzyl alcohol
+r0255	Toluene	toluene 4-monooxygenase	4-Hydroxytoluene
+r0270	Toluene	toluene 3-monooxygenase	3-Hydroxytoluene
+r0328	Toluene	benzylsuccinate synthase	Benzylsuccinate
+R05666	Toluene	No Kegg enzyme supplied	4-Cresol
+r0260	Toluene	toluene 2-monooxygenase	2-Hydroxytoluene
+r0253	Toluene	toluene dioxygenase	Toluene-cis-1,2-dihydrodiol
+R03559	Toluene 	toluene dioxygenase	Toluene-cis-dihydrodiol 
+R03562	Toluene 	phenol 2-monooxygenase	3-Cresol 
+R03560	Toluene 	phenol 2-monooxygenase	o-Cresol 
+R05598	Toluene  	benzylsuccinate synthase	Benzylsuccinate
+r0290	Toluene-4-sulfonate	toluenesulfonate methyl-monooxygenase	4-Sulfobenzyl alcohol
+r0296	Toluene-4-sulfonate	toluene-4-sulfonate monooxygenase	4-Hydroxytoluene
+r0294	Toluene-4-sulfonate	2-aminobenzenesulfonate dioxygenase	4-Methylcatechol
+R07663	Toluene-4-sulfonate 	toluene-4-sulfonate monooxygenase	4-Cresol 
+r0254	Toluene-cis-1,2-dihydrodiol	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	3-Methylcatechol
+R04088	Toluene-cis-dihydrodiol 	cis-1,2-dihydrobenzene-1,2-diol dehydrogenase	2,3-Dihydroxytoluene 
+r0366	trans,cis-5-Carboxymethyl-2-hydroxymuconate	5-carboxymethyl-2-hydroxymuconate isomerase	cis-5-Carboxymethyl-2-oxohex-3-ene-1,6-dioate
+r0365	trans,cis-5-Carboxymethyl-2-hydroxymuconate semialdehyde	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase	trans,cis-5-Carboxymethyl-2-hydroxymuconate
+R03279	trans-1,2-Cyclohexanediol 	cyclohexane-1,2-diol dehydrogenase	2-Hydroxycyclohexan-1-one 
+r0933	trans-1,2-Dichloroethene	1,2-dichloroethene reductive dehalogenase	Vinyl chloride
+r0574	trans-1,2-Dihydrodiolphenanthrene	trans-1,2-dihydrodiolphenanthrene dehydrogenase	1,2-Dihydroxyphenanthrene
+r0524	trans-1,2-Dihydrodiolphenanthrene	No enzyme supplied	1-Phenanthrol
+r0686	trans-1,3-Dichloropropene	haloalkane dehalogenase	trans-3-Chloro-2-propene-1-ol
+r0487	trans-2'-Carboxybenzalpyruvate	cis-2'-carboxybenzalpyruvate hydratase-aldolase	2-Carboxybenzaldehyde
+r0487	trans-2'-Carboxybenzalpyruvate	cis-2'-carboxybenzalpyruvate hydratase-aldolase	Pyruvate
+R05392	trans-2-Chloro-4-carboxymethylenebut-2-en-1,4-olide	chloromuconate cycloisomerase	2,5-Dichloro-cis,cis-muconate
+r0278	trans-2-Chlorodienelactone	2-chlorodienlactone isomerase	cis-2-Chlorodienelactone
+r0745	trans-2-Methyl-5-isopropylhexa-2,5-dienal	trans-2-methyl-5-isopropylhexa-2,5-dienal dehydrogenase	trans-2-Methyl-5-isopropylhexa-2,5-dienoic acid
+r0989	trans-2-Methyl-5-isopropylhexa-2,5-dienoic acid	trans-2-methyl-5-isopropylhexa-2,5-dienoate-CoA ligase	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA
+r0992	trans-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA	enoyl-CoA hydratase	3-Hydroxy-2,6-dimethyl-5-methylene-heptanoyl-CoA
+r0558	trans-3,4-Dihydrodiolphenanthrene	trans-3,4-dihydrodiolphenanthrene sulfotransferase	Phenanthrene-3,4-dihydrodiolsulfate conjugate
+r1000	trans-3,4-Dihydrodiolphenanthrene	No enzyme supplied	3-Phenanthrol
+r1001	trans-3,4-Dihydrodiolphenanthrene	No enzyme supplied	4-Phenanthrol
+r0690	trans-3-Chloro-2-propene-1-ol	alcohol dehydrogenase	trans-3-Chloroallyl aldehyde
+r0689	trans-3-Chloroacrylic acid	trans-3-chloroacrylic acid dehalogenase	Malonate semialdehyde
+R05371	trans-3-Chloroacrylic acid 	Hydrolases; Acting on halide bonds; In C-halide compounds	3-Oxopropanoate
+r0692	trans-3-Chloroallyl aldehyde	aldehyde dehydrogenase	trans-3-Chloroacrylic acid
+r0484	trans-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate	trans-4-(1'-hydroxynaphth-2'-yl)-2-oxobut-3-enoate hydratase-aldolase	1-Hydroxy-2-naphthaldehyde
+r0484	trans-4-(1'-Hydroxynaphth-2'-yl)-2-oxobut-3-enoate	trans-4-(1'-hydroxynaphth-2'-yl)-2-oxobut-3-enoate hydratase-aldolase	Pyruvate
+r0164	trans-4-[2-(3-Hydroxy)-thionaphthenyl]-2-oxo-3-butenoate	trans-4-[2-(3-hydroxy)-thionaphthenyl]-2-oxo-3-butenoate hydratase-aldolase	3-Hydroxy-2-formylbenzothiophene
+r0164	trans-4-[2-(3-Hydroxy)-thionaphthenyl]-2-oxo-3-butenoate	trans-4-[2-(3-hydroxy)-thionaphthenyl]-2-oxo-3-butenoate hydratase-aldolase	Pyruvate
+r0810	trans-4-Amino-6-carboxy-2-oxo-hexa-3,5-dienoate	trans-ACOHDA hydrolase	Fumarylpyruvate
+r0110	trans-4-Carboxymethylenebut-2-en-4-olide	dienelactone hydrolase	Maleylacetate
+R06838	trans-4-Carboxymethylenebut-2-en-4-olide 	carboxymethylenebutenolidase	2-Maleylacetate
+r0497	trans-9(S),10(S)-Dihydrodiolphenanthrene	No Kegg enzyme supplied	9-Hydroxyphenanthrene 
+r0497	trans-9(S),10(S)-Dihydrodiolphenanthrene	No enzyme supplied	9-Phenanthrol
+r0575	trans-9R,10R-Dihydrodiolphenanthrene	trans-9R,10R-dihydrodiolphenanthrene dehydrogenase	9,10-Dihydroxyphenanthrene
+r0559	trans-9R,10R-Dihydrodiolphenanthrene	No enzyme supplied	Phenanthrene-9,10-dihydrodiolsulfate conjugate
+r1310	trans-Geranyl-CoA	trans-geranyl-CoA isomerase	cis-Geranyl-CoA
+r0338	trans-O-Hydroxybenzylidenepyruvate	Isomerases; Intramolecular oxidoreductases; Other intramolecular oxidoreductases	2-Hydroxychromene-2-carboxylate
+r0338	trans-o-Hydroxybenzylidenepyruvate	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	Pyruvate
+R05137	trans-o-Hydroxybenzylidenepyruvate	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	Salicylaldehyde
+R06877	Tribromobisphenol A	3,3',5-tribromobisphenol A reductive dehalogenas	Dibromobisphenol A
+r0385	Trichloroacetate	No enzyme supplied	Carbon Dioxide
+R07123	Trichloroacetate	No Kegg enzyme supplied	Dichloroacetate
+r0382	Trichloroacetate	DL-2-haloacid dehalogenase	Oxalate
+R07107	Trichloroethanol 	unspecific monooxygenase	Trichloroacetate 
+R07106	Trichloroethanol 	glucuronosyltransferase	Trichloroethanol glucuronide
+R07100	Trichloroethene	glutathione transferase	S-(1,2-Dichlorovinyl)glutathione 
+R07099	Trichloroethene 	unspecific monooxygenase	Chloral 
+R05501	Trichloroethene 	tetrachloroethene reductive dehalogenase	cis-1,2-Dichloroethene
+R07098	Trichloroethene 	unspecific monooxygenase	TCE epoxide 
+R05500	Trichloroethene 	tetrachloroethene reductive dehalogenase	trans-1,2-Dichloroethene
+r0905	Trichloroethylene epoxide	No enzyme supplied	Dichloroacetate
+r0906	Trichloroethylene epoxide	No enzyme supplied	Carbon Monoxide
+r0907	Trichloroethylene epoxide	No enzyme supplied	Glyoxylate
+r0908	Trichloroethylene epoxide	No enzyme supplied	Formate
+r0659	Triethanolamine	triethanolamine lyase	Acetaldehyde
+r0659	Triethanolamine	triethanolamine lyase	Diethanolamine
+r0879	Trifluoroacetate	Enzyme record not found	Difluoroacetate
+r0882	Trifluoroacetate	Enzyme record not found	Fluoroform
+r1378	Trimethylamine	trimethylamine dehydrogenase	Dimethylamine
+r1378	Trimethylamine	trimethylamine dehydrogenase	Formaldehyde
+r1407	Trimethylamine	trimethylamine monooxygenase	Trimethylamine N-oxide
+r1409	Trimethylamine N-oxide	trimethylamine N-oxide demethylase	Dimethylamine
+r1409	Trimethylamine N-oxide	trimethylamine N-oxide demethylase	Formaldehyde
+r0807	Trimethylarsine oxide	trimethylarsine oxidase	Trimethylarsine
+r0643	Tri-n-butyltin (TBT)	TBT dioxygenase	beta-Hydroxybutyldibutyltin
+R08014	Trinitrotoluene 	nitroreductase	2-Hydroxylamino-4,6-dinitrotoluene
+R08017	Trinitrotoluene 	nitrobenzene nitroreductase	4-Hydroxylamino-2,6-dinitrotoluene
+r0789	Triphenyltin	No enzyme supplied	Benzene
+r0789	Triphenyltin	No enzyme supplied	Diphenyltin
+R08261	UDP-glucuronate	glucuronosyltransferase	Codeine-6-glucuronide
+R08263	UDP-glucuronate	glucuronosyltransferase	Morphine-6-glucuronide
+r0516	unsym-bis(4'-Chlorophenyl)ethylene (DDNU)	Enzyme record not found	2,2-bis(4'-Chlorophenyl)ethanol (DDOH)
+r0761	Uranyl ion	cytochrome-c3 hydrogenase	Uraninite
+r0793	Uranyl ion	acid phosphatase N	Hydrogen uranyl phosphate
+R00778	Urea	cyanamide hydratase	Cyanamide 
+r0120	Urea	urease	Carbon Dioxide
+R00131	Urea 	urease	Ammonia
+R00005	Urea-1-carboxylate 	allophanate hydrolase	Carbon Dioxide
+R08324	Valproic acid	unspecific monooxygenase	2-n-Propyl-4-pentenoic acid
+R08336	Valproic acid	No Kegg enzyme supplied	2-n-Propyl-2-pentenoic acid
+R08337	Valproic acid	No Kegg enzyme supplied	2-n-Propyl-3-pentenoic acid
+R08327	Valproic acid 	unspecific monooxygenase	3-Hydroxyvalproic acid 
+R08325	Valproic acid 	unspecific monooxygenase	4-Hydroxyvalproic acid 
+R08326	Valproic acid 	unspecific monooxygenase	5-Hydroxyvalproic acid 
+r0146	Vanillate	vanillate monooxygenase	3,4-Dihydroxybenzoate
+r0146	Vanillate	vanillate monooxygenase	Formaldehyde
+r0145	Vanillin	vanillin dehydrogenase	Vanillate
+r0651	Vanillyl alcohol	vanillyl-alcohol oxidase	Vanillin
+r0352	Vinyl chloride	vinyl chloride reductive dehalogenase	Ethylene
+r0697	Z-Phenylacetaldoxime	phenylacetaldoxime dehydratase	Phenylacetonitrile
+R05238	cis-3-Chloroallyl aldehyde	aldehyde dehydrogenase (NAD+)	cis-3-Chloroacrylic acid
+R05237	trans-3-Chloroallyl aldehyde	aldehyde dehydrogenase (NAD+)	trans-3-Chloroacrylic acid
