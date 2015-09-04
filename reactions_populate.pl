@@ -16,9 +16,9 @@ use DBI;
 use lib '/usr/lib/perl5/site_perl/5.8.8/i386-linux-thread-multi/DBD/mysql.pm';
 
 #connect to the database
-my $ds = "DBI:mysql:eMBR_helper:localhost";
+my $ds = "DBI:mysql:xxxxx:localhost";#replace xxxx with database name
 my $user = "root";
-my $passwd = "S952pa74lkp";
+my $passwd = "xxxxxx"; #replace xxxx with appropriate password
 
 #dbase handle
 my $dbh = DBI->connect($ds,$user,$passwd) || die "Cannot connect to database!!";
