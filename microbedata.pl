@@ -18,9 +18,9 @@ $Text::Wrap::columns = 60;
 
 
 #connect to the database
-my $ds = "DBI:mysql:eMBR_helper:localhost";
+my $ds = "DBI:mysql:xxxxx:localhost";#replace xxxx with database name
 my $user = "root";
-my $passwd = "S952pa74lkp";
+my $passwd = "xxxxxx"; #replace xxxx with appropriate password
 
 my $dbh = DBI->connect($ds,$user,$passwd) || die "Cannot connect to database!!";
 
